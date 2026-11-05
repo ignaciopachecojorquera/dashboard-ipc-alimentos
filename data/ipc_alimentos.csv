@@ -1,0 +1,3566 @@
+fecha,categoria,tipo,indice,var_anual
+2002-01,IPC general,referencia,58.717,3.1
+2002-01,Alimentación y bebidas,total,49.796,4.4
+2002-01,Pan y cereales,producto,52.002,4.7
+2002-01,Carne,producto,54.104,3.7
+2002-01,Pescado y marisco,producto,51.243,1.7
+2002-01,Lácteos y huevos,producto,54.748,4.9
+2002-01,Aceites y grasas,producto,40.299,9.9
+2002-01,Frutas,producto,37.233,9.5
+2002-01,Hortalizas y legumbres,producto,43.055,6.7
+2002-01,Azúcar y dulces,producto,53.225,2.7
+2002-01,Alimentos preparados,producto,57.635,2.5
+2002-01,Bebidas no alcohólicas,producto,50.305,-0.2
+2002-02,IPC general,referencia,58.768,3.1
+2002-02,Alimentación y bebidas,total,49.779,4.5
+2002-02,Pan y cereales,producto,52.05,4.8
+2002-02,Carne,producto,53.512,1.5
+2002-02,Pescado y marisco,producto,50.693,4.2
+2002-02,Lácteos y huevos,producto,54.794,4.1
+2002-02,Aceites y grasas,producto,40.755,12.3
+2002-02,Frutas,producto,37.578,10.1
+2002-02,Hortalizas y legumbres,producto,44.257,10.1
+2002-02,Azúcar y dulces,producto,53.387,2.4
+2002-02,Alimentos preparados,producto,57.847,2.7
+2002-02,Bebidas no alcohólicas,producto,50.354,0.2
+2002-03,IPC general,referencia,59.253,3.1
+2002-03,Alimentación y bebidas,total,50.042,4.3
+2002-03,Pan y cereales,producto,52.172,4.7
+2002-03,Carne,producto,53.678,-0.3
+2002-03,Pescado y marisco,producto,50.484,3.5
+2002-03,Lácteos y huevos,producto,54.921,3.9
+2002-03,Aceites y grasas,producto,41.53,16.1
+2002-03,Frutas,producto,37.859,9.9
+2002-03,Hortalizas y legumbres,producto,45.603,13.0
+2002-03,Azúcar y dulces,producto,53.621,2.6
+2002-03,Alimentos preparados,producto,58.158,3.6
+2002-03,Bebidas no alcohólicas,producto,50.6,0.6
+2002-04,IPC general,referencia,60.058,3.6
+2002-04,Alimentación y bebidas,total,50.367,4.7
+2002-04,Pan y cereales,producto,52.219,4.5
+2002-04,Carne,producto,53.85,0.1
+2002-04,Pescado y marisco,producto,50.84,4.0
+2002-04,Lácteos y huevos,producto,55.301,4.3
+2002-04,Aceites y grasas,producto,42.679,19.7
+2002-04,Frutas,producto,38.132,9.6
+2002-04,Hortalizas y legumbres,producto,46.481,13.9
+2002-04,Azúcar y dulces,producto,53.746,2.7
+2002-04,Alimentos preparados,producto,58.205,3.7
+2002-04,Bebidas no alcohólicas,producto,50.694,0.9
+2002-05,IPC general,referencia,60.274,3.6
+2002-05,Alimentación y bebidas,total,50.585,4.7
+2002-05,Pan y cereales,producto,52.468,4.7
+2002-05,Carne,producto,54.014,-0.1
+2002-05,Pescado y marisco,producto,51.117,6.1
+2002-05,Lácteos y huevos,producto,55.487,4.1
+2002-05,Aceites y grasas,producto,43.261,20.0
+2002-05,Frutas,producto,38.346,8.7
+2002-05,Hortalizas y legumbres,producto,46.657,11.3
+2002-05,Azúcar y dulces,producto,53.991,2.8
+2002-05,Alimentos preparados,producto,58.163,3.7
+2002-05,Bebidas no alcohólicas,producto,50.774,0.9
+2002-06,IPC general,referencia,60.277,3.4
+2002-06,Alimentación y bebidas,total,50.715,4.7
+2002-06,Pan y cereales,producto,52.692,5.1
+2002-06,Carne,producto,54.021,0.3
+2002-06,Pescado y marisco,producto,51.472,6.9
+2002-06,Lácteos y huevos,producto,55.559,3.9
+2002-06,Aceites y grasas,producto,43.366,19.2
+2002-06,Frutas,producto,38.674,8.1
+2002-06,Hortalizas y legumbres,producto,46.308,8.7
+2002-06,Azúcar y dulces,producto,54.076,2.8
+2002-06,Alimentos preparados,producto,58.342,3.7
+2002-06,Bebidas no alcohólicas,producto,51.194,1.9
+2002-07,IPC general,referencia,59.858,3.4
+2002-07,Alimentación y bebidas,total,50.926,4.6
+2002-07,Pan y cereales,producto,52.775,5.0
+2002-07,Carne,producto,54.464,0.6
+2002-07,Pescado y marisco,producto,51.855,6.3
+2002-07,Lácteos y huevos,producto,55.66,4.1
+2002-07,Aceites y grasas,producto,43.395,18.4
+2002-07,Frutas,producto,38.79,7.6
+2002-07,Hortalizas y legumbres,producto,46.323,7.7
+2002-07,Azúcar y dulces,producto,54.203,2.7
+2002-07,Alimentos preparados,producto,58.351,3.5
+2002-07,Bebidas no alcohólicas,producto,51.37,2.2
+2002-08,IPC general,referencia,60.03,3.6
+2002-08,Alimentación y bebidas,total,51.167,4.6
+2002-08,Pan y cereales,producto,52.88,4.6
+2002-08,Carne,producto,55.026,0.7
+2002-08,Pescado y marisco,producto,52.338,6.0
+2002-08,Lácteos y huevos,producto,55.71,4.0
+2002-08,Aceites y grasas,producto,43.376,17.5
+2002-08,Frutas,producto,39.017,7.7
+2002-08,Hortalizas y legumbres,producto,46.211,9.2
+2002-08,Azúcar y dulces,producto,54.36,3.1
+2002-08,Alimentos preparados,producto,58.315,3.1
+2002-08,Bebidas no alcohólicas,producto,51.405,2.2
+2002-09,IPC general,referencia,60.255,3.5
+2002-09,Alimentación y bebidas,total,51.436,4.8
+2002-09,Pan y cereales,producto,53.129,4.6
+2002-09,Carne,producto,55.793,1.5
+2002-09,Pescado y marisco,producto,52.486,5.0
+2002-09,Lácteos y huevos,producto,55.766,3.5
+2002-09,Aceites y grasas,producto,43.416,16.7
+2002-09,Frutas,producto,39.248,7.9
+2002-09,Hortalizas y legumbres,producto,46.066,11.2
+2002-09,Azúcar y dulces,producto,54.62,3.6
+2002-09,Alimentos preparados,producto,58.545,3.3
+2002-09,Bebidas no alcohólicas,producto,51.408,2.4
+2002-10,IPC general,referencia,60.851,4.0
+2002-10,Alimentación y bebidas,total,51.53,5.1
+2002-10,Pan y cereales,producto,53.207,4.2
+2002-10,Carne,producto,55.879,2.8
+2002-10,Pescado y marisco,producto,52.483,6.0
+2002-10,Lácteos y huevos,producto,55.802,3.0
+2002-10,Aceites y grasas,producto,43.513,14.8
+2002-10,Frutas,producto,39.558,8.0
+2002-10,Hortalizas y legumbres,producto,46.183,11.6
+2002-10,Azúcar y dulces,producto,54.931,4.0
+2002-10,Alimentos preparados,producto,58.438,3.0
+2002-10,Bebidas no alcohólicas,producto,51.423,2.3
+2002-11,IPC general,referencia,60.946,3.9
+2002-11,Alimentación y bebidas,total,51.605,4.9
+2002-11,Pan y cereales,producto,53.324,4.0
+2002-11,Carne,producto,55.705,2.7
+2002-11,Pescado y marisco,producto,52.841,6.7
+2002-11,Lácteos y huevos,producto,55.819,2.4
+2002-11,Aceites y grasas,producto,43.48,10.7
+2002-11,Frutas,producto,39.836,8.0
+2002-11,Hortalizas y legumbres,producto,46.318,12.1
+2002-11,Azúcar y dulces,producto,55.125,4.0
+2002-11,Alimentos preparados,producto,58.603,2.5
+2002-11,Bebidas no alcohólicas,producto,51.332,2.2
+2002-12,IPC general,referencia,61.148,4.0
+2002-12,Alimentación y bebidas,total,51.93,4.6
+2002-12,Pan y cereales,producto,53.606,3.7
+2002-12,Carne,producto,55.726,2.0
+2002-12,Pescado y marisco,producto,54.108,6.2
+2002-12,Lácteos y huevos,producto,56.149,2.8
+2002-12,Aceites y grasas,producto,43.518,8.8
+2002-12,Frutas,producto,40.181,8.6
+2002-12,Hortalizas y legumbres,producto,46.483,11.2
+2002-12,Azúcar y dulces,producto,55.159,4.1
+2002-12,Alimentos preparados,producto,58.515,1.6
+2002-12,Bebidas no alcohólicas,producto,51.369,2.0
+2003-01,IPC general,referencia,60.896,3.7
+2003-01,Alimentación y bebidas,total,52.214,4.9
+2003-01,Pan y cereales,producto,54.076,4.0
+2003-01,Carne,producto,55.606,2.8
+2003-01,Pescado y marisco,producto,55.111,7.5
+2003-01,Lácteos y huevos,producto,56.57,3.3
+2003-01,Aceites y grasas,producto,43.58,8.1
+2003-01,Frutas,producto,40.551,8.9
+2003-01,Hortalizas y legumbres,producto,46.055,7.0
+2003-01,Azúcar y dulces,producto,55.334,4.0
+2003-01,Alimentos preparados,producto,58.832,2.1
+2003-01,Bebidas no alcohólicas,producto,51.982,3.3
+2003-02,IPC general,referencia,61.026,3.8
+2003-02,Alimentación y bebidas,total,52.039,4.5
+2003-02,Pan y cereales,producto,54.293,4.3
+2003-02,Carne,producto,55.29,3.3
+2003-02,Pescado y marisco,producto,53.426,5.4
+2003-02,Lácteos y huevos,producto,56.729,3.5
+2003-02,Aceites y grasas,producto,43.647,7.1
+2003-02,Frutas,producto,40.871,8.8
+2003-02,Hortalizas y legumbres,producto,46.087,4.1
+2003-02,Azúcar y dulces,producto,55.674,4.3
+2003-02,Alimentos preparados,producto,58.804,1.7
+2003-02,Bebidas no alcohólicas,producto,52.494,4.3
+2003-03,IPC general,referencia,61.449,3.7
+2003-03,Alimentación y bebidas,total,52.225,4.4
+2003-03,Pan y cereales,producto,54.51,4.5
+2003-03,Carne,producto,55.584,3.6
+2003-03,Pescado y marisco,producto,53.315,5.6
+2003-03,Lácteos y huevos,producto,56.819,3.5
+2003-03,Aceites y grasas,producto,43.606,5.0
+2003-03,Frutas,producto,41.24,8.9
+2003-03,Hortalizas y legumbres,producto,46.196,1.3
+2003-03,Azúcar y dulces,producto,56.285,5.0
+2003-03,Alimentos preparados,producto,58.999,1.4
+2003-03,Bebidas no alcohólicas,producto,52.799,4.3
+2003-04,IPC general,referencia,61.949,3.1
+2003-04,Alimentación y bebidas,total,52.246,3.7
+2003-04,Pan y cereales,producto,54.614,4.6
+2003-04,Carne,producto,55.354,2.8
+2003-04,Pescado y marisco,producto,53.113,4.5
+2003-04,Lácteos y huevos,producto,56.853,2.8
+2003-04,Aceites y grasas,producto,43.469,1.9
+2003-04,Frutas,producto,41.442,8.7
+2003-04,Hortalizas y legumbres,producto,46.722,0.5
+2003-04,Azúcar y dulces,producto,56.437,5.0
+2003-04,Alimentos preparados,producto,59.058,1.5
+2003-04,Bebidas no alcohólicas,producto,53.057,4.7
+2003-05,IPC general,referencia,61.892,2.7
+2003-05,Alimentación y bebidas,total,52.392,3.6
+2003-05,Pan y cereales,producto,54.739,4.3
+2003-05,Carne,producto,55.427,2.6
+2003-05,Pescado y marisco,producto,53.076,3.8
+2003-05,Lácteos y huevos,producto,56.892,2.5
+2003-05,Aceites y grasas,producto,43.329,0.2
+2003-05,Frutas,producto,41.917,9.3
+2003-05,Hortalizas y legumbres,producto,47.33,1.4
+2003-05,Azúcar y dulces,producto,56.733,5.1
+2003-05,Alimentos preparados,producto,59.097,1.6
+2003-05,Bebidas no alcohólicas,producto,53.039,4.5
+2003-06,IPC general,referencia,61.933,2.7
+2003-06,Alimentación y bebidas,total,52.482,3.5
+2003-06,Pan y cereales,producto,54.824,4.0
+2003-06,Carne,producto,55.494,2.7
+2003-06,Pescado y marisco,producto,52.89,2.8
+2003-06,Lácteos y huevos,producto,56.808,2.2
+2003-06,Aceites y grasas,producto,43.587,0.5
+2003-06,Frutas,producto,42.52,9.9
+2003-06,Hortalizas y legumbres,producto,47.47,2.5
+2003-06,Azúcar y dulces,producto,56.866,5.2
+2003-06,Alimentos preparados,producto,59.201,1.5
+2003-06,Bebidas no alcohólicas,producto,53.144,3.8
+2003-07,IPC general,referencia,61.545,2.8
+2003-07,Alimentación y bebidas,total,52.777,3.6
+2003-07,Pan y cereales,producto,54.812,3.9
+2003-07,Carne,producto,56.458,3.7
+2003-07,Pescado y marisco,producto,53.171,2.5
+2003-07,Lácteos y huevos,producto,56.839,2.1
+2003-07,Aceites y grasas,producto,43.646,0.6
+2003-07,Frutas,producto,42.902,10.6
+2003-07,Hortalizas y legumbres,producto,47.359,2.2
+2003-07,Azúcar y dulces,producto,56.818,4.8
+2003-07,Alimentos preparados,producto,59.094,1.3
+2003-07,Bebidas no alcohólicas,producto,53.053,3.3
+2003-08,IPC general,referencia,61.827,3.0
+2003-08,Alimentación y bebidas,total,53.233,4.0
+2003-08,Pan y cereales,producto,55.01,4.0
+2003-08,Carne,producto,57.769,5.0
+2003-08,Pescado y marisco,producto,53.527,2.3
+2003-08,Lácteos y huevos,producto,56.901,2.1
+2003-08,Aceites y grasas,producto,43.759,0.9
+2003-08,Frutas,producto,43.264,10.9
+2003-08,Hortalizas y legumbres,producto,47.409,2.6
+2003-08,Azúcar y dulces,producto,56.964,4.8
+2003-08,Alimentos preparados,producto,59.266,1.6
+2003-08,Bebidas no alcohólicas,producto,53.109,3.3
+2003-09,IPC general,referencia,62.011,2.9
+2003-09,Alimentación y bebidas,total,53.697,4.4
+2003-09,Pan y cereales,producto,55.068,3.6
+2003-09,Carne,producto,58.493,4.8
+2003-09,Pescado y marisco,producto,54.41,3.7
+2003-09,Lácteos y huevos,producto,57.147,2.5
+2003-09,Aceites y grasas,producto,43.836,1.0
+2003-09,Frutas,producto,43.687,11.3
+2003-09,Hortalizas y legumbres,producto,48.283,4.8
+2003-09,Azúcar y dulces,producto,57.02,4.4
+2003-09,Alimentos preparados,producto,59.286,1.3
+2003-09,Bebidas no alcohólicas,producto,53.098,3.3
+2003-10,IPC general,referencia,62.429,2.6
+2003-10,Alimentación y bebidas,total,53.729,4.3
+2003-10,Pan y cereales,producto,55.177,3.7
+2003-10,Carne,producto,57.92,3.7
+2003-10,Pescado y marisco,producto,53.701,2.3
+2003-10,Lácteos y huevos,producto,57.581,3.2
+2003-10,Aceites y grasas,producto,45.551,4.7
+2003-10,Frutas,producto,44.076,11.4
+2003-10,Hortalizas y legumbres,producto,49.156,6.4
+2003-10,Azúcar y dulces,producto,57.185,4.1
+2003-10,Alimentos preparados,producto,59.366,1.6
+2003-10,Bebidas no alcohólicas,producto,53.006,3.1
+2003-11,IPC general,referencia,62.633,2.8
+2003-11,Alimentación y bebidas,total,53.806,4.3
+2003-11,Pan y cereales,producto,55.356,3.8
+2003-11,Carne,producto,57.414,3.1
+2003-11,Pescado y marisco,producto,53.806,1.8
+2003-11,Lácteos y huevos,producto,57.788,3.5
+2003-11,Aceites y grasas,producto,46.03,5.9
+2003-11,Frutas,producto,44.481,11.7
+2003-11,Hortalizas y legumbres,producto,49.845,7.6
+2003-11,Azúcar y dulces,producto,57.349,4.0
+2003-11,Alimentos preparados,producto,59.27,1.1
+2003-11,Bebidas no alcohólicas,producto,52.992,3.2
+2003-12,IPC general,referencia,62.74,2.6
+2003-12,Alimentación y bebidas,total,54.036,4.1
+2003-12,Pan y cereales,producto,55.465,3.5
+2003-12,Carne,producto,57.199,2.6
+2003-12,Pescado y marisco,producto,54.924,1.5
+2003-12,Lácteos y huevos,producto,58.027,3.3
+2003-12,Aceites y grasas,producto,46.251,6.3
+2003-12,Frutas,producto,44.721,11.3
+2003-12,Hortalizas y legumbres,producto,50.239,8.1
+2003-12,Azúcar y dulces,producto,57.408,4.1
+2003-12,Alimentos preparados,producto,59.266,1.3
+2003-12,Bebidas no alcohólicas,producto,53.116,3.4
+2004-01,IPC general,referencia,62.3,2.3
+2004-01,Alimentación y bebidas,total,54.308,4.0
+2004-01,Pan y cereales,producto,56.078,3.7
+2004-01,Carne,producto,56.838,2.2
+2004-01,Pescado y marisco,producto,55.977,1.6
+2004-01,Lácteos y huevos,producto,58.258,3.0
+2004-01,Aceites y grasas,producto,46.484,6.7
+2004-01,Frutas,producto,44.884,10.7
+2004-01,Hortalizas y legumbres,producto,50.584,9.8
+2004-01,Azúcar y dulces,producto,57.487,3.9
+2004-01,Alimentos preparados,producto,59.429,1.0
+2004-01,Bebidas no alcohólicas,producto,53.574,3.1
+2004-02,IPC general,referencia,62.329,2.1
+2004-02,Alimentación y bebidas,total,54.095,4.0
+2004-02,Pan y cereales,producto,56.879,4.8
+2004-02,Carne,producto,56.456,2.1
+2004-02,Pescado y marisco,producto,53.919,0.9
+2004-02,Lácteos y huevos,producto,58.504,3.1
+2004-02,Aceites y grasas,producto,46.335,6.2
+2004-02,Frutas,producto,44.992,10.1
+2004-02,Hortalizas y legumbres,producto,50.505,9.6
+2004-02,Azúcar y dulces,producto,57.735,3.7
+2004-02,Alimentos preparados,producto,59.593,1.3
+2004-02,Bebidas no alcohólicas,producto,53.702,2.3
+2004-03,IPC general,referencia,62.764,2.1
+2004-03,Alimentación y bebidas,total,54.368,4.1
+2004-03,Pan y cereales,producto,57.22,5.0
+2004-03,Carne,producto,56.989,2.5
+2004-03,Pescado y marisco,producto,54.295,1.8
+2004-03,Lácteos y huevos,producto,58.568,3.1
+2004-03,Aceites y grasas,producto,46.337,6.3
+2004-03,Frutas,producto,45.058,9.3
+2004-03,Hortalizas y legumbres,producto,50.595,9.5
+2004-03,Azúcar y dulces,producto,57.909,2.9
+2004-03,Alimentos preparados,producto,59.793,1.3
+2004-03,Bebidas no alcohólicas,producto,53.866,2.0
+2004-04,IPC general,referencia,63.623,2.7
+2004-04,Alimentación y bebidas,total,54.634,4.6
+2004-04,Pan y cereales,producto,57.358,5.0
+2004-04,Carne,producto,57.041,3.0
+2004-04,Pescado y marisco,producto,54.32,2.3
+2004-04,Lácteos y huevos,producto,58.488,2.9
+2004-04,Aceites y grasas,producto,50.595,16.4
+2004-04,Frutas,producto,45.29,9.3
+2004-04,Hortalizas y legumbres,producto,51.096,9.4
+2004-04,Azúcar y dulces,producto,57.994,2.8
+2004-04,Alimentos preparados,producto,59.988,1.6
+2004-04,Bebidas no alcohólicas,producto,53.828,1.5
+2004-05,IPC general,referencia,63.999,3.4
+2004-05,Alimentación y bebidas,total,54.88,4.7
+2004-05,Pan y cereales,producto,57.456,5.0
+2004-05,Carne,producto,57.326,3.4
+2004-05,Pescado y marisco,producto,54.477,2.6
+2004-05,Lácteos y huevos,producto,58.412,2.7
+2004-05,Aceites y grasas,producto,51.517,18.9
+2004-05,Frutas,producto,45.578,8.7
+2004-05,Hortalizas y legumbres,producto,51.877,9.6
+2004-05,Azúcar y dulces,producto,58.073,2.4
+2004-05,Alimentos preparados,producto,60.216,1.9
+2004-05,Bebidas no alcohólicas,producto,53.956,1.7
+2004-06,IPC general,referencia,64.1,3.5
+2004-06,Alimentación y bebidas,total,54.887,4.6
+2004-06,Pan y cereales,producto,57.472,4.8
+2004-06,Carne,producto,57.594,3.8
+2004-06,Pescado y marisco,producto,53.934,2.0
+2004-06,Lácteos y huevos,producto,58.388,2.8
+2004-06,Aceites y grasas,producto,51.948,19.2
+2004-06,Frutas,producto,45.946,8.1
+2004-06,Hortalizas y legumbres,producto,51.494,8.5
+2004-06,Azúcar y dulces,producto,58.208,2.4
+2004-06,Alimentos preparados,producto,60.668,2.5
+2004-06,Bebidas no alcohólicas,producto,53.795,1.2
+2004-07,IPC general,referencia,63.614,3.4
+2004-07,Alimentación y bebidas,total,55.129,4.5
+2004-07,Pan y cereales,producto,57.544,5.0
+2004-07,Carne,producto,58.359,3.4
+2004-07,Pescado y marisco,producto,54.393,2.3
+2004-07,Lácteos y huevos,producto,58.338,2.6
+2004-07,Aceites y grasas,producto,52.244,19.7
+2004-07,Frutas,producto,46.325,8.0
+2004-07,Hortalizas y legumbres,producto,50.85,7.4
+2004-07,Azúcar y dulces,producto,58.167,2.4
+2004-07,Alimentos preparados,producto,60.729,2.8
+2004-07,Bebidas no alcohólicas,producto,53.794,1.4
+2004-08,IPC general,referencia,63.895,3.3
+2004-08,Alimentación y bebidas,total,55.288,3.9
+2004-08,Pan y cereales,producto,57.514,4.6
+2004-08,Carne,producto,58.879,1.9
+2004-08,Pescado y marisco,producto,54.579,2.0
+2004-08,Lácteos y huevos,producto,58.401,2.6
+2004-08,Aceites y grasas,producto,52.452,19.9
+2004-08,Frutas,producto,46.404,7.3
+2004-08,Hortalizas y legumbres,producto,50.434,6.4
+2004-08,Azúcar y dulces,producto,58.595,2.9
+2004-08,Alimentos preparados,producto,60.98,2.9
+2004-08,Bebidas no alcohólicas,producto,53.963,1.6
+2004-09,IPC general,referencia,64.009,3.2
+2004-09,Alimentación y bebidas,total,55.304,3.0
+2004-09,Pan y cereales,producto,57.494,4.4
+2004-09,Carne,producto,58.935,0.8
+2004-09,Pescado y marisco,producto,55.12,1.3
+2004-09,Lácteos y huevos,producto,58.651,2.6
+2004-09,Aceites y grasas,producto,52.635,20.1
+2004-09,Frutas,producto,46.355,6.1
+2004-09,Hortalizas y legumbres,producto,49.324,2.2
+2004-09,Azúcar y dulces,producto,58.613,2.8
+2004-09,Alimentos preparados,producto,61.024,2.9
+2004-09,Bebidas no alcohólicas,producto,53.886,1.5
+2004-10,IPC general,referencia,64.667,3.6
+2004-10,Alimentación y bebidas,total,55.321,3.0
+2004-10,Pan y cereales,producto,57.617,4.4
+2004-10,Carne,producto,59.043,1.9
+2004-10,Pescado y marisco,producto,55.265,2.9
+2004-10,Lácteos y huevos,producto,58.905,2.3
+2004-10,Aceites y grasas,producto,52.694,15.7
+2004-10,Frutas,producto,46.453,5.4
+2004-10,Hortalizas y legumbres,producto,48.564,-1.2
+2004-10,Azúcar y dulces,producto,58.71,2.7
+2004-10,Alimentos preparados,producto,61.025,2.8
+2004-10,Bebidas no alcohólicas,producto,53.403,0.7
+2004-11,IPC general,referencia,64.828,3.5
+2004-11,Alimentación y bebidas,total,55.528,3.2
+2004-11,Pan y cereales,producto,57.604,4.1
+2004-11,Carne,producto,59.4,3.5
+2004-11,Pescado y marisco,producto,55.734,3.6
+2004-11,Lácteos y huevos,producto,59.194,2.4
+2004-11,Aceites y grasas,producto,52.511,14.1
+2004-11,Frutas,producto,46.647,4.9
+2004-11,Hortalizas y legumbres,producto,48.358,-3.0
+2004-11,Azúcar y dulces,producto,58.855,2.6
+2004-11,Alimentos preparados,producto,61.142,3.2
+2004-11,Bebidas no alcohólicas,producto,53.762,1.5
+2004-12,IPC general,referencia,64.765,3.2
+2004-12,Alimentación y bebidas,total,55.681,3.0
+2004-12,Pan y cereales,producto,57.782,4.2
+2004-12,Carne,producto,59.424,3.9
+2004-12,Pescado y marisco,producto,56.162,2.3
+2004-12,Lácteos y huevos,producto,59.495,2.5
+2004-12,Aceites y grasas,producto,52.234,12.9
+2004-12,Frutas,producto,46.794,4.6
+2004-12,Hortalizas y legumbres,producto,48.466,-3.5
+2004-12,Azúcar y dulces,producto,58.804,2.4
+2004-12,Alimentos preparados,producto,61.009,2.9
+2004-12,Bebidas no alcohólicas,producto,53.934,1.5
+2005-01,IPC general,referencia,64.219,3.1
+2005-01,Alimentación y bebidas,total,56.068,3.2
+2005-01,Pan y cereales,producto,58.402,4.1
+2005-01,Carne,producto,59.398,4.5
+2005-01,Pescado y marisco,producto,57.521,2.8
+2005-01,Lácteos y huevos,producto,59.669,2.4
+2005-01,Aceites y grasas,producto,52.296,12.5
+2005-01,Frutas,producto,47.032,4.8
+2005-01,Hortalizas y legumbres,producto,48.882,-3.4
+2005-01,Azúcar y dulces,producto,58.997,2.6
+2005-01,Alimentos preparados,producto,61.36,3.2
+2005-01,Bebidas no alcohólicas,producto,54.068,0.9
+2005-02,IPC general,referencia,64.386,3.3
+2005-02,Alimentación y bebidas,total,55.961,3.5
+2005-02,Pan y cereales,producto,58.579,3.0
+2005-02,Carne,producto,59.085,4.7
+2005-02,Pescado y marisco,producto,56.258,4.3
+2005-02,Lácteos y huevos,producto,59.733,2.1
+2005-02,Aceites y grasas,producto,52.308,12.9
+2005-02,Frutas,producto,47.379,5.3
+2005-02,Hortalizas y legumbres,producto,49.876,-1.2
+2005-02,Azúcar y dulces,producto,58.964,2.1
+2005-02,Alimentos preparados,producto,61.336,2.9
+2005-02,Bebidas no alcohólicas,producto,53.72,0.0
+2005-03,IPC general,referencia,64.895,3.4
+2005-03,Alimentación y bebidas,total,56.191,3.4
+2005-03,Pan y cereales,producto,58.721,2.6
+2005-03,Carne,producto,59.074,3.7
+2005-03,Pescado y marisco,producto,55.571,2.4
+2005-03,Lácteos y huevos,producto,59.732,2.0
+2005-03,Aceites y grasas,producto,54.85,18.4
+2005-03,Frutas,producto,47.918,6.3
+2005-03,Hortalizas y legumbres,producto,51.098,1.0
+2005-03,Azúcar y dulces,producto,59.107,2.1
+2005-03,Alimentos preparados,producto,61.51,2.9
+2005-03,Bebidas no alcohólicas,producto,54.373,0.9
+2005-04,IPC general,referencia,65.83,3.5
+2005-04,Alimentación y bebidas,total,56.557,3.5
+2005-04,Pan y cereales,producto,58.923,2.7
+2005-04,Carne,producto,59.716,4.7
+2005-04,Pescado y marisco,producto,55.796,2.7
+2005-04,Lácteos y huevos,producto,59.861,2.3
+2005-04,Aceites y grasas,producto,56.144,11.0
+2005-04,Frutas,producto,48.269,6.6
+2005-04,Hortalizas y legumbres,producto,51.721,1.2
+2005-04,Azúcar y dulces,producto,59.288,2.2
+2005-04,Alimentos preparados,producto,61.557,2.6
+2005-04,Bebidas no alcohólicas,producto,54.116,0.5
+2005-05,IPC general,referencia,65.956,3.1
+2005-05,Alimentación y bebidas,total,56.614,3.2
+2005-05,Pan y cereales,producto,58.978,2.6
+2005-05,Carne,producto,59.746,4.2
+2005-05,Pescado y marisco,producto,55.401,1.7
+2005-05,Lácteos y huevos,producto,59.834,2.4
+2005-05,Aceites y grasas,producto,56.477,9.6
+2005-05,Frutas,producto,48.589,6.6
+2005-05,Hortalizas y legumbres,producto,52.147,0.5
+2005-05,Azúcar y dulces,producto,59.267,2.1
+2005-05,Alimentos preparados,producto,61.443,2.0
+2005-05,Bebidas no alcohólicas,producto,54.442,0.9
+2005-06,IPC general,referencia,66.11,3.1
+2005-06,Alimentación y bebidas,total,56.619,3.2
+2005-06,Pan y cereales,producto,59.106,2.8
+2005-06,Carne,producto,59.714,3.7
+2005-06,Pescado y marisco,producto,56.128,4.1
+2005-06,Lácteos y huevos,producto,59.781,2.4
+2005-06,Aceites y grasas,producto,56.476,8.7
+2005-06,Frutas,producto,48.276,5.1
+2005-06,Hortalizas y legumbres,producto,51.514,0.0
+2005-06,Azúcar y dulces,producto,59.169,1.7
+2005-06,Alimentos preparados,producto,61.436,1.3
+2005-06,Bebidas no alcohólicas,producto,54.322,1.0
+2005-07,IPC general,referencia,65.705,3.3
+2005-07,Alimentación y bebidas,total,56.499,2.5
+2005-07,Pan y cereales,producto,59.146,2.8
+2005-07,Carne,producto,59.602,2.1
+2005-07,Pescado y marisco,producto,56.373,3.6
+2005-07,Lácteos y huevos,producto,59.632,2.2
+2005-07,Aceites y grasas,producto,54.952,5.2
+2005-07,Frutas,producto,47.898,3.4
+2005-07,Hortalizas y legumbres,producto,51.01,0.3
+2005-07,Azúcar y dulces,producto,59.295,1.9
+2005-07,Alimentos preparados,producto,61.564,1.4
+2005-07,Bebidas no alcohólicas,producto,54.709,1.7
+2005-08,IPC general,referencia,65.994,3.3
+2005-08,Alimentación y bebidas,total,56.707,2.6
+2005-08,Pan y cereales,producto,59.183,2.9
+2005-08,Carne,producto,59.918,1.8
+2005-08,Pescado y marisco,producto,57.213,4.8
+2005-08,Lácteos y huevos,producto,59.713,2.2
+2005-08,Aceites y grasas,producto,53.919,2.8
+2005-08,Frutas,producto,47.853,3.1
+2005-08,Hortalizas y legumbres,producto,51.212,1.5
+2005-08,Azúcar y dulces,producto,59.304,1.2
+2005-08,Alimentos preparados,producto,61.519,0.9
+2005-08,Bebidas no alcohólicas,producto,55.049,2.0
+2005-09,IPC general,referencia,66.399,3.7
+2005-09,Alimentación y bebidas,total,56.828,2.8
+2005-09,Pan y cereales,producto,59.296,3.1
+2005-09,Carne,producto,60.095,2.0
+2005-09,Pescado y marisco,producto,57.362,4.1
+2005-09,Lácteos y huevos,producto,59.692,1.8
+2005-09,Aceites y grasas,producto,54.23,3.0
+2005-09,Frutas,producto,47.921,3.4
+2005-09,Hortalizas y legumbres,producto,51.544,4.5
+2005-09,Azúcar y dulces,producto,59.05,0.7
+2005-09,Alimentos preparados,producto,61.305,0.5
+2005-09,Bebidas no alcohólicas,producto,55.117,2.3
+2005-10,IPC general,referencia,66.939,3.5
+2005-10,Alimentación y bebidas,total,56.931,2.9
+2005-10,Pan y cereales,producto,59.311,2.9
+2005-10,Carne,producto,60.117,1.8
+2005-10,Pescado y marisco,producto,57.588,4.2
+2005-10,Lácteos y huevos,producto,59.794,1.5
+2005-10,Aceites y grasas,producto,55.625,5.6
+2005-10,Frutas,producto,47.962,3.2
+2005-10,Hortalizas y legumbres,producto,51.678,6.4
+2005-10,Azúcar y dulces,producto,59.106,0.7
+2005-10,Alimentos preparados,producto,61.326,0.5
+2005-10,Bebidas no alcohólicas,producto,54.768,2.6
+2005-11,IPC general,referencia,67.04,3.4
+2005-11,Alimentación y bebidas,total,57.274,3.1
+2005-11,Pan y cereales,producto,59.485,3.3
+2005-11,Carne,producto,60.486,1.8
+2005-11,Pescado y marisco,producto,57.745,3.6
+2005-11,Lácteos y huevos,producto,59.994,1.4
+2005-11,Aceites y grasas,producto,59.641,13.6
+2005-11,Frutas,producto,48.064,3.0
+2005-11,Hortalizas y legumbres,producto,51.801,7.1
+2005-11,Azúcar y dulces,producto,59.314,0.8
+2005-11,Alimentos preparados,producto,61.436,0.5
+2005-11,Bebidas no alcohólicas,producto,54.87,2.1
+2005-12,IPC general,referencia,67.184,3.7
+2005-12,Alimentación y bebidas,total,58.002,4.2
+2005-12,Pan y cereales,producto,59.603,3.2
+2005-12,Carne,producto,61.386,3.3
+2005-12,Pescado y marisco,producto,59.165,5.3
+2005-12,Lácteos y huevos,producto,60.282,1.3
+2005-12,Aceites y grasas,producto,65.055,24.5
+2005-12,Frutas,producto,48.371,3.4
+2005-12,Hortalizas y legumbres,producto,51.948,7.2
+2005-12,Azúcar y dulces,producto,59.388,1.0
+2005-12,Alimentos preparados,producto,61.679,1.1
+2005-12,Bebidas no alcohólicas,producto,55.068,2.1
+2006-01,IPC general,referencia,66.912,4.2
+2006-01,Alimentación y bebidas,total,58.548,4.4
+2006-01,Pan y cereales,producto,60.357,3.3
+2006-01,Carne,producto,61.871,4.2
+2006-01,Pescado y marisco,producto,59.964,4.2
+2006-01,Lácteos y huevos,producto,60.7,1.7
+2006-01,Aceites y grasas,producto,67.203,28.5
+2006-01,Frutas,producto,48.526,3.2
+2006-01,Hortalizas y legumbres,producto,52.175,6.7
+2006-01,Azúcar y dulces,producto,59.666,1.1
+2006-01,Alimentos preparados,producto,61.854,0.8
+2006-01,Bebidas no alcohólicas,producto,55.528,2.7
+2006-02,IPC general,referencia,66.944,4.0
+2006-02,Alimentación y bebidas,total,58.384,4.3
+2006-02,Pan y cereales,producto,60.642,3.5
+2006-02,Carne,producto,61.716,4.5
+2006-02,Pescado y marisco,producto,58.17,3.4
+2006-02,Lácteos y huevos,producto,60.857,1.9
+2006-02,Aceites y grasas,producto,69.249,32.4
+2006-02,Frutas,producto,48.625,2.6
+2006-02,Hortalizas y legumbres,producto,51.755,3.8
+2006-02,Azúcar y dulces,producto,59.587,1.1
+2006-02,Alimentos preparados,producto,62.03,1.1
+2006-02,Bebidas no alcohólicas,producto,55.754,3.8
+2006-03,IPC general,referencia,67.418,3.9
+2006-03,Alimentación y bebidas,total,58.409,3.9
+2006-03,Pan y cereales,producto,60.788,3.5
+2006-03,Carne,producto,61.07,3.4
+2006-03,Pescado y marisco,producto,58.738,5.7
+2006-03,Lácteos y huevos,producto,60.944,2.0
+2006-03,Aceites y grasas,producto,72.795,32.7
+2006-03,Frutas,producto,48.43,1.1
+2006-03,Hortalizas y legumbres,producto,51.072,-0.1
+2006-03,Azúcar y dulces,producto,59.824,1.2
+2006-03,Alimentos preparados,producto,62.158,1.1
+2006-03,Bebidas no alcohólicas,producto,56.03,3.0
+2006-04,IPC general,referencia,68.369,3.9
+2006-04,Alimentación y bebidas,total,58.521,3.5
+2006-04,Pan y cereales,producto,61.041,3.6
+2006-04,Carne,producto,60.838,1.9
+2006-04,Pescado y marisco,producto,59.177,6.1
+2006-04,Lácteos y huevos,producto,61.078,2.0
+2006-04,Aceites y grasas,producto,73.604,31.1
+2006-04,Frutas,producto,48.233,-0.1
+2006-04,Hortalizas y legumbres,producto,51.48,-0.5
+2006-04,Azúcar y dulces,producto,60.202,1.5
+2006-04,Alimentos preparados,producto,62.21,1.1
+2006-04,Bebidas no alcohólicas,producto,55.866,3.2
+2006-05,IPC general,referencia,68.615,4.0
+2006-05,Alimentación y bebidas,total,58.647,3.6
+2006-05,Pan y cereales,producto,61.113,3.6
+2006-05,Carne,producto,61.419,2.8
+2006-05,Pescado y marisco,producto,58.511,5.6
+2006-05,Lácteos y huevos,producto,60.944,1.9
+2006-05,Aceites y grasas,producto,73.337,29.9
+2006-05,Frutas,producto,47.888,-1.4
+2006-05,Hortalizas y legumbres,producto,52.688,1.0
+2006-05,Azúcar y dulces,producto,60.223,1.6
+2006-05,Alimentos preparados,producto,62.508,1.7
+2006-05,Bebidas no alcohólicas,producto,56.15,3.1
+2006-06,IPC general,referencia,68.719,3.9
+2006-06,Alimentación y bebidas,total,58.961,4.1
+2006-06,Pan y cereales,producto,61.136,3.4
+2006-06,Carne,producto,62.221,4.2
+2006-06,Pescado y marisco,producto,59.099,5.3
+2006-06,Lácteos y huevos,producto,60.857,1.8
+2006-06,Aceites y grasas,producto,73.206,29.6
+2006-06,Frutas,producto,47.71,-1.2
+2006-06,Hortalizas y legumbres,producto,53.341,3.5
+2006-06,Azúcar y dulces,producto,60.386,2.1
+2006-06,Alimentos preparados,producto,62.684,2.0
+2006-06,Bebidas no alcohólicas,producto,56.262,3.6
+2006-07,IPC general,referencia,68.31,4.0
+2006-07,Alimentación y bebidas,total,59.201,4.8
+2006-07,Pan y cereales,producto,61.139,3.4
+2006-07,Carne,producto,63.02,5.7
+2006-07,Pescado y marisco,producto,58.925,4.5
+2006-07,Lácteos y huevos,producto,61.209,2.6
+2006-07,Aceites y grasas,producto,72.053,31.1
+2006-07,Frutas,producto,47.956,0.1
+2006-07,Hortalizas y legumbres,producto,53.603,5.1
+2006-07,Azúcar y dulces,producto,60.602,2.2
+2006-07,Alimentos preparados,producto,62.851,2.1
+2006-07,Bebidas no alcohólicas,producto,56.391,3.1
+2006-08,IPC general,referencia,68.45,3.7
+2006-08,Alimentación y bebidas,total,59.295,4.6
+2006-08,Pan y cereales,producto,61.27,3.5
+2006-08,Carne,producto,63.543,6.0
+2006-08,Pescado y marisco,producto,59.742,4.4
+2006-08,Lácteos y huevos,producto,61.277,2.6
+2006-08,Aceites y grasas,producto,66.887,24.1
+2006-08,Frutas,producto,48.243,0.8
+2006-08,Hortalizas y legumbres,producto,53.171,3.8
+2006-08,Azúcar y dulces,producto,60.706,2.4
+2006-08,Alimentos preparados,producto,63.095,2.6
+2006-08,Bebidas no alcohólicas,producto,56.542,2.7
+2006-09,IPC general,referencia,68.337,2.9
+2006-09,Alimentación y bebidas,total,59.461,4.6
+2006-09,Pan y cereales,producto,61.51,3.7
+2006-09,Carne,producto,63.941,6.4
+2006-09,Pescado y marisco,producto,60.089,4.8
+2006-09,Lácteos y huevos,producto,61.304,2.7
+2006-09,Aceites y grasas,producto,66.06,21.8
+2006-09,Frutas,producto,48.496,1.2
+2006-09,Hortalizas y legumbres,producto,53.078,3.0
+2006-09,Azúcar y dulces,producto,60.7,2.8
+2006-09,Alimentos preparados,producto,63.307,3.3
+2006-09,Bebidas no alcohólicas,producto,56.388,2.3
+2006-10,IPC general,referencia,68.618,2.5
+2006-10,Alimentación y bebidas,total,59.427,4.4
+2006-10,Pan y cereales,producto,61.412,3.5
+2006-10,Carne,producto,64.019,6.5
+2006-10,Pescado y marisco,producto,59.504,3.3
+2006-10,Lácteos y huevos,producto,61.409,2.7
+2006-10,Aceites y grasas,producto,65.868,18.4
+2006-10,Frutas,producto,48.694,1.5
+2006-10,Hortalizas y legumbres,producto,53.233,3.0
+2006-10,Azúcar y dulces,producto,60.843,2.9
+2006-10,Alimentos preparados,producto,63.32,3.3
+2006-10,Bebidas no alcohólicas,producto,56.309,2.8
+2006-11,IPC general,referencia,68.787,2.6
+2006-11,Alimentación y bebidas,total,59.528,3.9
+2006-11,Pan y cereales,producto,61.389,3.2
+2006-11,Carne,producto,64.039,5.9
+2006-11,Pescado y marisco,producto,59.819,3.6
+2006-11,Lácteos y huevos,producto,61.357,2.3
+2006-11,Aceites y grasas,producto,65.262,9.4
+2006-11,Frutas,producto,48.757,1.4
+2006-11,Hortalizas y legumbres,producto,53.866,4.0
+2006-11,Azúcar y dulces,producto,60.864,2.6
+2006-11,Alimentos preparados,producto,63.392,3.2
+2006-11,Bebidas no alcohólicas,producto,56.638,3.2
+2006-12,IPC general,referencia,68.976,2.7
+2006-12,Alimentación y bebidas,total,59.844,3.2
+2006-12,Pan y cereales,producto,61.49,3.2
+2006-12,Carne,producto,64.18,4.6
+2006-12,Pescado y marisco,producto,61.69,4.3
+2006-12,Lácteos y huevos,producto,61.528,2.1
+2006-12,Aceites y grasas,producto,63.567,-2.3
+2006-12,Frutas,producto,48.673,0.6
+2006-12,Hortalizas y legumbres,producto,54.364,4.7
+2006-12,Azúcar y dulces,producto,60.751,2.3
+2006-12,Alimentos preparados,producto,63.541,3.0
+2006-12,Bebidas no alcohólicas,producto,56.797,3.1
+2007-01,IPC general,referencia,68.512,2.4
+2007-01,Alimentación y bebidas,total,59.94,2.4
+2007-01,Pan y cereales,producto,62.435,3.4
+2007-01,Carne,producto,64.212,3.8
+2007-01,Pescado y marisco,producto,61.683,2.9
+2007-01,Lácteos y huevos,producto,61.856,1.9
+2007-01,Aceites y grasas,producto,58.759,-12.6
+2007-01,Frutas,producto,48.725,0.4
+2007-01,Hortalizas y legumbres,producto,54.884,5.2
+2007-01,Azúcar y dulces,producto,60.911,2.1
+2007-01,Alimentos preparados,producto,63.742,3.1
+2007-01,Bebidas no alcohólicas,producto,57.11,2.8
+2007-02,IPC general,referencia,68.559,2.4
+2007-02,Alimentación y bebidas,total,59.842,2.5
+2007-02,Pan y cereales,producto,63.161,4.2
+2007-02,Carne,producto,64.01,3.7
+2007-02,Pescado y marisco,producto,60.019,3.2
+2007-02,Lácteos y huevos,producto,61.965,1.8
+2007-02,Aceites y grasas,producto,58.107,-16.1
+2007-02,Frutas,producto,48.763,0.3
+2007-02,Hortalizas y legumbres,producto,55.401,7.0
+2007-02,Azúcar y dulces,producto,61.109,2.6
+2007-02,Alimentos preparados,producto,63.912,3.0
+2007-02,Bebidas no alcohólicas,producto,57.334,2.8
+2007-03,IPC general,referencia,69.079,2.5
+2007-03,Alimentación y bebidas,total,60.077,2.9
+2007-03,Pan y cereales,producto,63.382,4.3
+2007-03,Carne,producto,64.331,5.3
+2007-03,Pescado y marisco,producto,60.375,2.8
+2007-03,Lácteos y huevos,producto,61.943,1.6
+2007-03,Aceites y grasas,producto,57.74,-20.7
+2007-03,Frutas,producto,48.82,0.8
+2007-03,Hortalizas y legumbres,producto,55.839,9.3
+2007-03,Azúcar y dulces,producto,61.496,2.8
+2007-03,Alimentos preparados,producto,64.04,3.0
+2007-03,Bebidas no alcohólicas,producto,57.859,3.3
+2007-04,IPC general,referencia,70.033,2.4
+2007-04,Alimentación y bebidas,total,60.42,3.2
+2007-04,Pan y cereales,producto,63.615,4.2
+2007-04,Carne,producto,65.091,7.0
+2007-04,Pescado y marisco,producto,60.447,2.1
+2007-04,Lácteos y huevos,producto,62.154,1.8
+2007-04,Aceites y grasas,producto,57.469,-21.9
+2007-04,Frutas,producto,48.963,1.5
+2007-04,Hortalizas y legumbres,producto,56.637,10.0
+2007-04,Azúcar y dulces,producto,61.836,2.7
+2007-04,Alimentos preparados,producto,64.157,3.1
+2007-04,Bebidas no alcohólicas,producto,57.825,3.5
+2007-05,IPC general,referencia,70.225,2.3
+2007-05,Alimentación y bebidas,total,60.494,3.2
+2007-05,Pan y cereales,producto,63.789,4.4
+2007-05,Carne,producto,65.379,6.4
+2007-05,Pescado y marisco,producto,60.011,2.6
+2007-05,Lácteos y huevos,producto,62.13,1.9
+2007-05,Aceites y grasas,producto,57.2,-22.0
+2007-05,Frutas,producto,49.231,2.8
+2007-05,Hortalizas y legumbres,producto,56.701,7.6
+2007-05,Azúcar y dulces,producto,62.165,3.2
+2007-05,Alimentos preparados,producto,64.41,3.0
+2007-05,Bebidas no alcohólicas,producto,57.883,3.1
+2007-06,IPC general,referencia,70.354,2.4
+2007-06,Alimentación y bebidas,total,60.604,2.8
+2007-06,Pan y cereales,producto,63.773,4.3
+2007-06,Carne,producto,65.199,4.8
+2007-06,Pescado y marisco,producto,60.336,2.1
+2007-06,Lácteos y huevos,producto,62.264,2.3
+2007-06,Aceites y grasas,producto,56.842,-22.4
+2007-06,Frutas,producto,50.322,5.5
+2007-06,Hortalizas y legumbres,producto,56.465,5.9
+2007-06,Azúcar y dulces,producto,62.145,2.9
+2007-06,Alimentos preparados,producto,64.447,2.8
+2007-06,Bebidas no alcohólicas,producto,58.082,3.2
+2007-07,IPC general,referencia,69.843,2.2
+2007-07,Alimentación y bebidas,total,60.761,2.6
+2007-07,Pan y cereales,producto,63.803,4.4
+2007-07,Carne,producto,65.387,3.8
+2007-07,Pescado y marisco,producto,60.802,3.2
+2007-07,Lácteos y huevos,producto,62.369,1.9
+2007-07,Aceites y grasas,producto,56.587,-21.5
+2007-07,Frutas,producto,50.718,5.8
+2007-07,Hortalizas y legumbres,producto,56.437,5.3
+2007-07,Azúcar y dulces,producto,61.974,2.3
+2007-07,Alimentos preparados,producto,64.802,3.1
+2007-07,Bebidas no alcohólicas,producto,58.102,3.0
+2007-08,IPC general,referencia,69.938,2.2
+2007-08,Alimentación y bebidas,total,60.956,2.8
+2007-08,Pan y cereales,producto,64.049,4.5
+2007-08,Carne,producto,65.524,3.1
+2007-08,Pescado y marisco,producto,61.028,2.2
+2007-08,Lácteos y huevos,producto,62.894,2.6
+2007-08,Aceites y grasas,producto,56.825,-15.0
+2007-08,Frutas,producto,50.895,5.5
+2007-08,Hortalizas y legumbres,producto,56.408,6.1
+2007-08,Azúcar y dulces,producto,61.926,2.0
+2007-08,Alimentos preparados,producto,64.905,2.9
+2007-08,Bebidas no alcohólicas,producto,58.124,2.8
+2007-09,IPC general,referencia,70.168,2.7
+2007-09,Alimentación y bebidas,total,61.508,3.4
+2007-09,Pan y cereales,producto,65.047,5.8
+2007-09,Carne,producto,66.23,3.6
+2007-09,Pescado y marisco,producto,60.953,1.4
+2007-09,Lácteos y huevos,producto,64.7,5.5
+2007-09,Aceites y grasas,producto,56.857,-13.9
+2007-09,Frutas,producto,51.05,5.3
+2007-09,Hortalizas y legumbres,producto,56.389,6.2
+2007-09,Azúcar y dulces,producto,61.962,2.1
+2007-09,Alimentos preparados,producto,65.018,2.7
+2007-09,Bebidas no alcohólicas,producto,58.034,2.9
+2007-10,IPC general,referencia,71.077,3.6
+2007-10,Alimentación y bebidas,total,62.703,5.5
+2007-10,Pan y cereales,producto,67.128,9.3
+2007-10,Carne,producto,66.814,4.4
+2007-10,Pescado y marisco,producto,60.676,2.0
+2007-10,Lácteos y huevos,producto,69.912,13.8
+2007-10,Aceites y grasas,producto,57.635,-12.5
+2007-10,Frutas,producto,51.374,5.5
+2007-10,Hortalizas y legumbres,producto,56.523,6.2
+2007-10,Azúcar y dulces,producto,62.213,2.3
+2007-10,Alimentos preparados,producto,65.641,3.7
+2007-10,Bebidas no alcohólicas,producto,58.181,3.3
+2007-11,IPC general,referencia,71.587,4.1
+2007-11,Alimentación y bebidas,total,63.264,6.3
+2007-11,Pan y cereales,producto,67.555,10.0
+2007-11,Carne,producto,66.952,4.5
+2007-11,Pescado y marisco,producto,61.084,2.1
+2007-11,Lácteos y huevos,producto,72.076,17.5
+2007-11,Aceites y grasas,producto,57.955,-11.2
+2007-11,Frutas,producto,51.683,6.0
+2007-11,Hortalizas y legumbres,producto,57.05,5.9
+2007-11,Azúcar y dulces,producto,62.594,2.8
+2007-11,Alimentos preparados,producto,65.898,4.0
+2007-11,Bebidas no alcohólicas,producto,58.414,3.1
+2007-12,IPC general,referencia,71.887,4.2
+2007-12,Alimentación y bebidas,total,63.806,6.6
+2007-12,Pan y cereales,producto,68.006,10.6
+2007-12,Carne,producto,67.278,4.8
+2007-12,Pescado y marisco,producto,62.655,1.6
+2007-12,Lácteos y huevos,producto,72.672,18.1
+2007-12,Aceites y grasas,producto,57.851,-9.0
+2007-12,Frutas,producto,51.988,6.8
+2007-12,Hortalizas y legumbres,producto,57.537,5.8
+2007-12,Azúcar y dulces,producto,62.673,3.2
+2007-12,Alimentos preparados,producto,66.509,4.7
+2007-12,Bebidas no alcohólicas,producto,58.702,3.4
+2008-01,IPC general,referencia,71.442,4.3
+2008-01,Alimentación y bebidas,total,64.14,7.0
+2008-01,Pan y cereales,producto,68.782,10.2
+2008-01,Carne,producto,67.092,4.5
+2008-01,Pescado y marisco,producto,63.926,3.6
+2008-01,Lácteos y huevos,producto,72.642,17.4
+2008-01,Aceites y grasas,producto,57.225,-2.6
+2008-01,Frutas,producto,52.386,7.5
+2008-01,Hortalizas y legumbres,producto,57.825,5.4
+2008-01,Azúcar y dulces,producto,62.795,3.1
+2008-01,Alimentos preparados,producto,66.966,5.1
+2008-01,Bebidas no alcohólicas,producto,59.286,3.8
+2008-02,IPC general,referencia,71.553,4.4
+2008-02,Alimentación y bebidas,total,64.049,7.0
+2008-02,Pan y cereales,producto,69.444,9.9
+2008-02,Carne,producto,66.768,4.3
+2008-02,Pescado y marisco,producto,62.108,3.5
+2008-02,Lácteos y huevos,producto,72.68,17.3
+2008-02,Aceites y grasas,producto,58.411,0.5
+2008-02,Frutas,producto,52.829,8.3
+2008-02,Hortalizas y legumbres,producto,57.58,3.9
+2008-02,Azúcar y dulces,producto,63.439,3.8
+2008-02,Alimentos preparados,producto,67.665,5.9
+2008-02,Bebidas no alcohólicas,producto,59.843,4.4
+2008-03,IPC general,referencia,72.188,4.5
+2008-03,Alimentación y bebidas,total,64.217,6.9
+2008-03,Pan y cereales,producto,69.782,10.1
+2008-03,Carne,producto,66.852,3.9
+2008-03,Pescado y marisco,producto,61.749,2.3
+2008-03,Lácteos y huevos,producto,72.668,17.3
+2008-03,Aceites y grasas,producto,58.918,2.0
+2008-03,Frutas,producto,53.403,9.4
+2008-03,Hortalizas y legumbres,producto,57.762,3.4
+2008-03,Azúcar y dulces,producto,63.906,3.9
+2008-03,Alimentos preparados,producto,68.489,6.9
+2008-03,Bebidas no alcohólicas,producto,60.196,4.0
+2008-04,IPC general,referencia,72.965,4.2
+2008-04,Alimentación y bebidas,total,64.423,6.6
+2008-04,Pan y cereales,producto,70.052,10.1
+2008-04,Carne,producto,67.369,3.5
+2008-04,Pescado y marisco,producto,61.72,2.1
+2008-04,Lácteos y huevos,producto,72.505,16.7
+2008-04,Aceites y grasas,producto,59.121,2.9
+2008-04,Frutas,producto,53.911,10.1
+2008-04,Hortalizas y legumbres,producto,57.729,1.9
+2008-04,Azúcar y dulces,producto,64.207,3.8
+2008-04,Alimentos preparados,producto,69.105,7.7
+2008-04,Bebidas no alcohólicas,producto,60.025,3.8
+2008-05,IPC general,referencia,73.458,4.6
+2008-05,Alimentación y bebidas,total,64.549,6.7
+2008-05,Pan y cereales,producto,70.433,10.4
+2008-05,Carne,producto,67.621,3.4
+2008-05,Pescado y marisco,producto,61.278,2.1
+2008-05,Lácteos y huevos,producto,72.215,16.2
+2008-05,Aceites y grasas,producto,59.235,3.6
+2008-05,Frutas,producto,54.222,10.1
+2008-05,Hortalizas y legumbres,producto,58.108,2.5
+2008-05,Azúcar y dulces,producto,64.445,3.7
+2008-05,Alimentos preparados,producto,69.57,8.0
+2008-05,Bebidas no alcohólicas,producto,60.345,4.3
+2008-06,IPC general,referencia,73.881,5.0
+2008-06,Alimentación y bebidas,total,64.968,7.2
+2008-06,Pan y cereales,producto,70.703,10.9
+2008-06,Carne,producto,67.81,4.0
+2008-06,Pescado y marisco,producto,62.825,4.1
+2008-06,Lácteos y huevos,producto,72.148,15.9
+2008-06,Aceites y grasas,producto,59.452,4.6
+2008-06,Frutas,producto,54.254,7.8
+2008-06,Hortalizas y legumbres,producto,58.863,4.2
+2008-06,Azúcar y dulces,producto,64.77,4.2
+2008-06,Alimentos preparados,producto,69.895,8.5
+2008-06,Bebidas no alcohólicas,producto,60.752,4.6
+2008-07,IPC general,referencia,73.526,5.3
+2008-07,Alimentación y bebidas,total,65.032,7.0
+2008-07,Pan y cereales,producto,70.998,11.3
+2008-07,Carne,producto,68.034,4.0
+2008-07,Pescado y marisco,producto,62.209,2.3
+2008-07,Lácteos y huevos,producto,72.104,15.6
+2008-07,Aceites y grasas,producto,59.34,4.9
+2008-07,Frutas,producto,54.58,7.6
+2008-07,Hortalizas y legumbres,producto,58.798,4.2
+2008-07,Azúcar y dulces,producto,64.876,4.7
+2008-07,Alimentos preparados,producto,70.275,8.4
+2008-07,Bebidas no alcohólicas,producto,61.188,5.3
+2008-08,IPC general,referencia,73.368,4.9
+2008-08,Alimentación y bebidas,total,65.124,6.8
+2008-08,Pan y cereales,producto,71.206,11.2
+2008-08,Carne,producto,68.39,4.4
+2008-08,Pescado y marisco,producto,61.771,1.2
+2008-08,Lácteos y huevos,producto,72.121,14.7
+2008-08,Aceites y grasas,producto,59.539,4.8
+2008-08,Frutas,producto,54.903,7.9
+2008-08,Hortalizas y legumbres,producto,58.484,3.7
+2008-08,Azúcar y dulces,producto,65.026,5.0
+2008-08,Alimentos preparados,producto,70.567,8.7
+2008-08,Bebidas no alcohólicas,producto,61.434,5.7
+2008-09,IPC general,referencia,73.353,4.5
+2008-09,Alimentación y bebidas,total,65.282,6.1
+2008-09,Pan y cereales,producto,71.308,9.6
+2008-09,Carne,producto,68.973,4.1
+2008-09,Pescado y marisco,producto,61.647,1.1
+2008-09,Lácteos y huevos,producto,72.156,11.5
+2008-09,Aceites y grasas,producto,59.295,4.3
+2008-09,Frutas,producto,55.074,7.9
+2008-09,Hortalizas y legumbres,producto,58.402,3.6
+2008-09,Azúcar y dulces,producto,65.214,5.2
+2008-09,Alimentos preparados,producto,70.78,8.9
+2008-09,Bebidas no alcohólicas,producto,61.575,6.1
+2008-10,IPC general,referencia,73.605,3.6
+2008-10,Alimentación y bebidas,total,65.206,4.0
+2008-10,Pan y cereales,producto,71.235,6.1
+2008-10,Carne,producto,68.983,3.2
+2008-10,Pescado y marisco,producto,60.988,0.5
+2008-10,Lácteos y huevos,producto,72.097,3.1
+2008-10,Aceites y grasas,producto,59.173,2.7
+2008-10,Frutas,producto,55.303,7.6
+2008-10,Hortalizas y legumbres,producto,58.449,3.4
+2008-10,Azúcar y dulces,producto,65.347,5.0
+2008-10,Alimentos preparados,producto,70.954,8.1
+2008-10,Bebidas no alcohólicas,producto,61.568,5.8
+2008-11,IPC general,referencia,73.293,2.4
+2008-11,Alimentación y bebidas,total,65.227,3.1
+2008-11,Pan y cereales,producto,71.257,5.5
+2008-11,Carne,producto,69.023,3.1
+2008-11,Pescado y marisco,producto,61.316,0.4
+2008-11,Lácteos y huevos,producto,71.737,-0.5
+2008-11,Aceites y grasas,producto,58.566,1.1
+2008-11,Frutas,producto,55.449,7.3
+2008-11,Hortalizas y legumbres,producto,58.338,2.3
+2008-11,Azúcar y dulces,producto,65.605,4.8
+2008-11,Alimentos preparados,producto,71.355,8.3
+2008-11,Bebidas no alcohólicas,producto,61.755,5.7
+2008-12,IPC general,referencia,72.917,1.4
+2008-12,Alimentación y bebidas,total,65.331,2.4
+2008-12,Pan y cereales,producto,71.451,5.1
+2008-12,Carne,producto,69.012,2.6
+2008-12,Pescado y marisco,producto,62.113,-0.9
+2008-12,Lácteos y huevos,producto,72.136,-0.7
+2008-12,Aceites y grasas,producto,57.025,-1.4
+2008-12,Frutas,producto,55.417,6.6
+2008-12,Hortalizas y legumbres,producto,58.307,1.3
+2008-12,Azúcar y dulces,producto,65.171,4.0
+2008-12,Alimentos preparados,producto,71.395,7.3
+2008-12,Bebidas no alcohólicas,producto,61.749,5.2
+2009-01,IPC general,referencia,72.018,0.8
+2009-01,Alimentación y bebidas,total,65.337,1.9
+2009-01,Pan y cereales,producto,71.516,4.0
+2009-01,Carne,producto,69.165,3.1
+2009-01,Pescado y marisco,producto,62.366,-2.4
+2009-01,Lácteos y huevos,producto,71.86,-1.1
+2009-01,Aceites y grasas,producto,54.91,-4.0
+2009-01,Frutas,producto,55.434,5.8
+2009-01,Hortalizas y legumbres,producto,58.589,1.3
+2009-01,Azúcar y dulces,producto,65.145,3.7
+2009-01,Alimentos preparados,producto,71.386,6.6
+2009-01,Bebidas no alcohólicas,producto,62.028,4.6
+2009-02,IPC general,referencia,72.026,0.7
+2009-02,Alimentación y bebidas,total,65.038,1.5
+2009-02,Pan y cereales,producto,71.394,2.8
+2009-02,Carne,producto,68.851,3.1
+2009-02,Pescado y marisco,producto,61.137,-1.6
+2009-02,Lácteos y huevos,producto,71.539,-1.6
+2009-02,Aceites y grasas,producto,53.589,-8.3
+2009-02,Frutas,producto,55.551,5.2
+2009-02,Hortalizas y legumbres,producto,59.074,2.6
+2009-02,Azúcar y dulces,producto,64.712,2.0
+2009-02,Alimentos preparados,producto,71.344,5.4
+2009-02,Bebidas no alcohólicas,producto,62.365,4.2
+2009-03,IPC general,referencia,72.144,-0.1
+2009-03,Alimentación y bebidas,total,64.6,0.6
+2009-03,Pan y cereales,producto,71.207,2.0
+2009-03,Carne,producto,68.244,2.1
+2009-03,Pescado y marisco,producto,59.658,-3.4
+2009-03,Lácteos y huevos,producto,71.258,-1.9
+2009-03,Aceites y grasas,producto,52.86,-10.3
+2009-03,Frutas,producto,55.601,4.1
+2009-03,Hortalizas y legumbres,producto,59.261,2.6
+2009-03,Azúcar y dulces,producto,64.288,0.6
+2009-03,Alimentos preparados,producto,71.526,4.4
+2009-03,Bebidas no alcohólicas,producto,62.344,3.6
+2009-04,IPC general,referencia,72.849,-0.2
+2009-04,Alimentación y bebidas,total,64.391,-0.1
+2009-04,Pan y cereales,producto,71.194,1.6
+2009-04,Carne,producto,67.739,0.5
+2009-04,Pescado y marisco,producto,59.685,-3.3
+2009-04,Lácteos y huevos,producto,70.752,-2.4
+2009-04,Aceites y grasas,producto,51.919,-12.2
+2009-04,Frutas,producto,55.477,2.9
+2009-04,Hortalizas y legumbres,producto,59.456,3.0
+2009-04,Azúcar y dulces,producto,64.042,-0.3
+2009-04,Alimentos preparados,producto,71.673,3.7
+2009-04,Bebidas no alcohólicas,producto,62.518,4.2
+2009-05,IPC general,referencia,72.823,-0.9
+2009-05,Alimentación y bebidas,total,64.046,-0.8
+2009-05,Pan y cereales,producto,71.102,0.9
+2009-05,Carne,producto,67.305,-0.5
+2009-05,Pescado y marisco,producto,59.525,-2.9
+2009-05,Lácteos y huevos,producto,69.547,-3.7
+2009-05,Aceites y grasas,producto,51.498,-13.1
+2009-05,Frutas,producto,55.292,2.0
+2009-05,Hortalizas y legumbres,producto,59.43,2.3
+2009-05,Azúcar y dulces,producto,63.89,-0.9
+2009-05,Alimentos preparados,producto,71.741,3.1
+2009-05,Bebidas no alcohólicas,producto,62.367,3.4
+2009-06,IPC general,referencia,73.144,-1.0
+2009-06,Alimentación y bebidas,total,63.784,-1.8
+2009-06,Pan y cereales,producto,71.183,0.7
+2009-06,Carne,producto,67.139,-1.0
+2009-06,Pescado y marisco,producto,59.58,-5.2
+2009-06,Lácteos y huevos,producto,69.21,-4.1
+2009-06,Aceites y grasas,producto,50.413,-15.2
+2009-06,Frutas,producto,54.76,0.9
+2009-06,Hortalizas y legumbres,producto,58.455,-0.7
+2009-06,Azúcar y dulces,producto,63.667,-1.7
+2009-06,Alimentos preparados,producto,71.875,2.8
+2009-06,Bebidas no alcohólicas,producto,62.337,2.6
+2009-07,IPC general,referencia,72.52,-1.4
+2009-07,Alimentación y bebidas,total,63.648,-2.1
+2009-07,Pan y cereales,producto,71.185,0.3
+2009-07,Carne,producto,67.436,-0.9
+2009-07,Pescado y marisco,producto,59.709,-4.0
+2009-07,Lácteos y huevos,producto,68.61,-4.8
+2009-07,Aceites y grasas,producto,49.779,-16.1
+2009-07,Frutas,producto,54.206,-0.7
+2009-07,Hortalizas y legumbres,producto,57.769,-1.8
+2009-07,Azúcar y dulces,producto,63.654,-1.9
+2009-07,Alimentos preparados,producto,72.007,2.5
+2009-07,Bebidas no alcohólicas,producto,62.301,1.8
+2009-08,IPC general,referencia,72.773,-0.8
+2009-08,Alimentación y bebidas,total,63.753,-2.1
+2009-08,Pan y cereales,producto,71.112,-0.1
+2009-08,Carne,producto,67.798,-0.9
+2009-08,Pescado y marisco,producto,60.239,-2.5
+2009-08,Lácteos y huevos,producto,68.704,-4.7
+2009-08,Aceites y grasas,producto,49.726,-16.5
+2009-08,Frutas,producto,53.721,-2.2
+2009-08,Hortalizas y legumbres,producto,57.405,-1.8
+2009-08,Azúcar y dulces,producto,63.821,-1.9
+2009-08,Alimentos preparados,producto,72.095,2.2
+2009-08,Bebidas no alcohólicas,producto,62.624,1.9
+2009-09,IPC general,referencia,72.601,-1.0
+2009-09,Alimentación y bebidas,total,63.723,-2.4
+2009-09,Pan y cereales,producto,71.164,-0.2
+2009-09,Carne,producto,68.137,-1.2
+2009-09,Pescado y marisco,producto,60.308,-2.2
+2009-09,Lácteos y huevos,producto,68.124,-5.6
+2009-09,Aceites y grasas,producto,49.744,-16.1
+2009-09,Frutas,producto,53.587,-2.7
+2009-09,Hortalizas y legumbres,producto,57.296,-1.9
+2009-09,Azúcar y dulces,producto,63.763,-2.2
+2009-09,Alimentos preparados,producto,72.188,2.0
+2009-09,Bebidas no alcohólicas,producto,62.131,0.9
+2009-10,IPC general,referencia,73.119,-0.7
+2009-10,Alimentación y bebidas,total,63.626,-2.4
+2009-10,Pan y cereales,producto,70.965,-0.4
+2009-10,Carne,producto,68.109,-1.3
+2009-10,Pescado y marisco,producto,59.637,-2.2
+2009-10,Lácteos y huevos,producto,67.715,-6.1
+2009-10,Aceites y grasas,producto,52.735,-10.9
+2009-10,Frutas,producto,53.541,-3.2
+2009-10,Hortalizas y legumbres,producto,57.139,-2.2
+2009-10,Azúcar y dulces,producto,63.43,-2.9
+2009-10,Alimentos preparados,producto,72.219,1.8
+2009-10,Bebidas no alcohólicas,producto,62.098,0.9
+2009-11,IPC general,referencia,73.515,0.3
+2009-11,Alimentación y bebidas,total,63.652,-2.4
+2009-11,Pan y cereales,producto,70.892,-0.5
+2009-11,Carne,producto,67.819,-1.7
+2009-11,Pescado y marisco,producto,60.176,-1.9
+2009-11,Lácteos y huevos,producto,67.504,-5.9
+2009-11,Aceites y grasas,producto,53.983,-7.8
+2009-11,Frutas,producto,53.484,-3.5
+2009-11,Hortalizas y legumbres,producto,56.991,-2.3
+2009-11,Azúcar y dulces,producto,63.456,-3.3
+2009-11,Alimentos preparados,producto,72.196,1.2
+2009-11,Bebidas no alcohólicas,producto,62.499,1.2
+2009-12,IPC general,referencia,73.496,0.8
+2009-12,Alimentación y bebidas,total,63.778,-2.4
+2009-12,Pan y cereales,producto,70.788,-0.9
+2009-12,Carne,producto,67.563,-2.1
+2009-12,Pescado y marisco,producto,60.918,-1.9
+2009-12,Lácteos y huevos,producto,68.427,-5.1
+2009-12,Aceites y grasas,producto,53.986,-5.3
+2009-12,Frutas,producto,53.429,-3.6
+2009-12,Hortalizas y legumbres,producto,56.766,-2.6
+2009-12,Azúcar y dulces,producto,63.5,-2.6
+2009-12,Alimentos preparados,producto,72.302,1.3
+2009-12,Bebidas no alcohólicas,producto,62.474,1.2
+2010-01,IPC general,referencia,72.759,1.0
+2010-01,Alimentación y bebidas,total,63.743,-2.4
+2010-01,Pan y cereales,producto,70.776,-1.0
+2010-01,Carne,producto,67.369,-2.6
+2010-01,Pescado y marisco,producto,61.634,-1.2
+2010-01,Lácteos y huevos,producto,68.353,-4.9
+2010-01,Aceites y grasas,producto,53.056,-3.4
+2010-01,Frutas,producto,53.396,-3.7
+2010-01,Hortalizas y legumbres,producto,56.793,-3.1
+2010-01,Azúcar y dulces,producto,63.484,-2.5
+2010-01,Alimentos preparados,producto,72.151,1.1
+2010-01,Bebidas no alcohólicas,producto,61.86,-0.3
+2010-02,IPC general,referencia,72.627,0.8
+2010-02,Alimentación y bebidas,total,63.252,-2.7
+2010-02,Pan y cereales,producto,70.685,-1.0
+2010-02,Carne,producto,66.869,-2.9
+2010-02,Pescado y marisco,producto,60.076,-1.7
+2010-02,Lácteos y huevos,producto,67.818,-5.2
+2010-02,Aceites y grasas,producto,51.635,-3.6
+2010-02,Frutas,producto,53.24,-4.2
+2010-02,Hortalizas y legumbres,producto,56.994,-3.5
+2010-02,Azúcar y dulces,producto,63.326,-2.1
+2010-02,Alimentos preparados,producto,71.946,0.8
+2010-02,Bebidas no alcohólicas,producto,61.574,-1.3
+2010-03,IPC general,referencia,73.165,1.4
+2010-03,Alimentación y bebidas,total,63.266,-2.1
+2010-03,Pan y cereales,producto,70.554,-0.9
+2010-03,Carne,producto,66.759,-2.2
+2010-03,Pescado y marisco,producto,60.513,1.4
+2010-03,Lácteos y huevos,producto,67.748,-4.9
+2010-03,Aceites y grasas,producto,51.138,-3.3
+2010-03,Frutas,producto,53.107,-4.5
+2010-03,Hortalizas y legumbres,producto,57.503,-3.0
+2010-03,Azúcar y dulces,producto,63.141,-1.8
+2010-03,Alimentos preparados,producto,71.537,0.0
+2010-03,Bebidas no alcohólicas,producto,61.67,-1.1
+2010-04,IPC general,referencia,73.944,1.5
+2010-04,Alimentación y bebidas,total,63.191,-1.9
+2010-04,Pan y cereales,producto,70.379,-1.1
+2010-04,Carne,producto,66.918,-1.2
+2010-04,Pescado y marisco,producto,60.573,1.5
+2010-04,Lácteos y huevos,producto,66.853,-5.5
+2010-04,Aceites y grasas,producto,50.633,-2.5
+2010-04,Frutas,producto,53.021,-4.4
+2010-04,Hortalizas y legumbres,producto,58.379,-1.8
+2010-04,Azúcar y dulces,producto,62.903,-1.8
+2010-04,Alimentos preparados,producto,71.382,-0.4
+2010-04,Bebidas no alcohólicas,producto,61.3,-1.9
+2010-05,IPC general,referencia,74.109,1.8
+2010-05,Alimentación y bebidas,total,63.175,-1.4
+2010-05,Pan y cereales,producto,70.431,-0.9
+2010-05,Carne,producto,66.76,-0.8
+2010-05,Pescado y marisco,producto,60.228,1.2
+2010-05,Lácteos y huevos,producto,66.629,-4.2
+2010-05,Aceites y grasas,producto,50.366,-2.2
+2010-05,Frutas,producto,53.172,-3.8
+2010-05,Hortalizas y legumbres,producto,59.267,-0.3
+2010-05,Azúcar y dulces,producto,62.815,-1.7
+2010-05,Alimentos preparados,producto,71.085,-0.9
+2010-05,Bebidas no alcohólicas,producto,61.438,-1.5
+2010-06,IPC general,referencia,74.241,1.5
+2010-06,Alimentación y bebidas,total,63.308,-0.7
+2010-06,Pan y cereales,producto,70.567,-0.9
+2010-06,Carne,producto,66.662,-0.7
+2010-06,Pescado y marisco,producto,60.48,1.5
+2010-06,Lácteos y huevos,producto,66.683,-3.7
+2010-06,Aceites y grasas,producto,50.347,-0.1
+2010-06,Frutas,producto,53.773,-1.8
+2010-06,Hortalizas y legumbres,producto,59.96,2.6
+2010-06,Azúcar y dulces,producto,62.685,-1.5
+2010-06,Alimentos preparados,producto,71.2,-0.9
+2010-06,Bebidas no alcohólicas,producto,60.93,-2.3
+2010-07,IPC general,referencia,73.909,1.9
+2010-07,Alimentación y bebidas,total,63.433,-0.3
+2010-07,Pan y cereales,producto,70.539,-0.9
+2010-07,Carne,producto,66.847,-0.9
+2010-07,Pescado y marisco,producto,60.819,1.9
+2010-07,Lácteos y huevos,producto,66.608,-2.9
+2010-07,Aceites y grasas,producto,50.073,0.6
+2010-07,Frutas,producto,54.152,-0.1
+2010-07,Hortalizas y legumbres,producto,60.407,4.6
+2010-07,Azúcar y dulces,producto,62.678,-1.5
+2010-07,Alimentos preparados,producto,71.327,-0.9
+2010-07,Bebidas no alcohólicas,producto,60.515,-2.9
+2010-08,IPC general,referencia,74.095,1.8
+2010-08,Alimentación y bebidas,total,63.708,-0.1
+2010-08,Pan y cereales,producto,70.595,-0.7
+2010-08,Carne,producto,67.098,-1.0
+2010-08,Pescado y marisco,producto,61.462,2.0
+2010-08,Lácteos y huevos,producto,67.144,-2.3
+2010-08,Aceites y grasas,producto,50.036,0.6
+2010-08,Frutas,producto,54.544,1.5
+2010-08,Hortalizas y legumbres,producto,60.404,5.2
+2010-08,Azúcar y dulces,producto,62.579,-1.9
+2010-08,Alimentos preparados,producto,71.681,-0.6
+2010-08,Bebidas no alcohólicas,producto,60.616,-3.2
+2010-09,IPC general,referencia,74.146,2.1
+2010-09,Alimentación y bebidas,total,63.773,0.1
+2010-09,Pan y cereales,producto,70.635,-0.7
+2010-09,Carne,producto,67.422,-1.0
+2010-09,Pescado y marisco,producto,61.385,1.8
+2010-09,Lácteos y huevos,producto,67.199,-1.4
+2010-09,Aceites y grasas,producto,50.195,0.9
+2010-09,Frutas,producto,54.586,1.9
+2010-09,Hortalizas y legumbres,producto,60.023,4.8
+2010-09,Azúcar y dulces,producto,62.552,-1.9
+2010-09,Alimentos preparados,producto,71.981,-0.3
+2010-09,Bebidas no alcohólicas,producto,60.735,-2.2
+2010-10,IPC general,referencia,74.824,2.3
+2010-10,Alimentación y bebidas,total,63.865,0.4
+2010-10,Pan y cereales,producto,70.657,-0.4
+2010-10,Carne,producto,67.73,-0.6
+2010-10,Pescado y marisco,producto,61.556,3.2
+2010-10,Lácteos y huevos,producto,67.009,-1.0
+2010-10,Aceites y grasas,producto,50.421,-4.4
+2010-10,Frutas,producto,54.5,1.8
+2010-10,Hortalizas y legumbres,producto,59.856,4.8
+2010-10,Azúcar y dulces,producto,62.492,-1.5
+2010-10,Alimentos preparados,producto,72.176,-0.1
+2010-10,Bebidas no alcohólicas,producto,61.273,-1.3
+2010-11,IPC general,referencia,75.23,2.3
+2010-11,Alimentación y bebidas,total,63.998,0.5
+2010-11,Pan y cereales,producto,70.602,-0.4
+2010-11,Carne,producto,67.658,-0.2
+2010-11,Pescado y marisco,producto,61.93,2.9
+2010-11,Lácteos y huevos,producto,67.417,-0.1
+2010-11,Aceites y grasas,producto,50.377,-6.7
+2010-11,Frutas,producto,54.354,1.6
+2010-11,Hortalizas y legumbres,producto,60.271,5.8
+2010-11,Azúcar y dulces,producto,62.483,-1.5
+2010-11,Alimentos preparados,producto,72.156,-0.1
+2010-11,Bebidas no alcohólicas,producto,61.769,-1.2
+2010-12,IPC general,referencia,75.692,3.0
+2010-12,Alimentación y bebidas,total,64.232,0.7
+2010-12,Pan y cereales,producto,70.829,0.1
+2010-12,Carne,producto,67.664,0.1
+2010-12,Pescado y marisco,producto,62.796,3.1
+2010-12,Lácteos y huevos,producto,67.756,-1.0
+2010-12,Aceites y grasas,producto,50.399,-6.6
+2010-12,Frutas,producto,54.209,1.5
+2010-12,Hortalizas y legumbres,producto,60.742,7.0
+2010-12,Azúcar y dulces,producto,62.553,-1.5
+2010-12,Alimentos preparados,producto,72.02,-0.4
+2010-12,Bebidas no alcohólicas,producto,61.857,-1.0
+2011-01,IPC general,referencia,75.138,3.3
+2011-01,Alimentación y bebidas,total,64.313,0.9
+2011-01,Pan y cereales,producto,71.102,0.5
+2011-01,Carne,producto,67.498,0.2
+2011-01,Pescado y marisco,producto,63.159,2.5
+2011-01,Lácteos y huevos,producto,67.473,-1.3
+2011-01,Aceites y grasas,producto,50.295,-5.2
+2011-01,Frutas,producto,54.138,1.4
+2011-01,Hortalizas y legumbres,producto,60.907,7.2
+2011-01,Azúcar y dulces,producto,63.573,0.1
+2011-01,Alimentos preparados,producto,72.074,-0.1
+2011-01,Bebidas no alcohólicas,producto,62.334,0.8
+2011-02,IPC general,referencia,75.234,3.6
+2011-02,Alimentación y bebidas,total,64.2,1.5
+2011-02,Pan y cereales,producto,71.212,0.7
+2011-02,Carne,producto,67.274,0.6
+2011-02,Pescado y marisco,producto,61.949,3.1
+2011-02,Lácteos y huevos,producto,67.295,-0.8
+2011-02,Aceites y grasas,producto,50.641,-1.9
+2011-02,Frutas,producto,54.262,1.9
+2011-02,Hortalizas y legumbres,producto,61.138,7.3
+2011-02,Azúcar y dulces,producto,64.398,1.7
+2011-02,Alimentos preparados,producto,72.483,0.7
+2011-02,Bebidas no alcohólicas,producto,62.834,2.0
+2011-03,IPC general,referencia,75.796,3.6
+2011-03,Alimentación y bebidas,total,64.414,1.8
+2011-03,Pan y cereales,producto,71.29,1.0
+2011-03,Carne,producto,67.492,1.1
+2011-03,Pescado y marisco,producto,62.663,3.6
+2011-03,Lácteos y huevos,producto,67.196,-0.8
+2011-03,Aceites y grasas,producto,50.769,-0.7
+2011-03,Frutas,producto,54.434,2.5
+2011-03,Hortalizas y legumbres,producto,61.068,6.2
+2011-03,Azúcar y dulces,producto,64.991,2.9
+2011-03,Alimentos preparados,producto,72.736,1.7
+2011-03,Bebidas no alcohólicas,producto,63.246,2.6
+2011-04,IPC general,referencia,76.739,3.8
+2011-04,Alimentación y bebidas,total,64.596,2.2
+2011-04,Pan y cereales,producto,71.435,1.5
+2011-04,Carne,producto,67.75,1.2
+2011-04,Pescado y marisco,producto,62.378,3.0
+2011-04,Lácteos y huevos,producto,67.898,1.6
+2011-04,Aceites y grasas,producto,50.985,0.7
+2011-04,Frutas,producto,54.593,3.0
+2011-04,Hortalizas y legumbres,producto,60.823,4.2
+2011-04,Azúcar y dulces,producto,65.68,4.4
+2011-04,Alimentos preparados,producto,72.912,2.1
+2011-04,Bebidas no alcohólicas,producto,63.524,3.6
+2011-05,IPC general,referencia,76.714,3.5
+2011-05,Alimentación y bebidas,total,64.767,2.5
+2011-05,Pan y cereales,producto,71.617,1.7
+2011-05,Carne,producto,68.058,1.9
+2011-05,Pescado y marisco,producto,62.618,4.0
+2011-05,Lácteos y huevos,producto,68.212,2.4
+2011-05,Aceites y grasas,producto,50.821,0.9
+2011-05,Frutas,producto,54.646,2.8
+2011-05,Hortalizas y legumbres,producto,61.003,2.9
+2011-05,Azúcar y dulces,producto,65.705,4.6
+2011-05,Alimentos preparados,producto,73.371,3.2
+2011-05,Bebidas no alcohólicas,producto,63.066,2.6
+2011-06,IPC general,referencia,76.606,3.2
+2011-06,Alimentación y bebidas,total,64.817,2.4
+2011-06,Pan y cereales,producto,71.707,1.6
+2011-06,Carne,producto,68.308,2.5
+2011-06,Pescado y marisco,producto,62.984,4.1
+2011-06,Lácteos y huevos,producto,68.304,2.4
+2011-06,Aceites y grasas,producto,50.944,1.2
+2011-06,Frutas,producto,54.519,1.4
+2011-06,Hortalizas y legumbres,producto,60.003,0.1
+2011-06,Azúcar y dulces,producto,66.018,5.3
+2011-06,Alimentos preparados,producto,73.704,3.5
+2011-06,Bebidas no alcohólicas,producto,63.027,3.4
+2011-07,IPC general,referencia,76.194,3.1
+2011-07,Alimentación y bebidas,total,64.938,2.4
+2011-07,Pan y cereales,producto,71.939,2.0
+2011-07,Carne,producto,68.641,2.7
+2011-07,Pescado y marisco,producto,63.402,4.2
+2011-07,Lácteos y huevos,producto,68.421,2.7
+2011-07,Aceites y grasas,producto,51.057,2.0
+2011-07,Frutas,producto,54.522,0.7
+2011-07,Hortalizas y legumbres,producto,59.158,-2.1
+2011-07,Azúcar y dulces,producto,66.327,5.8
+2011-07,Alimentos preparados,producto,73.981,3.7
+2011-07,Bebidas no alcohólicas,producto,62.909,4.0
+2011-08,IPC general,referencia,76.289,3.0
+2011-08,Alimentación y bebidas,total,65.08,2.2
+2011-08,Pan y cereales,producto,72.156,2.2
+2011-08,Carne,producto,68.834,2.6
+2011-08,Pescado y marisco,producto,63.938,4.0
+2011-08,Lácteos y huevos,producto,68.885,2.6
+2011-08,Aceites y grasas,producto,51.049,2.0
+2011-08,Frutas,producto,54.265,-0.5
+2011-08,Hortalizas y legumbres,producto,58.722,-2.8
+2011-08,Azúcar y dulces,producto,66.565,6.4
+2011-08,Alimentos preparados,producto,74.077,3.3
+2011-08,Bebidas no alcohólicas,producto,62.663,3.4
+2011-09,IPC general,referencia,76.475,3.1
+2011-09,Alimentación y bebidas,total,65.221,2.3
+2011-09,Pan y cereales,producto,72.266,2.3
+2011-09,Carne,producto,69.145,2.6
+2011-09,Pescado y marisco,producto,64.126,4.5
+2011-09,Lácteos y huevos,producto,69.04,2.7
+2011-09,Aceites y grasas,producto,51.099,1.8
+2011-09,Frutas,producto,54.227,-0.7
+2011-09,Hortalizas y legumbres,producto,58.577,-2.4
+2011-09,Azúcar y dulces,producto,66.586,6.4
+2011-09,Alimentos preparados,producto,74.306,3.2
+2011-09,Bebidas no alcohólicas,producto,62.901,3.6
+2011-10,IPC general,referencia,77.078,3.0
+2011-10,Alimentación y bebidas,total,65.267,2.2
+2011-10,Pan y cereales,producto,72.333,2.4
+2011-10,Carne,producto,69.344,2.4
+2011-10,Pescado y marisco,producto,63.904,3.8
+2011-10,Lácteos y huevos,producto,68.883,2.8
+2011-10,Aceites y grasas,producto,51.33,1.8
+2011-10,Frutas,producto,54.255,-0.4
+2011-10,Hortalizas y legumbres,producto,58.322,-2.6
+2011-10,Azúcar y dulces,producto,66.805,6.9
+2011-10,Alimentos preparados,producto,74.21,2.8
+2011-10,Bebidas no alcohólicas,producto,63.657,3.9
+2011-11,IPC general,referencia,77.391,2.9
+2011-11,Alimentación y bebidas,total,65.391,2.2
+2011-11,Pan y cereales,producto,72.444,2.6
+2011-11,Carne,producto,69.38,2.5
+2011-11,Pescado y marisco,producto,64.052,3.4
+2011-11,Lácteos y huevos,producto,69.297,2.8
+2011-11,Aceites y grasas,producto,51.023,1.3
+2011-11,Frutas,producto,54.366,0.0
+2011-11,Hortalizas y legumbres,producto,58.121,-3.6
+2011-11,Azúcar y dulces,producto,66.797,6.9
+2011-11,Alimentos preparados,producto,74.647,3.5
+2011-11,Bebidas no alcohólicas,producto,64.225,4.0
+2011-12,IPC general,referencia,77.492,2.4
+2011-12,Alimentación y bebidas,total,65.599,2.1
+2011-12,Pan y cereales,producto,72.563,2.4
+2011-12,Carne,producto,69.401,2.6
+2011-12,Pescado y marisco,producto,65.097,3.7
+2011-12,Lácteos y huevos,producto,69.553,2.7
+2011-12,Aceites y grasas,producto,51.252,1.7
+2011-12,Frutas,producto,54.324,0.2
+2011-12,Hortalizas y legumbres,producto,57.911,-4.7
+2011-12,Azúcar y dulces,producto,66.563,6.4
+2011-12,Alimentos preparados,producto,74.798,3.9
+2011-12,Bebidas no alcohólicas,producto,64.693,4.6
+2012-01,IPC general,referencia,76.639,2.0
+2012-01,Alimentación y bebidas,total,65.764,2.3
+2012-01,Pan y cereales,producto,72.711,2.3
+2012-01,Carne,producto,69.315,2.7
+2012-01,Pescado y marisco,producto,64.827,2.6
+2012-01,Lácteos y huevos,producto,69.905,3.6
+2012-01,Aceites y grasas,producto,50.991,1.4
+2012-01,Frutas,producto,55.13,1.8
+2012-01,Hortalizas y legumbres,producto,58.389,-4.1
+2012-01,Azúcar y dulces,producto,66.709,4.9
+2012-01,Alimentos preparados,producto,74.803,3.8
+2012-01,Bebidas no alcohólicas,producto,65.104,4.4
+2012-02,IPC general,referencia,76.719,2.0
+2012-02,Alimentación y bebidas,total,65.839,2.6
+2012-02,Pan y cereales,producto,72.883,2.3
+2012-02,Carne,producto,69.011,2.6
+2012-02,Pescado y marisco,producto,63.541,2.6
+2012-02,Lácteos y huevos,producto,70.034,4.1
+2012-02,Aceites y grasas,producto,50.932,0.6
+2012-02,Frutas,producto,54.556,0.5
+2012-02,Hortalizas y legumbres,producto,61.483,0.6
+2012-02,Azúcar y dulces,producto,66.773,3.7
+2012-02,Alimentos preparados,producto,74.736,3.1
+2012-02,Bebidas no alcohólicas,producto,65.487,4.2
+2012-03,IPC general,referencia,77.235,1.9
+2012-03,Alimentación y bebidas,total,65.905,2.3
+2012-03,Pan y cereales,producto,72.912,2.3
+2012-03,Carne,producto,68.996,2.2
+2012-03,Pescado y marisco,producto,63.78,1.8
+2012-03,Lácteos y huevos,producto,70.299,4.6
+2012-03,Aceites y grasas,producto,50.979,0.4
+2012-03,Frutas,producto,53.989,-0.8
+2012-03,Hortalizas y legumbres,producto,61.999,1.5
+2012-03,Azúcar y dulces,producto,66.978,3.1
+2012-03,Alimentos preparados,producto,74.72,2.7
+2012-03,Bebidas no alcohólicas,producto,65.459,3.5
+2012-04,IPC general,referencia,78.32,2.1
+2012-04,Alimentación y bebidas,total,66.065,2.3
+2012-04,Pan y cereales,producto,72.846,2.0
+2012-04,Carne,producto,69.165,2.1
+2012-04,Pescado y marisco,producto,64.192,2.9
+2012-04,Lácteos y huevos,producto,70.726,4.2
+2012-04,Aceites y grasas,producto,50.87,-0.2
+2012-04,Frutas,producto,55.232,1.2
+2012-04,Hortalizas y legumbres,producto,60.875,0.1
+2012-04,Azúcar y dulces,producto,67.137,2.2
+2012-04,Alimentos preparados,producto,74.97,2.8
+2012-04,Bebidas no alcohólicas,producto,65.392,2.9
+2012-05,IPC general,referencia,78.204,1.9
+2012-05,Alimentación y bebidas,total,65.949,1.8
+2012-05,Pan y cereales,producto,72.922,1.8
+2012-05,Carne,producto,69.249,1.7
+2012-05,Pescado y marisco,producto,64.07,2.3
+2012-05,Lácteos y huevos,producto,70.839,3.9
+2012-05,Aceites y grasas,producto,50.808,0.0
+2012-05,Frutas,producto,55.188,1.0
+2012-05,Hortalizas y legumbres,producto,59.665,-2.2
+2012-05,Azúcar y dulces,producto,67.176,2.2
+2012-05,Alimentos preparados,producto,75.181,2.5
+2012-05,Bebidas no alcohólicas,producto,65.044,3.1
+2012-06,IPC general,referencia,78.058,1.9
+2012-06,Alimentación y bebidas,total,66.214,2.2
+2012-06,Pan y cereales,producto,72.957,1.7
+2012-06,Carne,producto,69.065,1.1
+2012-06,Pescado y marisco,producto,63.928,1.5
+2012-06,Lácteos y huevos,producto,70.854,3.7
+2012-06,Aceites y grasas,producto,50.606,-0.7
+2012-06,Frutas,producto,59.575,9.3
+2012-06,Hortalizas y legumbres,producto,58.448,-2.6
+2012-06,Azúcar y dulces,producto,67.133,1.7
+2012-06,Alimentos preparados,producto,75.106,1.9
+2012-06,Bebidas no alcohólicas,producto,64.892,3.0
+2012-07,IPC general,referencia,77.876,2.2
+2012-07,Alimentación y bebidas,total,66.111,1.8
+2012-07,Pan y cereales,producto,73.091,1.6
+2012-07,Carne,producto,69.186,0.8
+2012-07,Pescado y marisco,producto,64.275,1.4
+2012-07,Lácteos y huevos,producto,70.802,3.5
+2012-07,Aceites y grasas,producto,50.41,-1.3
+2012-07,Frutas,producto,58.722,7.7
+2012-07,Hortalizas y legumbres,producto,57.854,-2.2
+2012-07,Azúcar y dulces,producto,67.118,1.2
+2012-07,Alimentos preparados,producto,75.119,1.5
+2012-07,Bebidas no alcohólicas,producto,64.364,2.3
+2012-08,IPC general,referencia,78.314,2.7
+2012-08,Alimentación y bebidas,total,66.392,2.0
+2012-08,Pan y cereales,producto,73.253,1.5
+2012-08,Carne,producto,69.571,1.1
+2012-08,Pescado y marisco,producto,64.837,1.4
+2012-08,Lácteos y huevos,producto,70.668,2.6
+2012-08,Aceites y grasas,producto,50.676,-0.7
+2012-08,Frutas,producto,59.678,10.0
+2012-08,Hortalizas y legumbres,producto,57.791,-1.6
+2012-08,Azúcar y dulces,producto,67.299,1.1
+2012-08,Alimentos preparados,producto,75.903,2.5
+2012-08,Bebidas no alcohólicas,producto,64.098,2.3
+2012-09,IPC general,referencia,79.085,3.4
+2012-09,Alimentación y bebidas,total,66.718,2.3
+2012-09,Pan y cereales,producto,73.589,1.8
+2012-09,Carne,producto,70.565,2.1
+2012-09,Pescado y marisco,producto,64.838,1.1
+2012-09,Lácteos y huevos,producto,70.817,2.6
+2012-09,Aceites y grasas,producto,51.352,0.5
+2012-09,Frutas,producto,57.547,6.1
+2012-09,Hortalizas y legumbres,producto,59.611,1.8
+2012-09,Azúcar y dulces,producto,67.689,1.7
+2012-09,Alimentos preparados,producto,76.374,2.8
+2012-09,Bebidas no alcohólicas,producto,64.382,2.4
+2012-10,IPC general,referencia,79.757,3.5
+2012-10,Alimentación y bebidas,total,66.923,2.5
+2012-10,Pan y cereales,producto,73.715,1.9
+2012-10,Carne,producto,70.859,2.2
+2012-10,Pescado y marisco,producto,64.325,0.7
+2012-10,Lácteos y huevos,producto,71.005,3.1
+2012-10,Aceites y grasas,producto,54.052,5.3
+2012-10,Frutas,producto,57.386,5.8
+2012-10,Hortalizas y legumbres,producto,59.933,2.8
+2012-10,Azúcar y dulces,producto,68.111,2.0
+2012-10,Alimentos preparados,producto,76.29,2.8
+2012-10,Bebidas no alcohólicas,producto,64.91,2.0
+2012-11,IPC general,referencia,79.658,2.9
+2012-11,Alimentación y bebidas,total,67.255,2.9
+2012-11,Pan y cereales,producto,73.656,1.7
+2012-11,Carne,producto,71.024,2.4
+2012-11,Pescado y marisco,producto,64.611,0.9
+2012-11,Lácteos y huevos,producto,71.098,2.6
+2012-11,Aceites y grasas,producto,57.781,13.2
+2012-11,Frutas,producto,57.466,5.7
+2012-11,Hortalizas y legumbres,producto,60.781,4.6
+2012-11,Azúcar y dulces,producto,68.049,1.9
+2012-11,Alimentos preparados,producto,76.299,2.2
+2012-11,Bebidas no alcohólicas,producto,65.226,1.6
+2012-12,IPC general,referencia,79.714,2.9
+2012-12,Alimentación y bebidas,total,67.585,3.0
+2012-12,Pan y cereales,producto,73.673,1.5
+2012-12,Carne,producto,71.25,2.7
+2012-12,Pescado y marisco,producto,65.263,0.3
+2012-12,Lácteos y huevos,producto,71.21,2.4
+2012-12,Aceites y grasas,producto,59.442,16.0
+2012-12,Frutas,producto,56.167,3.4
+2012-12,Hortalizas y legumbres,producto,63.329,9.4
+2012-12,Azúcar y dulces,producto,67.76,1.8
+2012-12,Alimentos preparados,producto,76.118,1.8
+2012-12,Bebidas no alcohólicas,producto,65.277,0.9
+2013-01,IPC general,referencia,78.695,2.7
+2013-01,Alimentación y bebidas,total,67.843,3.2
+2013-01,Pan y cereales,producto,73.849,1.6
+2013-01,Carne,producto,71.294,2.9
+2013-01,Pescado y marisco,producto,66.053,1.9
+2013-01,Lácteos y huevos,producto,70.883,1.4
+2013-01,Aceites y grasas,producto,60.174,18.0
+2013-01,Frutas,producto,57.476,4.3
+2013-01,Hortalizas y legumbres,producto,62.975,7.9
+2013-01,Azúcar y dulces,producto,67.755,1.6
+2013-01,Alimentos preparados,producto,76.188,1.9
+2013-01,Bebidas no alcohólicas,producto,65.739,1.0
+2013-02,IPC general,referencia,78.832,2.8
+2013-02,Alimentación y bebidas,total,67.666,2.8
+2013-02,Pan y cereales,producto,73.989,1.5
+2013-02,Carne,producto,70.942,2.8
+2013-02,Pescado y marisco,producto,65.008,2.3
+2013-02,Lácteos y huevos,producto,70.87,1.2
+2013-02,Aceites y grasas,producto,60.638,19.1
+2013-02,Frutas,producto,57.444,5.3
+2013-02,Hortalizas y legumbres,producto,63.007,2.5
+2013-02,Azúcar y dulces,producto,67.833,1.6
+2013-02,Alimentos preparados,producto,76.205,2.0
+2013-02,Bebidas no alcohólicas,producto,65.924,0.7
+2013-03,IPC general,referencia,79.109,2.4
+2013-03,Alimentación y bebidas,total,67.587,2.6
+2013-03,Pan y cereales,producto,74.085,1.6
+2013-03,Carne,producto,70.596,2.3
+2013-03,Pescado y marisco,producto,65.085,2.0
+2013-03,Lácteos y huevos,producto,70.789,0.7
+2013-03,Aceites y grasas,producto,60.94,19.5
+2013-03,Frutas,producto,56.729,5.1
+2013-03,Hortalizas y legumbres,producto,63.518,2.4
+2013-03,Azúcar y dulces,producto,67.708,1.1
+2013-03,Alimentos preparados,producto,76.32,2.1
+2013-03,Bebidas no alcohólicas,producto,66.034,0.9
+2013-04,IPC general,referencia,79.405,1.4
+2013-04,Alimentación y bebidas,total,67.79,2.6
+2013-04,Pan y cereales,producto,74.081,1.7
+2013-04,Carne,producto,70.504,1.9
+2013-04,Pescado y marisco,producto,65.356,1.8
+2013-04,Lácteos y huevos,producto,70.633,-0.1
+2013-04,Aceites y grasas,producto,61.695,21.3
+2013-04,Frutas,producto,57.772,4.6
+2013-04,Hortalizas y legumbres,producto,64.39,5.8
+2013-04,Azúcar y dulces,producto,67.688,0.8
+2013-04,Alimentos preparados,producto,76.284,1.8
+2013-04,Bebidas no alcohólicas,producto,65.936,0.8
+2013-05,IPC general,referencia,79.551,1.7
+2013-05,Alimentación y bebidas,total,68.205,3.4
+2013-05,Pan y cereales,producto,74.078,1.6
+2013-05,Carne,producto,70.402,1.7
+2013-05,Pescado y marisco,producto,65.245,1.8
+2013-05,Lácteos y huevos,producto,70.577,-0.4
+2013-05,Aceites y grasas,producto,62.584,23.2
+2013-05,Frutas,producto,60.543,9.7
+2013-05,Hortalizas y legumbres,producto,65.775,10.2
+2013-05,Azúcar y dulces,producto,67.833,1.0
+2013-05,Alimentos preparados,producto,76.411,1.6
+2013-05,Bebidas no alcohólicas,producto,66.025,1.5
+2013-06,IPC general,referencia,79.669,2.1
+2013-06,Alimentación y bebidas,total,68.632,3.7
+2013-06,Pan y cereales,producto,74.083,1.5
+2013-06,Carne,producto,70.606,2.2
+2013-06,Pescado y marisco,producto,65.156,1.9
+2013-06,Lácteos y huevos,producto,70.566,-0.4
+2013-06,Aceites y grasas,producto,62.755,24.0
+2013-06,Frutas,producto,65.772,10.4
+2013-06,Hortalizas y legumbres,producto,64.044,9.6
+2013-06,Azúcar y dulces,producto,67.943,1.2
+2013-06,Alimentos preparados,producto,76.666,2.1
+2013-06,Bebidas no alcohólicas,producto,65.953,1.6
+2013-07,IPC general,referencia,79.258,1.8
+2013-07,Alimentación y bebidas,total,69.014,4.4
+2013-07,Pan y cereales,producto,74.043,1.3
+2013-07,Carne,producto,70.748,2.3
+2013-07,Pescado y marisco,producto,65.239,1.5
+2013-07,Lácteos y huevos,producto,70.573,-0.3
+2013-07,Aceites y grasas,producto,62.445,23.9
+2013-07,Frutas,producto,70.038,19.3
+2013-07,Hortalizas y legumbres,producto,63.396,9.6
+2013-07,Azúcar y dulces,producto,68.017,1.3
+2013-07,Alimentos preparados,producto,76.789,2.2
+2013-07,Bebidas no alcohólicas,producto,65.395,1.6
+2013-08,IPC general,referencia,79.504,1.5
+2013-08,Alimentación y bebidas,total,69.324,4.4
+2013-08,Pan y cereales,producto,74.101,1.2
+2013-08,Carne,producto,71.067,2.2
+2013-08,Pescado y marisco,producto,65.62,1.2
+2013-08,Lácteos y huevos,producto,70.739,0.1
+2013-08,Aceites y grasas,producto,62.457,23.2
+2013-08,Frutas,producto,73.038,22.4
+2013-08,Hortalizas y legumbres,producto,61.753,6.9
+2013-08,Azúcar y dulces,producto,67.998,1.0
+2013-08,Alimentos preparados,producto,77.075,1.5
+2013-08,Bebidas no alcohólicas,producto,65.217,1.7
+2013-09,IPC general,referencia,79.355,0.3
+2013-09,Alimentación y bebidas,total,68.397,2.5
+2013-09,Pan y cereales,producto,74.123,0.7
+2013-09,Carne,producto,71.399,1.2
+2013-09,Pescado y marisco,producto,65.606,1.2
+2013-09,Lácteos y huevos,producto,70.992,0.2
+2013-09,Aceites y grasas,producto,62.352,21.4
+2013-09,Frutas,producto,63.648,10.6
+2013-09,Hortalizas y legumbres,producto,61.016,2.4
+2013-09,Azúcar y dulces,producto,68.002,0.5
+2013-09,Alimentos preparados,producto,77.302,1.2
+2013-09,Bebidas no alcohólicas,producto,65.306,1.4
+2013-10,IPC general,referencia,79.678,-0.1
+2013-10,Alimentación y bebidas,total,67.989,1.6
+2013-10,Pan y cereales,producto,74.095,0.5
+2013-10,Carne,producto,71.33,0.7
+2013-10,Pescado y marisco,producto,65.239,1.4
+2013-10,Lácteos y huevos,producto,71.397,0.6
+2013-10,Aceites y grasas,producto,62.253,15.2
+2013-10,Frutas,producto,60.629,5.7
+2013-10,Hortalizas y legumbres,producto,59.981,0.1
+2013-10,Azúcar y dulces,producto,67.999,-0.2
+2013-10,Alimentos preparados,producto,77.193,1.2
+2013-10,Bebidas no alcohólicas,producto,65.714,1.2
+2013-11,IPC general,referencia,79.844,0.2
+2013-11,Alimentación y bebidas,total,68.081,1.2
+2013-11,Pan y cereales,producto,74.015,0.5
+2013-11,Carne,producto,71.222,0.3
+2013-11,Pescado y marisco,producto,66.267,2.6
+2013-11,Lácteos y huevos,producto,71.74,0.9
+2013-11,Aceites y grasas,producto,61.843,7.0
+2013-11,Frutas,producto,59.934,4.3
+2013-11,Hortalizas y legumbres,producto,60.205,-0.9
+2013-11,Azúcar y dulces,producto,67.873,-0.3
+2013-11,Alimentos preparados,producto,77.109,1.1
+2013-11,Bebidas no alcohólicas,producto,65.961,1.1
+2013-12,IPC general,referencia,79.915,0.3
+2013-12,Alimentación y bebidas,total,68.393,1.2
+2013-12,Pan y cereales,producto,73.988,0.4
+2013-12,Carne,producto,71.419,0.2
+2013-12,Pescado y marisco,producto,66.501,1.9
+2013-12,Lácteos y huevos,producto,71.818,0.9
+2013-12,Aceites y grasas,producto,61.352,3.2
+2013-12,Frutas,producto,57.821,2.9
+2013-12,Hortalizas y legumbres,producto,65.226,3.0
+2013-12,Azúcar y dulces,producto,67.818,0.1
+2013-12,Alimentos preparados,producto,77.016,1.2
+2013-12,Bebidas no alcohólicas,producto,65.882,0.9
+2014-01,IPC general,referencia,78.852,0.2
+2014-01,Alimentación y bebidas,total,68.649,1.2
+2014-01,Pan y cereales,producto,73.922,0.1
+2014-01,Carne,producto,71.39,0.1
+2014-01,Pescado y marisco,producto,68.555,3.8
+2014-01,Lácteos y huevos,producto,71.981,1.5
+2014-01,Aceites y grasas,producto,60.961,1.3
+2014-01,Frutas,producto,58.611,2.0
+2014-01,Hortalizas y legumbres,producto,64.11,1.8
+2014-01,Azúcar y dulces,producto,67.758,0.0
+2014-01,Alimentos preparados,producto,77.141,1.3
+2014-01,Bebidas no alcohólicas,producto,66.027,0.4
+2014-02,IPC general,referencia,78.818,0.0
+2014-02,Alimentación y bebidas,total,68.402,1.1
+2014-02,Pan y cereales,producto,73.85,-0.2
+2014-02,Carne,producto,71.194,0.4
+2014-02,Pescado y marisco,producto,68.575,5.5
+2014-02,Lácteos y huevos,producto,71.912,1.5
+2014-02,Aceites y grasas,producto,59.244,-2.3
+2014-02,Frutas,producto,57.764,0.6
+2014-02,Hortalizas y legumbres,producto,63.777,1.2
+2014-02,Azúcar y dulces,producto,67.788,-0.1
+2014-02,Alimentos preparados,producto,77.175,1.3
+2014-02,Bebidas no alcohólicas,producto,65.983,0.1
+2014-03,IPC general,referencia,78.994,-0.1
+2014-03,Alimentación y bebidas,total,67.947,0.5
+2014-03,Pan y cereales,producto,73.828,-0.3
+2014-03,Carne,producto,71.242,0.9
+2014-03,Pescado y marisco,producto,67.054,3.0
+2014-03,Lácteos y huevos,producto,71.943,1.6
+2014-03,Aceites y grasas,producto,57.849,-5.1
+2014-03,Frutas,producto,56.403,-0.6
+2014-03,Hortalizas y legumbres,producto,63.184,-0.5
+2014-03,Azúcar y dulces,producto,67.697,0.0
+2014-03,Alimentos preparados,producto,76.942,0.8
+2014-03,Bebidas no alcohólicas,producto,65.903,-0.2
+2014-04,IPC general,referencia,79.697,0.4
+2014-04,Alimentación y bebidas,total,67.878,0.1
+2014-04,Pan y cereales,producto,73.771,-0.4
+2014-04,Carne,producto,71.135,0.9
+2014-04,Pescado y marisco,producto,66.562,1.8
+2014-04,Lácteos y huevos,producto,71.786,1.6
+2014-04,Aceites y grasas,producto,56.45,-8.5
+2014-04,Frutas,producto,57.553,-0.4
+2014-04,Hortalizas y legumbres,producto,63.443,-1.5
+2014-04,Azúcar y dulces,producto,67.147,-0.8
+2014-04,Alimentos preparados,producto,76.786,0.7
+2014-04,Bebidas no alcohólicas,producto,65.491,-0.7
+2014-05,IPC general,referencia,79.715,0.2
+2014-05,Alimentación y bebidas,total,67.65,-0.8
+2014-05,Pan y cereales,producto,73.723,-0.5
+2014-05,Carne,producto,71.212,1.2
+2014-05,Pescado y marisco,producto,66.259,1.6
+2014-05,Lácteos y huevos,producto,71.608,1.5
+2014-05,Aceites y grasas,producto,55.219,-11.8
+2014-05,Frutas,producto,58.317,-3.7
+2014-05,Hortalizas y legumbres,producto,61.044,-7.2
+2014-05,Azúcar y dulces,producto,67.014,-1.2
+2014-05,Alimentos preparados,producto,76.54,0.2
+2014-05,Bebidas no alcohólicas,producto,65.813,-0.3
+2014-06,IPC general,referencia,79.737,0.1
+2014-06,Alimentación y bebidas,total,67.622,-1.5
+2014-06,Pan y cereales,producto,73.615,-0.6
+2014-06,Carne,producto,71.097,0.7
+2014-06,Pescado y marisco,producto,66.144,1.5
+2014-06,Lácteos y huevos,producto,71.422,1.2
+2014-06,Aceites y grasas,producto,53.735,-14.4
+2014-06,Frutas,producto,60.958,-7.3
+2014-06,Hortalizas y legumbres,producto,59.446,-7.2
+2014-06,Azúcar y dulces,producto,66.792,-1.7
+2014-06,Alimentos preparados,producto,76.302,-0.5
+2014-06,Bebidas no alcohólicas,producto,65.575,-0.6
+2014-07,IPC general,referencia,78.987,-0.3
+2014-07,Alimentación y bebidas,total,67.637,-2.0
+2014-07,Pan y cereales,producto,73.625,-0.6
+2014-07,Carne,producto,71.093,0.5
+2014-07,Pescado y marisco,producto,66.689,2.2
+2014-07,Lácteos y huevos,producto,71.433,1.2
+2014-07,Aceites y grasas,producto,53.188,-14.8
+2014-07,Frutas,producto,61.291,-12.5
+2014-07,Hortalizas y legumbres,producto,58.938,-7.0
+2014-07,Azúcar y dulces,producto,66.672,-2.0
+2014-07,Alimentos preparados,producto,76.315,-0.6
+2014-07,Bebidas no alcohólicas,producto,65.195,-0.3
+2014-08,IPC general,referencia,79.112,-0.5
+2014-08,Alimentación y bebidas,total,67.806,-2.2
+2014-08,Pan y cereales,producto,73.583,-0.7
+2014-08,Carne,producto,71.093,0.0
+2014-08,Pescado y marisco,producto,67.576,3.0
+2014-08,Lácteos y huevos,producto,71.517,1.1
+2014-08,Aceites y grasas,producto,53.023,-15.1
+2014-08,Frutas,producto,62.929,-13.8
+2014-08,Hortalizas y legumbres,producto,57.781,-6.4
+2014-08,Azúcar y dulces,producto,66.614,-2.0
+2014-08,Alimentos preparados,producto,76.269,-1.0
+2014-08,Bebidas no alcohólicas,producto,64.988,-0.4
+2014-09,IPC general,referencia,79.233,-0.2
+2014-09,Alimentación y bebidas,total,67.873,-0.8
+2014-09,Pan y cereales,producto,73.629,-0.7
+2014-09,Carne,producto,71.056,-0.5
+2014-09,Pescado y marisco,producto,67.57,3.0
+2014-09,Lácteos y huevos,producto,71.545,0.8
+2014-09,Aceites y grasas,producto,54.898,-12.0
+2014-09,Frutas,producto,61.239,-3.8
+2014-09,Hortalizas y legumbres,producto,59.73,-2.1
+2014-09,Azúcar y dulces,producto,66.616,-2.0
+2014-09,Alimentos preparados,producto,76.303,-1.3
+2014-09,Bebidas no alcohólicas,producto,64.965,-0.5
+2014-10,IPC general,referencia,79.602,-0.1
+2014-10,Alimentación y bebidas,total,68.236,0.4
+2014-10,Pan y cereales,producto,73.622,-0.6
+2014-10,Carne,producto,71.046,-0.4
+2014-10,Pescado y marisco,producto,67.605,3.6
+2014-10,Lácteos y huevos,producto,71.552,0.2
+2014-10,Aceites y grasas,producto,56.89,-8.6
+2014-10,Frutas,producto,62.578,3.2
+2014-10,Hortalizas y legumbres,producto,61.469,2.5
+2014-10,Azúcar y dulces,producto,65.959,-3.0
+2014-10,Alimentos preparados,producto,76.244,-1.2
+2014-10,Bebidas no alcohólicas,producto,65.084,-1.0
+2014-11,IPC general,referencia,79.547,-0.4
+2014-11,Alimentación y bebidas,total,68.202,0.2
+2014-11,Pan y cereales,producto,73.634,-0.5
+2014-11,Carne,producto,70.986,-0.3
+2014-11,Pescado y marisco,producto,68.026,2.7
+2014-11,Lácteos y huevos,producto,71.541,-0.3
+2014-11,Aceites y grasas,producto,57.933,-6.3
+2014-11,Frutas,producto,61.703,3.0
+2014-11,Hortalizas y legumbres,producto,61.019,1.4
+2014-11,Azúcar y dulces,producto,65.828,-3.0
+2014-11,Alimentos preparados,producto,76.069,-1.3
+2014-11,Bebidas no alcohólicas,producto,65.581,-0.6
+2014-12,IPC general,referencia,79.083,-1.0
+2014-12,Alimentación y bebidas,total,68.166,-0.3
+2014-12,Pan y cereales,producto,73.733,-0.3
+2014-12,Carne,producto,71.142,-0.4
+2014-12,Pescado y marisco,producto,68.752,3.4
+2014-12,Lácteos y huevos,producto,71.482,-0.5
+2014-12,Aceites y grasas,producto,58.653,-4.4
+2014-12,Frutas,producto,59.61,3.1
+2014-12,Hortalizas y legumbres,producto,61.32,-6.0
+2014-12,Azúcar y dulces,producto,65.625,-3.2
+2014-12,Alimentos preparados,producto,75.967,-1.4
+2014-12,Bebidas no alcohólicas,producto,65.649,-0.4
+2015-01,IPC general,referencia,77.812,-1.3
+2015-01,Alimentación y bebidas,total,68.351,-0.4
+2015-01,Pan y cereales,producto,73.789,-0.2
+2015-01,Carne,producto,71.217,-0.2
+2015-01,Pescado y marisco,producto,69.241,1.0
+2015-01,Lácteos y huevos,producto,71.407,-0.8
+2015-01,Aceites y grasas,producto,59.466,-2.5
+2015-01,Frutas,producto,58.977,0.6
+2015-01,Hortalizas y legumbres,producto,62.57,-2.4
+2015-01,Azúcar y dulces,producto,65.614,-3.2
+2015-01,Alimentos preparados,producto,75.942,-1.6
+2015-01,Bebidas no alcohólicas,producto,65.949,-0.1
+2015-02,IPC general,referencia,77.972,-1.1
+2015-02,Alimentación y bebidas,total,68.534,0.2
+2015-02,Pan y cereales,producto,73.765,-0.1
+2015-02,Carne,producto,71.046,-0.2
+2015-02,Pescado y marisco,producto,68.268,-0.4
+2015-02,Lácteos y huevos,producto,71.258,-0.9
+2015-02,Aceites y grasas,producto,60.063,1.4
+2015-02,Frutas,producto,58.698,1.6
+2015-02,Hortalizas y legumbres,producto,66.346,4.0
+2015-02,Azúcar y dulces,producto,65.625,-3.2
+2015-02,Alimentos preparados,producto,76.06,-1.4
+2015-02,Bebidas no alcohólicas,producto,66.027,0.1
+2015-03,IPC general,referencia,78.47,-0.7
+2015-03,Alimentación y bebidas,total,68.202,0.4
+2015-03,Pan y cereales,producto,73.856,0.0
+2015-03,Carne,producto,70.944,-0.4
+2015-03,Pescado y marisco,producto,68.061,1.5
+2015-03,Lácteos y huevos,producto,71.218,-1.0
+2015-03,Aceites y grasas,producto,60.962,5.4
+2015-03,Frutas,producto,57.843,2.6
+2015-03,Hortalizas y legumbres,producto,63.965,1.2
+2015-03,Azúcar y dulces,producto,65.506,-3.2
+2015-03,Alimentos preparados,producto,76.163,-1.0
+2015-03,Bebidas no alcohólicas,producto,66.102,0.3
+2015-04,IPC general,referencia,79.191,-0.6
+2015-04,Alimentación y bebidas,total,68.151,0.4
+2015-04,Pan y cereales,producto,73.868,0.1
+2015-04,Carne,producto,70.901,-0.3
+2015-04,Pescado y marisco,producto,67.654,1.6
+2015-04,Lácteos y huevos,producto,71.081,-1.0
+2015-04,Aceites y grasas,producto,62.477,10.7
+2015-04,Frutas,producto,57.19,-0.6
+2015-04,Hortalizas y legumbres,producto,64.445,1.6
+2015-04,Azúcar y dulces,producto,65.39,-2.6
+2015-04,Alimentos preparados,producto,76.136,-0.8
+2015-04,Bebidas no alcohólicas,producto,66.097,0.9
+2015-05,IPC general,referencia,79.569,-0.2
+2015-05,Alimentación y bebidas,total,68.504,1.3
+2015-05,Pan y cereales,producto,73.812,0.1
+2015-05,Carne,producto,70.722,-0.7
+2015-05,Pescado y marisco,producto,67.502,1.9
+2015-05,Lácteos y huevos,producto,71.113,-0.7
+2015-05,Aceites y grasas,producto,62.907,13.9
+2015-05,Frutas,producto,61.479,5.4
+2015-05,Hortalizas y legumbres,producto,63.895,4.7
+2015-05,Azúcar y dulces,producto,65.475,-2.3
+2015-05,Alimentos preparados,producto,76.1,-0.6
+2015-05,Bebidas no alcohólicas,producto,66.36,0.8
+2015-06,IPC general,referencia,79.782,0.1
+2015-06,Alimentación y bebidas,total,68.852,1.8
+2015-06,Pan y cereales,producto,73.831,0.3
+2015-06,Carne,producto,70.682,-0.6
+2015-06,Pescado y marisco,producto,68.092,2.9
+2015-06,Lácteos y huevos,producto,71.041,-0.5
+2015-06,Aceites y grasas,producto,63.937,19.0
+2015-06,Frutas,producto,65.212,7.0
+2015-06,Hortalizas y legumbres,producto,62.66,5.4
+2015-06,Azúcar y dulces,producto,65.636,-1.7
+2015-06,Alimentos preparados,producto,76.152,-0.2
+2015-06,Bebidas no alcohólicas,producto,66.132,0.8
+2015-07,IPC general,referencia,79.041,0.1
+2015-07,Alimentación y bebidas,total,68.578,1.4
+2015-07,Pan y cereales,producto,73.788,0.2
+2015-07,Carne,producto,70.811,-0.4
+2015-07,Pescado y marisco,producto,68.264,2.4
+2015-07,Lácteos y huevos,producto,70.999,-0.6
+2015-07,Aceites y grasas,producto,65.173,22.5
+2015-07,Frutas,producto,63.937,4.3
+2015-07,Hortalizas y legumbres,producto,60.565,2.8
+2015-07,Azúcar y dulces,producto,65.633,-1.6
+2015-07,Alimentos preparados,producto,76.003,-0.4
+2015-07,Bebidas no alcohólicas,producto,65.858,1.0
+2015-08,IPC general,referencia,78.779,-0.4
+2015-08,Alimentación y bebidas,total,69.064,1.9
+2015-08,Pan y cereales,producto,73.831,0.3
+2015-08,Carne,producto,70.962,-0.2
+2015-08,Pescado y marisco,producto,69.184,2.4
+2015-08,Lácteos y huevos,producto,70.847,-0.9
+2015-08,Aceites y grasas,producto,67.028,26.4
+2015-08,Frutas,producto,65.471,4.0
+2015-08,Hortalizas y legumbres,producto,61.841,7.0
+2015-08,Azúcar y dulces,producto,65.832,-1.2
+2015-08,Alimentos preparados,producto,76.026,-0.3
+2015-08,Bebidas no alcohólicas,producto,65.702,1.1
+2015-09,IPC general,referencia,78.536,-0.9
+2015-09,Alimentación y bebidas,total,69.114,1.8
+2015-09,Pan y cereales,producto,73.859,0.3
+2015-09,Carne,producto,71.063,0.0
+2015-09,Pescado y marisco,producto,69.29,2.5
+2015-09,Lácteos y huevos,producto,70.831,-1.0
+2015-09,Aceites y grasas,producto,69.137,25.9
+2015-09,Frutas,producto,62.418,1.9
+2015-09,Hortalizas y legumbres,producto,64.24,7.6
+2015-09,Azúcar y dulces,producto,65.85,-1.1
+2015-09,Alimentos preparados,producto,76.063,-0.3
+2015-09,Bebidas no alcohólicas,producto,65.875,1.4
+2015-10,IPC general,referencia,79.039,-0.7
+2015-10,Alimentación y bebidas,total,69.511,1.9
+2015-10,Pan y cereales,producto,73.805,0.2
+2015-10,Carne,producto,70.947,-0.1
+2015-10,Pescado y marisco,producto,69.257,2.4
+2015-10,Lácteos y huevos,producto,70.733,-1.1
+2015-10,Aceites y grasas,producto,71.482,25.6
+2015-10,Frutas,producto,64.389,2.9
+2015-10,Hortalizas y legumbres,producto,65.748,7.0
+2015-10,Azúcar y dulces,producto,66.182,0.3
+2015-10,Alimentos preparados,producto,76.023,-0.3
+2015-10,Bebidas no alcohólicas,producto,65.987,1.4
+2015-11,IPC general,referencia,79.329,-0.3
+2015-11,Alimentación y bebidas,total,69.38,1.7
+2015-11,Pan y cereales,producto,73.731,0.1
+2015-11,Carne,producto,70.873,-0.2
+2015-11,Pescado y marisco,producto,69.448,2.1
+2015-11,Lácteos y huevos,producto,70.638,-1.3
+2015-11,Aceites y grasas,producto,72.5,25.1
+2015-11,Frutas,producto,64.197,4.0
+2015-11,Hortalizas y legumbres,producto,64.128,5.1
+2015-11,Azúcar y dulces,producto,66.436,0.9
+2015-11,Alimentos preparados,producto,76.173,0.1
+2015-11,Bebidas no alcohólicas,producto,66.239,1.0
+2015-12,IPC general,referencia,79.097,0.0
+2015-12,Alimentación y bebidas,total,69.401,1.8
+2015-12,Pan y cereales,producto,73.849,0.2
+2015-12,Carne,producto,70.879,-0.4
+2015-12,Pescado y marisco,producto,70.791,3.0
+2015-12,Lácteos y huevos,producto,70.618,-1.2
+2015-12,Aceites y grasas,producto,72.497,23.6
+2015-12,Frutas,producto,62.69,5.2
+2015-12,Hortalizas y legumbres,producto,63.757,4.0
+2015-12,Azúcar y dulces,producto,66.447,1.3
+2015-12,Alimentos preparados,producto,76.172,0.3
+2015-12,Bebidas no alcohólicas,producto,66.575,1.4
+2016-01,IPC general,referencia,77.588,-0.3
+2016-01,Alimentación y bebidas,total,69.782,2.1
+2016-01,Pan y cereales,producto,73.91,0.2
+2016-01,Carne,producto,70.999,-0.3
+2016-01,Pescado y marisco,producto,73.706,6.4
+2016-01,Lácteos y huevos,producto,70.721,-1.0
+2016-01,Aceites y grasas,producto,72.604,22.1
+2016-01,Frutas,producto,62.659,6.2
+2016-01,Hortalizas y legumbres,producto,63.266,1.1
+2016-01,Azúcar y dulces,producto,66.305,1.1
+2016-01,Alimentos preparados,producto,76.175,0.3
+2016-01,Bebidas no alcohólicas,producto,66.767,1.2
+2016-02,IPC general,referencia,77.314,-0.8
+2016-02,Alimentación y bebidas,total,69.402,1.3
+2016-02,Pan y cereales,producto,74.037,0.4
+2016-02,Carne,producto,70.688,-0.5
+2016-02,Pescado y marisco,producto,71.258,4.4
+2016-02,Lácteos y huevos,producto,70.565,-1.0
+2016-02,Aceites y grasas,producto,72.471,20.7
+2016-02,Frutas,producto,61.446,4.7
+2016-02,Hortalizas y legumbres,producto,64.391,-2.9
+2016-02,Azúcar y dulces,producto,66.539,1.4
+2016-02,Alimentos preparados,producto,76.199,0.2
+2016-02,Bebidas no alcohólicas,producto,66.937,1.4
+2016-03,IPC general,referencia,77.81,-0.8
+2016-03,Alimentación y bebidas,total,69.373,1.7
+2016-03,Pan y cereales,producto,74.091,0.3
+2016-03,Carne,producto,70.592,-0.5
+2016-03,Pescado y marisco,producto,69.985,2.8
+2016-03,Lácteos y huevos,producto,70.522,-1.0
+2016-03,Aceites y grasas,producto,72.257,18.5
+2016-03,Frutas,producto,60.758,5.0
+2016-03,Hortalizas y legumbres,producto,66.543,4.0
+2016-03,Azúcar y dulces,producto,66.598,1.7
+2016-03,Alimentos preparados,producto,76.193,0.0
+2016-03,Bebidas no alcohólicas,producto,67.137,1.6
+2016-04,IPC general,referencia,78.355,-1.1
+2016-04,Alimentación y bebidas,total,69.49,2.0
+2016-04,Pan y cereales,producto,74.109,0.3
+2016-04,Carne,producto,70.435,-0.7
+2016-04,Pescado y marisco,producto,70.219,3.8
+2016-04,Lácteos y huevos,producto,70.345,-1.0
+2016-04,Aceites y grasas,producto,72.053,15.3
+2016-04,Frutas,producto,61.484,7.5
+2016-04,Hortalizas y legumbres,producto,67.291,4.4
+2016-04,Azúcar y dulces,producto,66.806,2.2
+2016-04,Alimentos preparados,producto,76.12,0.0
+2016-04,Bebidas no alcohólicas,producto,67.167,1.6
+2016-05,IPC general,referencia,78.783,-1.0
+2016-05,Alimentación y bebidas,total,69.689,1.7
+2016-05,Pan y cereales,producto,74.068,0.3
+2016-05,Carne,producto,70.328,-0.6
+2016-05,Pescado y marisco,producto,69.834,3.5
+2016-05,Lácteos y huevos,producto,70.239,-1.2
+2016-05,Aceites y grasas,producto,72.393,15.1
+2016-05,Frutas,producto,65.426,6.4
+2016-05,Hortalizas y legumbres,producto,66.243,3.7
+2016-05,Azúcar y dulces,producto,66.73,1.9
+2016-05,Alimentos preparados,producto,76.123,0.0
+2016-05,Bebidas no alcohólicas,producto,67.27,1.4
+2016-06,IPC general,referencia,79.148,-0.8
+2016-06,Alimentación y bebidas,total,69.871,1.5
+2016-06,Pan y cereales,producto,74.013,0.2
+2016-06,Carne,producto,70.329,-0.5
+2016-06,Pescado y marisco,producto,70.107,3.0
+2016-06,Lácteos y huevos,producto,70.091,-1.3
+2016-06,Aceites y grasas,producto,71.94,12.5
+2016-06,Frutas,producto,68.93,5.7
+2016-06,Hortalizas y legumbres,producto,64.823,3.5
+2016-06,Azúcar y dulces,producto,66.541,1.4
+2016-06,Alimentos preparados,producto,75.992,-0.2
+2016-06,Bebidas no alcohólicas,producto,67.22,1.6
+2016-07,IPC general,referencia,78.572,-0.6
+2016-07,Alimentación y bebidas,total,70.317,2.5
+2016-07,Pan y cereales,producto,73.953,0.2
+2016-07,Carne,producto,70.422,-0.5
+2016-07,Pescado y marisco,producto,71.223,4.3
+2016-07,Lácteos y huevos,producto,70.042,-1.3
+2016-07,Aceites y grasas,producto,71.41,9.6
+2016-07,Frutas,producto,71.904,12.5
+2016-07,Hortalizas y legumbres,producto,65.271,7.8
+2016-07,Azúcar y dulces,producto,66.351,1.1
+2016-07,Alimentos preparados,producto,76.079,0.1
+2016-07,Bebidas no alcohólicas,producto,66.967,1.7
+2016-08,IPC general,referencia,78.673,-0.1
+2016-08,Alimentación y bebidas,total,70.288,1.8
+2016-08,Pan y cereales,producto,73.964,0.2
+2016-08,Carne,producto,70.618,-0.5
+2016-08,Pescado y marisco,producto,71.533,3.4
+2016-08,Lácteos y huevos,producto,70.147,-1.0
+2016-08,Aceites y grasas,producto,71.173,6.2
+2016-08,Frutas,producto,71.439,9.1
+2016-08,Hortalizas y legumbres,producto,64.627,4.5
+2016-08,Azúcar y dulces,producto,66.483,1.0
+2016-08,Alimentos preparados,producto,76.103,0.1
+2016-08,Bebidas no alcohólicas,producto,66.646,1.4
+2016-09,IPC general,referencia,78.677,0.2
+2016-09,Alimentación y bebidas,total,69.664,0.8
+2016-09,Pan y cereales,producto,73.929,0.1
+2016-09,Carne,producto,70.722,-0.5
+2016-09,Pescado y marisco,producto,71.325,2.9
+2016-09,Lácteos y huevos,producto,70.137,-1.0
+2016-09,Aceites y grasas,producto,70.747,2.3
+2016-09,Frutas,producto,65.295,4.6
+2016-09,Hortalizas y legumbres,producto,64.561,0.5
+2016-09,Azúcar y dulces,producto,66.594,1.1
+2016-09,Alimentos preparados,producto,76.089,0.0
+2016-09,Bebidas no alcohólicas,producto,66.604,1.1
+2016-10,IPC general,referencia,79.576,0.7
+2016-10,Alimentación y bebidas,total,69.728,0.3
+2016-10,Pan y cereales,producto,73.931,0.2
+2016-10,Carne,producto,70.691,-0.4
+2016-10,Pescado y marisco,producto,71.542,3.3
+2016-10,Lácteos y huevos,producto,69.936,-1.1
+2016-10,Aceites y grasas,producto,70.501,-1.4
+2016-10,Frutas,producto,65.251,1.3
+2016-10,Hortalizas y legumbres,producto,65.388,-0.5
+2016-10,Azúcar y dulces,producto,66.791,0.9
+2016-10,Alimentos preparados,producto,75.973,-0.1
+2016-10,Bebidas no alcohólicas,producto,66.537,0.8
+2016-11,IPC general,referencia,79.864,0.7
+2016-11,Alimentación y bebidas,total,69.642,0.4
+2016-11,Pan y cereales,producto,73.98,0.3
+2016-11,Carne,producto,70.731,-0.2
+2016-11,Pescado y marisco,producto,71.766,3.3
+2016-11,Lácteos y huevos,producto,69.924,-1.0
+2016-11,Aceites y grasas,producto,70.561,-2.7
+2016-11,Frutas,producto,64.026,-0.3
+2016-11,Hortalizas y legumbres,producto,65.192,1.7
+2016-11,Azúcar y dulces,producto,66.658,0.3
+2016-11,Alimentos preparados,producto,76.006,-0.2
+2016-11,Bebidas no alcohólicas,producto,66.714,0.7
+2016-12,IPC general,referencia,80.338,1.6
+2016-12,Alimentación y bebidas,total,69.958,0.8
+2016-12,Pan y cereales,producto,73.905,0.1
+2016-12,Carne,producto,70.92,0.1
+2016-12,Pescado y marisco,producto,72.918,3.0
+2016-12,Lácteos y huevos,producto,69.881,-1.0
+2016-12,Aceites y grasas,producto,70.504,-2.7
+2016-12,Frutas,producto,62.892,0.3
+2016-12,Hortalizas y legumbres,producto,67.919,6.5
+2016-12,Azúcar y dulces,producto,66.327,-0.2
+2016-12,Alimentos preparados,producto,76.009,-0.2
+2016-12,Bebidas no alcohólicas,producto,66.657,0.1
+2017-01,IPC general,referencia,79.896,3.0
+2017-01,Alimentación y bebidas,total,70.464,1.0
+2017-01,Pan y cereales,producto,73.895,0.0
+2017-01,Carne,producto,70.877,-0.2
+2017-01,Pescado y marisco,producto,75.051,1.8
+2017-01,Lácteos y huevos,producto,69.949,-1.1
+2017-01,Aceites y grasas,producto,70.61,-2.7
+2017-01,Frutas,producto,62.719,0.1
+2017-01,Hortalizas y legumbres,producto,70.624,11.6
+2017-01,Azúcar y dulces,producto,66.57,0.4
+2017-01,Alimentos preparados,producto,75.845,-0.4
+2017-01,Bebidas no alcohólicas,producto,66.726,-0.1
+2017-02,IPC general,referencia,79.608,3.0
+2017-02,Alimentación y bebidas,total,70.572,1.7
+2017-02,Pan y cereales,producto,73.732,-0.4
+2017-02,Carne,producto,70.418,-0.4
+2017-02,Pescado y marisco,producto,73.057,2.5
+2017-02,Lácteos y huevos,producto,69.463,-1.6
+2017-02,Aceites y grasas,producto,71.29,-1.6
+2017-02,Frutas,producto,65.508,6.6
+2017-02,Hortalizas y legumbres,producto,73.363,13.9
+2017-02,Azúcar y dulces,producto,66.566,0.0
+2017-02,Alimentos preparados,producto,74.678,-2.0
+2017-02,Bebidas no alcohólicas,producto,66.789,-0.2
+2017-03,IPC general,referencia,79.592,2.3
+2017-03,Alimentación y bebidas,total,70.329,1.4
+2017-03,Pan y cereales,producto,73.729,-0.5
+2017-03,Carne,producto,70.491,-0.1
+2017-03,Pescado y marisco,producto,72.626,3.8
+2017-03,Lácteos y huevos,producto,69.865,-0.9
+2017-03,Aceites y grasas,producto,71.729,-0.7
+2017-03,Frutas,producto,66.095,8.8
+2017-03,Hortalizas y legumbres,producto,70.119,5.4
+2017-03,Azúcar y dulces,producto,66.617,0.0
+2017-03,Alimentos preparados,producto,74.684,-2.0
+2017-03,Bebidas no alcohólicas,producto,66.589,-0.8
+2017-04,IPC general,referencia,80.356,2.6
+2017-04,Alimentación y bebidas,total,70.269,1.1
+2017-04,Pan y cereales,producto,73.815,-0.4
+2017-04,Carne,producto,70.527,0.1
+2017-04,Pescado y marisco,producto,72.883,3.8
+2017-04,Lácteos y huevos,producto,69.777,-0.8
+2017-04,Aceites y grasas,producto,72.388,0.5
+2017-04,Frutas,producto,64.086,4.2
+2017-04,Hortalizas y legumbres,producto,70.819,5.2
+2017-04,Azúcar y dulces,producto,66.47,-0.5
+2017-04,Alimentos preparados,producto,74.958,-1.5
+2017-04,Bebidas no alcohólicas,producto,66.818,-0.5
+2017-05,IPC general,referencia,80.308,1.9
+2017-05,Alimentación y bebidas,total,70.476,1.1
+2017-05,Pan y cereales,producto,73.676,-0.5
+2017-05,Carne,producto,70.905,0.8
+2017-05,Pescado y marisco,producto,72.506,3.8
+2017-05,Lácteos y huevos,producto,69.901,-0.5
+2017-05,Aceites y grasas,producto,74.079,2.3
+2017-05,Frutas,producto,67.417,3.0
+2017-05,Hortalizas y legumbres,producto,68.132,2.9
+2017-05,Azúcar y dulces,producto,66.45,-0.4
+2017-05,Alimentos preparados,producto,75.156,-1.3
+2017-05,Bebidas no alcohólicas,producto,67.222,-0.1
+2017-06,IPC general,referencia,80.343,1.5
+2017-06,Alimentación y bebidas,total,70.445,0.8
+2017-06,Pan y cereales,producto,73.81,-0.3
+2017-06,Carne,producto,71.16,1.2
+2017-06,Pescado y marisco,producto,72.956,4.1
+2017-06,Lácteos y huevos,producto,69.979,-0.2
+2017-06,Aceites y grasas,producto,74.896,4.1
+2017-06,Frutas,producto,67.695,-1.8
+2017-06,Hortalizas y legumbres,producto,65.563,1.1
+2017-06,Azúcar y dulces,producto,66.382,-0.2
+2017-06,Alimentos preparados,producto,75.305,-0.9
+2017-06,Bebidas no alcohólicas,producto,67.621,0.6
+2017-07,IPC general,referencia,79.788,1.5
+2017-07,Alimentación y bebidas,total,70.419,0.1
+2017-07,Pan y cereales,producto,73.903,-0.1
+2017-07,Carne,producto,71.527,1.6
+2017-07,Pescado y marisco,producto,74.222,4.2
+2017-07,Lácteos y huevos,producto,70.016,0.0
+2017-07,Aceites y grasas,producto,75.764,6.1
+2017-07,Frutas,producto,64.868,-9.8
+2017-07,Hortalizas y legumbres,producto,65.493,0.3
+2017-07,Azúcar y dulces,producto,66.159,-0.3
+2017-07,Alimentos preparados,producto,75.383,-0.9
+2017-07,Bebidas no alcohólicas,producto,67.663,1.0
+2017-08,IPC general,referencia,79.947,1.6
+2017-08,Alimentación y bebidas,total,70.323,0.0
+2017-08,Pan y cereales,producto,74.002,0.1
+2017-08,Carne,producto,71.683,1.5
+2017-08,Pescado y marisco,producto,74.519,4.2
+2017-08,Lácteos y huevos,producto,70.164,0.0
+2017-08,Aceites y grasas,producto,76.189,7.0
+2017-08,Frutas,producto,62.68,-12.3
+2017-08,Hortalizas y legumbres,producto,65.19,0.9
+2017-08,Azúcar y dulces,producto,66.493,0.0
+2017-08,Alimentos preparados,producto,75.814,-0.4
+2017-08,Bebidas no alcohólicas,producto,67.833,1.8
+2017-09,IPC general,referencia,80.086,1.8
+2017-09,Alimentación y bebidas,total,70.509,1.2
+2017-09,Pan y cereales,producto,73.776,-0.2
+2017-09,Carne,producto,71.605,1.2
+2017-09,Pescado y marisco,producto,74.445,4.4
+2017-09,Lácteos y huevos,producto,69.955,-0.3
+2017-09,Aceites y grasas,producto,76.148,7.6
+2017-09,Frutas,producto,63.885,-2.2
+2017-09,Hortalizas y legumbres,producto,67.013,3.8
+2017-09,Azúcar y dulces,producto,66.496,-0.1
+2017-09,Alimentos preparados,producto,75.076,-1.3
+2017-09,Bebidas no alcohólicas,producto,67.809,1.8
+2017-10,IPC general,referencia,80.825,1.6
+2017-10,Alimentación y bebidas,total,71.362,2.3
+2017-10,Pan y cereales,producto,73.872,-0.1
+2017-10,Carne,producto,71.622,1.3
+2017-10,Pescado y marisco,producto,74.158,3.7
+2017-10,Lácteos y huevos,producto,69.926,0.0
+2017-10,Aceites y grasas,producto,76.303,8.2
+2017-10,Frutas,producto,71.065,8.9
+2017-10,Hortalizas y legumbres,producto,68.024,4.0
+2017-10,Azúcar y dulces,producto,66.58,-0.3
+2017-10,Alimentos preparados,producto,75.142,-1.1
+2017-10,Bebidas no alcohólicas,producto,68.058,2.3
+2017-11,IPC general,referencia,81.194,1.7
+2017-11,Alimentación y bebidas,total,71.187,2.2
+2017-11,Pan y cereales,producto,73.903,-0.1
+2017-11,Carne,producto,71.871,1.6
+2017-11,Pescado y marisco,producto,74.304,3.5
+2017-11,Lácteos y huevos,producto,70.191,0.4
+2017-11,Aceites y grasas,producto,76.925,9.0
+2017-11,Frutas,producto,68.423,6.9
+2017-11,Hortalizas y legumbres,producto,67.459,3.5
+2017-11,Azúcar y dulces,producto,66.703,0.1
+2017-11,Alimentos preparados,producto,75.404,-0.8
+2017-11,Bebidas no alcohólicas,producto,68.162,2.2
+2017-12,IPC general,referencia,81.231,1.1
+2017-12,Alimentación y bebidas,total,71.145,1.7
+2017-12,Pan y cereales,producto,73.923,0.0
+2017-12,Carne,producto,72.05,1.6
+2017-12,Pescado y marisco,producto,75.345,3.3
+2017-12,Lácteos y huevos,producto,70.462,0.8
+2017-12,Aceites y grasas,producto,76.653,8.7
+2017-12,Frutas,producto,65.022,3.4
+2017-12,Hortalizas y legumbres,producto,68.86,1.4
+2017-12,Azúcar y dulces,producto,66.275,-0.1
+2017-12,Alimentos preparados,producto,75.131,-1.2
+2017-12,Bebidas no alcohólicas,producto,68.291,2.5
+2018-01,IPC general,referencia,80.355,0.6
+2018-01,Alimentación y bebidas,total,71.36,1.3
+2018-01,Pan y cereales,producto,73.955,0.1
+2018-01,Carne,producto,71.907,1.5
+2018-01,Pescado y marisco,producto,77.346,3.1
+2018-01,Lácteos y huevos,producto,70.564,0.9
+2018-01,Aceites y grasas,producto,76.496,8.3
+2018-01,Frutas,producto,64.346,2.6
+2018-01,Hortalizas y legumbres,producto,69.155,-2.1
+2018-01,Azúcar y dulces,producto,66.469,-0.2
+2018-01,Alimentos preparados,producto,75.175,-0.9
+2018-01,Bebidas no alcohólicas,producto,68.807,3.1
+2018-02,IPC general,referencia,80.463,1.1
+2018-02,Alimentación y bebidas,total,71.242,0.9
+2018-02,Pan y cereales,producto,74.089,0.5
+2018-02,Carne,producto,71.607,1.7
+2018-02,Pescado y marisco,producto,74.894,2.5
+2018-02,Lácteos y huevos,producto,70.209,1.1
+2018-02,Aceites y grasas,producto,76.447,7.2
+2018-02,Frutas,producto,67.362,2.8
+2018-02,Hortalizas y legumbres,producto,68.584,-6.5
+2018-02,Azúcar y dulces,producto,66.556,0.0
+2018-02,Alimentos preparados,producto,74.993,0.4
+2018-02,Bebidas no alcohólicas,producto,69.029,3.4
+2018-03,IPC general,referencia,80.558,1.2
+2018-03,Alimentación y bebidas,total,71.304,1.4
+2018-03,Pan y cereales,producto,74.088,0.5
+2018-03,Carne,producto,71.751,1.8
+2018-03,Pescado y marisco,producto,74.723,2.9
+2018-03,Lácteos y huevos,producto,70.46,0.9
+2018-03,Aceites y grasas,producto,76.274,6.3
+2018-03,Frutas,producto,67.727,2.5
+2018-03,Hortalizas y legumbres,producto,68.316,-2.6
+2018-03,Azúcar y dulces,producto,66.665,0.1
+2018-03,Alimentos preparados,producto,75.075,0.5
+2018-03,Bebidas no alcohólicas,producto,69.055,3.7
+2018-04,IPC general,referencia,81.224,1.1
+2018-04,Alimentación y bebidas,total,71.383,1.6
+2018-04,Pan y cereales,producto,74.208,0.5
+2018-04,Carne,producto,71.767,1.8
+2018-04,Pescado y marisco,producto,75.897,4.1
+2018-04,Lácteos y huevos,producto,70.806,1.5
+2018-04,Aceites y grasas,producto,76.081,5.1
+2018-04,Frutas,producto,66.093,3.1
+2018-04,Hortalizas y legumbres,producto,68.951,-2.6
+2018-04,Azúcar y dulces,producto,66.721,0.4
+2018-04,Alimentos preparados,producto,75.492,0.7
+2018-04,Bebidas no alcohólicas,producto,68.612,2.7
+2018-05,IPC general,referencia,81.956,2.1
+2018-05,Alimentación y bebidas,total,71.882,2.0
+2018-05,Pan y cereales,producto,74.487,1.1
+2018-05,Carne,producto,71.834,1.3
+2018-05,Pescado y marisco,producto,75.111,3.6
+2018-05,Lácteos y huevos,producto,70.394,0.7
+2018-05,Aceites y grasas,producto,75.123,1.4
+2018-05,Frutas,producto,71.367,5.9
+2018-05,Hortalizas y legumbres,producto,69.263,1.7
+2018-05,Azúcar y dulces,producto,66.631,0.3
+2018-05,Alimentos preparados,producto,75.716,0.7
+2018-05,Bebidas no alcohólicas,producto,69.098,2.8
+2018-06,IPC general,referencia,82.17,2.3
+2018-06,Alimentación y bebidas,total,72.207,2.5
+2018-06,Pan y cereales,producto,74.45,0.9
+2018-06,Carne,producto,71.926,1.1
+2018-06,Pescado y marisco,producto,74.813,2.5
+2018-06,Lácteos y huevos,producto,70.617,0.9
+2018-06,Aceites y grasas,producto,74.016,-1.2
+2018-06,Frutas,producto,75.896,12.1
+2018-06,Hortalizas y legumbres,producto,68.36,4.3
+2018-06,Azúcar y dulces,producto,66.377,0.0
+2018-06,Alimentos preparados,producto,75.477,0.2
+2018-06,Bebidas no alcohólicas,producto,68.974,2.0
+2018-07,IPC general,referencia,81.581,2.2
+2018-07,Alimentación y bebidas,total,71.703,1.8
+2018-07,Pan y cereales,producto,74.585,0.9
+2018-07,Carne,producto,72.075,0.8
+2018-07,Pescado y marisco,producto,74.687,0.6
+2018-07,Lácteos y huevos,producto,70.781,1.1
+2018-07,Aceites y grasas,producto,71.888,-5.1
+2018-07,Frutas,producto,71.998,11.0
+2018-07,Hortalizas y legumbres,producto,67.587,3.2
+2018-07,Azúcar y dulces,producto,66.106,-0.1
+2018-07,Alimentos preparados,producto,75.075,-0.4
+2018-07,Bebidas no alcohólicas,producto,69.091,2.1
+2018-08,IPC general,referencia,81.697,2.2
+2018-08,Alimentación y bebidas,total,71.731,2.0
+2018-08,Pan y cereales,producto,74.648,0.9
+2018-08,Carne,producto,72.154,0.7
+2018-08,Pescado y marisco,producto,74.814,0.4
+2018-08,Lácteos y huevos,producto,70.847,1.0
+2018-08,Aceites y grasas,producto,71.686,-5.9
+2018-08,Frutas,producto,71.825,14.6
+2018-08,Hortalizas y legumbres,producto,66.981,2.7
+2018-08,Azúcar y dulces,producto,66.506,0.0
+2018-08,Alimentos preparados,producto,75.764,-0.1
+2018-08,Bebidas no alcohólicas,producto,69.276,2.1
+2018-09,IPC general,referencia,81.897,2.3
+2018-09,Alimentación y bebidas,total,71.727,1.7
+2018-09,Pan y cereales,producto,74.728,1.3
+2018-09,Carne,producto,72.342,1.0
+2018-09,Pescado y marisco,producto,75.465,1.4
+2018-09,Lácteos y huevos,producto,70.615,0.9
+2018-09,Aceites y grasas,producto,70.825,-7.0
+2018-09,Frutas,producto,70.303,10.0
+2018-09,Hortalizas y legumbres,producto,68.144,1.7
+2018-09,Azúcar y dulces,producto,66.438,-0.1
+2018-09,Alimentos preparados,producto,75.353,0.4
+2018-09,Bebidas no alcohólicas,producto,68.991,1.7
+2018-10,IPC general,referencia,82.654,2.3
+2018-10,Alimentación y bebidas,total,72.604,1.7
+2018-10,Pan y cereales,producto,74.821,1.3
+2018-10,Carne,producto,72.398,1.1
+2018-10,Pescado y marisco,producto,75.899,2.3
+2018-10,Lácteos y huevos,producto,70.757,1.2
+2018-10,Aceites y grasas,producto,70.106,-8.1
+2018-10,Frutas,producto,75.234,5.9
+2018-10,Hortalizas y legumbres,producto,70.414,3.5
+2018-10,Azúcar y dulces,producto,67.015,0.7
+2018-10,Alimentos preparados,producto,75.879,1.0
+2018-10,Bebidas no alcohólicas,producto,69.265,1.8
+2018-11,IPC general,referencia,82.563,1.7
+2018-11,Alimentación y bebidas,total,72.217,1.4
+2018-11,Pan y cereales,producto,74.748,1.1
+2018-11,Carne,producto,72.554,1.0
+2018-11,Pescado y marisco,producto,76.101,2.4
+2018-11,Lácteos y huevos,producto,70.64,0.6
+2018-11,Aceites y grasas,producto,68.086,-11.5
+2018-11,Frutas,producto,71.022,3.8
+2018-11,Hortalizas y legumbres,producto,71.161,5.5
+2018-11,Azúcar y dulces,producto,67.148,0.7
+2018-11,Alimentos preparados,producto,75.661,0.3
+2018-11,Bebidas no alcohólicas,producto,69.238,1.6
+2018-12,IPC general,referencia,82.193,1.2
+2018-12,Alimentación y bebidas,total,72.101,1.3
+2018-12,Pan y cereales,producto,74.94,1.4
+2018-12,Carne,producto,72.746,1.0
+2018-12,Pescado y marisco,producto,77.129,2.4
+2018-12,Lácteos y huevos,producto,70.645,0.3
+2018-12,Aceites y grasas,producto,67.323,-12.2
+2018-12,Frutas,producto,68.261,5.0
+2018-12,Hortalizas y legumbres,producto,71.199,3.4
+2018-12,Azúcar y dulces,producto,66.873,0.9
+2018-12,Alimentos preparados,producto,75.552,0.6
+2018-12,Bebidas no alcohólicas,producto,69.428,1.7
+2019-01,IPC general,referencia,81.142,1.0
+2019-01,Alimentación y bebidas,total,72.037,0.9
+2019-01,Pan y cereales,producto,75.054,1.5
+2019-01,Carne,producto,72.49,0.8
+2019-01,Pescado y marisco,producto,77.0,-0.4
+2019-01,Lácteos y huevos,producto,70.745,0.3
+2019-01,Aceites y grasas,producto,67.3,-12.0
+2019-01,Frutas,producto,67.247,4.5
+2019-01,Hortalizas y legumbres,producto,72.437,4.7
+2019-01,Azúcar y dulces,producto,66.927,0.7
+2019-01,Alimentos preparados,producto,74.797,-0.5
+2019-01,Bebidas no alcohólicas,producto,69.519,1.0
+2019-02,IPC general,referencia,81.34,1.1
+2019-02,Alimentación y bebidas,total,72.233,1.4
+2019-02,Pan y cereales,producto,75.189,1.5
+2019-02,Carne,producto,72.359,1.1
+2019-02,Pescado y marisco,producto,75.789,1.2
+2019-02,Lácteos y huevos,producto,70.53,0.5
+2019-02,Aceites y grasas,producto,66.191,-13.4
+2019-02,Frutas,producto,69.168,2.7
+2019-02,Hortalizas y legumbres,producto,73.933,7.8
+2019-02,Azúcar y dulces,producto,67.142,0.9
+2019-02,Alimentos preparados,producto,75.036,0.1
+2019-02,Bebidas no alcohólicas,producto,69.976,1.4
+2019-03,IPC general,referencia,81.636,1.3
+2019-03,Alimentación y bebidas,total,71.974,0.9
+2019-03,Pan y cereales,producto,75.277,1.6
+2019-03,Carne,producto,72.433,1.0
+2019-03,Pescado y marisco,producto,75.307,0.8
+2019-03,Lácteos y huevos,producto,70.876,0.6
+2019-03,Aceites y grasas,producto,66.017,-13.4
+2019-03,Frutas,producto,68.017,0.4
+2019-03,Hortalizas y legumbres,producto,72.267,5.8
+2019-03,Azúcar y dulces,producto,67.327,1.0
+2019-03,Alimentos preparados,producto,75.157,0.1
+2019-03,Bebidas no alcohólicas,producto,70.007,1.4
+2019-04,IPC general,referencia,82.459,1.5
+2019-04,Alimentación y bebidas,total,71.959,0.8
+2019-04,Pan y cereales,producto,75.43,1.6
+2019-04,Carne,producto,72.535,1.1
+2019-04,Pescado y marisco,producto,75.624,-0.4
+2019-04,Lácteos y huevos,producto,71.028,0.3
+2019-04,Aceites y grasas,producto,65.22,-14.3
+2019-04,Frutas,producto,64.864,-1.9
+2019-04,Hortalizas y legumbres,producto,74.532,8.1
+2019-04,Azúcar y dulces,producto,67.421,1.0
+2019-04,Alimentos preparados,producto,75.694,0.3
+2019-04,Bebidas no alcohólicas,producto,70.004,2.0
+2019-05,IPC general,referencia,82.619,0.8
+2019-05,Alimentación y bebidas,total,72.272,0.5
+2019-05,Pan y cereales,producto,75.385,1.2
+2019-05,Carne,producto,72.992,1.6
+2019-05,Pescado y marisco,producto,76.567,1.9
+2019-05,Lácteos y huevos,producto,70.895,0.7
+2019-05,Aceites y grasas,producto,64.674,-13.9
+2019-05,Frutas,producto,67.507,-5.4
+2019-05,Hortalizas y legumbres,producto,72.71,5.0
+2019-05,Azúcar y dulces,producto,67.523,1.3
+2019-05,Alimentos preparados,producto,76.066,0.5
+2019-05,Bebidas no alcohólicas,producto,70.161,1.5
+2019-06,IPC general,referencia,82.522,0.4
+2019-06,Alimentación y bebidas,total,72.555,0.5
+2019-06,Pan y cereales,producto,75.433,1.3
+2019-06,Carne,producto,73.362,2.0
+2019-06,Pescado y marisco,producto,75.894,1.4
+2019-06,Lácteos y huevos,producto,70.964,0.5
+2019-06,Aceites y grasas,producto,63.216,-14.6
+2019-06,Frutas,producto,70.881,-6.6
+2019-06,Hortalizas y legumbres,producto,72.116,5.5
+2019-06,Azúcar y dulces,producto,67.475,1.7
+2019-06,Alimentos preparados,producto,75.965,0.6
+2019-06,Bebidas no alcohólicas,producto,70.201,1.8
+2019-07,IPC general,referencia,82.011,0.5
+2019-07,Alimentación y bebidas,total,72.363,0.9
+2019-07,Pan y cereales,producto,75.507,1.2
+2019-07,Carne,producto,73.73,2.3
+2019-07,Pescado y marisco,producto,76.002,1.8
+2019-07,Lácteos y huevos,producto,71.042,0.4
+2019-07,Aceites y grasas,producto,62.551,-13.0
+2019-07,Frutas,producto,68.844,-4.4
+2019-07,Hortalizas y legumbres,producto,71.714,6.1
+2019-07,Azúcar y dulces,producto,67.074,1.5
+2019-07,Alimentos preparados,producto,75.712,0.8
+2019-07,Bebidas no alcohólicas,producto,70.195,1.6
+2019-08,IPC general,referencia,81.965,0.3
+2019-08,Alimentación y bebidas,total,72.435,1.0
+2019-08,Pan y cereales,producto,75.727,1.4
+2019-08,Carne,producto,74.027,2.6
+2019-08,Pescado y marisco,producto,76.707,2.5
+2019-08,Lácteos y huevos,producto,71.499,0.9
+2019-08,Aceites y grasas,producto,62.192,-13.2
+2019-08,Frutas,producto,67.21,-6.4
+2019-08,Hortalizas y legumbres,producto,71.641,7.0
+2019-08,Azúcar y dulces,producto,67.493,1.5
+2019-08,Alimentos preparados,producto,76.454,0.9
+2019-08,Bebidas no alcohólicas,producto,69.886,0.9
+2019-09,IPC general,referencia,81.965,0.1
+2019-09,Alimentación y bebidas,total,72.371,0.9
+2019-09,Pan y cereales,producto,75.401,0.9
+2019-09,Carne,producto,74.234,2.6
+2019-09,Pescado y marisco,producto,76.685,1.6
+2019-09,Lácteos y huevos,producto,71.294,1.0
+2019-09,Aceites y grasas,producto,61.75,-12.8
+2019-09,Frutas,producto,67.416,-4.1
+2019-09,Hortalizas y legumbres,producto,71.305,4.6
+2019-09,Azúcar y dulces,producto,67.465,1.5
+2019-09,Alimentos preparados,producto,75.829,0.6
+2019-09,Bebidas no alcohólicas,producto,70.061,1.6
+2019-10,IPC general,referencia,82.76,0.1
+2019-10,Alimentación y bebidas,total,73.448,1.2
+2019-10,Pan y cereales,producto,75.648,1.1
+2019-10,Carne,producto,74.444,2.8
+2019-10,Pescado y marisco,producto,76.543,0.8
+2019-10,Lácteos y huevos,producto,71.596,1.2
+2019-10,Aceites y grasas,producto,61.717,-12.0
+2019-10,Frutas,producto,76.35,1.5
+2019-10,Hortalizas y legumbres,producto,71.054,0.9
+2019-10,Azúcar y dulces,producto,67.905,1.3
+2019-10,Alimentos preparados,producto,76.173,0.4
+2019-10,Bebidas no alcohólicas,producto,70.049,1.1
+2019-11,IPC general,referencia,82.9,0.4
+2019-11,Alimentación y bebidas,total,73.423,1.7
+2019-11,Pan y cereales,producto,75.677,1.2
+2019-11,Carne,producto,74.62,2.8
+2019-11,Pescado y marisco,producto,77.465,1.8
+2019-11,Lácteos y huevos,producto,71.565,1.3
+2019-11,Aceites y grasas,producto,61.675,-9.4
+2019-11,Frutas,producto,74.472,4.9
+2019-11,Hortalizas y legumbres,producto,71.334,0.2
+2019-11,Azúcar y dulces,producto,67.963,1.2
+2019-11,Alimentos preparados,producto,75.779,0.2
+2019-11,Bebidas no alcohólicas,producto,70.387,1.7
+2019-12,IPC general,referencia,82.84,0.8
+2019-12,Alimentación y bebidas,total,73.301,1.7
+2019-12,Pan y cereales,producto,75.639,0.9
+2019-12,Carne,producto,75.185,3.4
+2019-12,Pescado y marisco,producto,78.021,1.2
+2019-12,Lácteos y huevos,producto,71.379,1.0
+2019-12,Aceites y grasas,producto,61.57,-8.5
+2019-12,Frutas,producto,71.292,4.4
+2019-12,Hortalizas y legumbres,producto,72.23,1.4
+2019-12,Azúcar y dulces,producto,67.654,1.2
+2019-12,Alimentos preparados,producto,75.884,0.4
+2019-12,Bebidas no alcohólicas,producto,70.05,0.9
+2020-01,IPC general,referencia,82.032,1.1
+2020-01,Alimentación y bebidas,total,73.499,2.0
+2020-01,Pan y cereales,producto,75.719,0.9
+2020-01,Carne,producto,75.174,3.7
+2020-01,Pescado y marisco,producto,79.858,3.7
+2020-01,Lácteos y huevos,producto,71.569,1.2
+2020-01,Aceites y grasas,producto,60.955,-9.4
+2020-01,Frutas,producto,69.577,3.5
+2020-01,Hortalizas y legumbres,producto,73.368,1.3
+2020-01,Azúcar y dulces,producto,67.922,1.5
+2020-01,Alimentos preparados,producto,75.893,1.5
+2020-01,Bebidas no alcohólicas,producto,70.341,1.2
+2020-02,IPC general,referencia,81.935,0.7
+2020-02,Alimentación y bebidas,total,73.671,2.0
+2020-02,Pan y cereales,producto,75.903,0.9
+2020-02,Carne,producto,75.553,4.4
+2020-02,Pescado y marisco,producto,77.541,2.3
+2020-02,Lácteos y huevos,producto,71.505,1.4
+2020-02,Aceites y grasas,producto,60.407,-8.7
+2020-02,Frutas,producto,72.075,4.2
+2020-02,Hortalizas y legumbres,producto,73.573,-0.5
+2020-02,Azúcar y dulces,producto,68.302,1.7
+2020-02,Alimentos preparados,producto,75.978,1.3
+2020-02,Bebidas no alcohólicas,producto,71.201,1.7
+2020-03,IPC general,referencia,81.621,0.0
+2020-03,Alimentación y bebidas,total,73.777,2.5
+2020-03,Pan y cereales,producto,76.041,1.0
+2020-03,Carne,producto,75.875,4.8
+2020-03,Pescado y marisco,producto,78.252,3.9
+2020-03,Lácteos y huevos,producto,71.832,1.3
+2020-03,Aceites y grasas,producto,60.305,-8.7
+2020-03,Frutas,producto,71.211,4.7
+2020-03,Hortalizas y legumbres,producto,72.973,1.0
+2020-03,Azúcar y dulces,producto,68.296,1.4
+2020-03,Alimentos preparados,producto,76.337,1.6
+2020-03,Bebidas no alcohólicas,producto,71.514,2.2
+2020-04,IPC general,referencia,81.868,-0.7
+2020-04,Alimentación y bebidas,total,74.82,4.0
+2020-04,Pan y cereales,producto,76.349,1.2
+2020-04,Carne,producto,76.447,5.4
+2020-04,Pescado y marisco,producto,79.746,5.5
+2020-04,Lácteos y huevos,producto,72.209,1.7
+2020-04,Aceites y grasas,producto,60.644,-7.0
+2020-04,Frutas,producto,72.258,11.4
+2020-04,Hortalizas y legumbres,producto,77.472,3.9
+2020-04,Azúcar y dulces,producto,68.361,1.4
+2020-04,Alimentos preparados,producto,77.768,2.7
+2020-04,Bebidas no alcohólicas,producto,71.674,2.4
+2020-05,IPC general,referencia,81.863,-0.9
+2020-05,Alimentación y bebidas,total,74.811,3.5
+2020-05,Pan y cereales,producto,76.518,1.5
+2020-05,Carne,producto,76.181,4.4
+2020-05,Pescado y marisco,producto,77.883,1.7
+2020-05,Lácteos y huevos,producto,72.359,2.1
+2020-05,Aceites y grasas,producto,60.863,-5.9
+2020-05,Frutas,producto,77.184,14.3
+2020-05,Hortalizas y legumbres,producto,74.644,2.7
+2020-05,Azúcar y dulces,producto,68.307,1.2
+2020-05,Alimentos preparados,producto,77.814,2.3
+2020-05,Bebidas no alcohólicas,producto,71.915,2.5
+2020-06,IPC general,referencia,82.24,-0.3
+2020-06,Alimentación y bebidas,total,74.579,2.8
+2020-06,Pan y cereales,producto,76.3,1.1
+2020-06,Carne,producto,75.976,3.6
+2020-06,Pescado y marisco,producto,77.781,2.5
+2020-06,Lácteos y huevos,producto,72.034,1.5
+2020-06,Aceites y grasas,producto,60.459,-4.4
+2020-06,Frutas,producto,78.647,11.0
+2020-06,Hortalizas y legumbres,producto,72.806,1.0
+2020-06,Azúcar y dulces,producto,68.007,0.8
+2020-06,Alimentos preparados,producto,77.569,2.1
+2020-06,Bebidas no alcohólicas,producto,71.553,1.9
+2020-07,IPC general,referencia,81.502,-0.6
+2020-07,Alimentación y bebidas,total,73.958,2.2
+2020-07,Pan y cereales,producto,76.085,0.8
+2020-07,Carne,producto,76.128,3.3
+2020-07,Pescado y marisco,producto,77.364,1.8
+2020-07,Lácteos y huevos,producto,72.078,1.5
+2020-07,Aceites y grasas,producto,59.944,-4.2
+2020-07,Frutas,producto,74.761,8.6
+2020-07,Hortalizas y legumbres,producto,71.378,-0.5
+2020-07,Azúcar y dulces,producto,68.254,1.8
+2020-07,Alimentos preparados,producto,76.792,1.4
+2020-07,Bebidas no alcohólicas,producto,71.332,1.6
+2020-08,IPC general,referencia,81.54,-0.5
+2020-08,Alimentación y bebidas,total,74.026,2.2
+2020-08,Pan y cereales,producto,76.04,0.4
+2020-08,Carne,producto,76.426,3.2
+2020-08,Pescado y marisco,producto,78.033,1.7
+2020-08,Lácteos y huevos,producto,71.978,0.7
+2020-08,Aceites y grasas,producto,59.72,-4.0
+2020-08,Frutas,producto,73.726,9.7
+2020-08,Hortalizas y legumbres,producto,71.602,-0.1
+2020-08,Azúcar y dulces,producto,68.27,1.2
+2020-08,Alimentos preparados,producto,77.287,1.1
+2020-08,Bebidas no alcohólicas,producto,71.355,2.1
+2020-09,IPC general,referencia,81.662,-0.4
+2020-09,Alimentación y bebidas,total,74.085,2.4
+2020-09,Pan y cereales,producto,75.914,0.7
+2020-09,Carne,producto,76.423,2.9
+2020-09,Pescado y marisco,producto,77.701,1.3
+2020-09,Lácteos y huevos,producto,71.749,0.6
+2020-09,Aceites y grasas,producto,59.358,-3.9
+2020-09,Frutas,producto,74.234,10.1
+2020-09,Hortalizas y legumbres,producto,73.16,2.6
+2020-09,Azúcar y dulces,producto,68.321,1.3
+2020-09,Alimentos preparados,producto,76.461,0.8
+2020-09,Bebidas no alcohólicas,producto,71.12,1.5
+2020-10,IPC general,referencia,82.09,-0.8
+2020-10,Alimentación y bebidas,total,75.103,2.3
+2020-10,Pan y cereales,producto,75.83,0.2
+2020-10,Carne,producto,76.42,2.7
+2020-10,Pescado y marisco,producto,77.632,1.4
+2020-10,Lácteos y huevos,producto,71.84,0.3
+2020-10,Aceites y grasas,producto,59.568,-3.5
+2020-10,Frutas,producto,83.026,8.7
+2020-10,Hortalizas y legumbres,producto,74.297,4.6
+2020-10,Azúcar y dulces,producto,68.345,0.6
+2020-10,Alimentos preparados,producto,76.995,1.1
+2020-10,Bebidas no alcohólicas,producto,71.247,1.7
+2020-11,IPC general,referencia,82.225,-0.8
+2020-11,Alimentación y bebidas,total,74.406,1.3
+2020-11,Pan y cereales,producto,75.778,0.1
+2020-11,Carne,producto,76.304,2.3
+2020-11,Pescado y marisco,producto,77.621,0.2
+2020-11,Lácteos y huevos,producto,71.954,0.5
+2020-11,Aceites y grasas,producto,59.838,-3.0
+2020-11,Frutas,producto,76.988,3.4
+2020-11,Hortalizas y legumbres,producto,73.648,3.2
+2020-11,Azúcar y dulces,producto,68.357,0.6
+2020-11,Alimentos preparados,producto,76.508,1.0
+2020-11,Bebidas no alcohólicas,producto,71.285,1.3
+2020-12,IPC general,referencia,82.4,-0.5
+2020-12,Alimentación y bebidas,total,74.135,1.1
+2020-12,Pan y cereales,producto,75.915,0.4
+2020-12,Carne,producto,76.501,1.7
+2020-12,Pescado y marisco,producto,79.225,1.5
+2020-12,Lácteos y huevos,producto,71.738,0.5
+2020-12,Aceites y grasas,producto,60.171,-2.3
+2020-12,Frutas,producto,73.321,2.8
+2020-12,Hortalizas y legumbres,producto,72.395,0.2
+2020-12,Azúcar y dulces,producto,67.922,0.4
+2020-12,Alimentos preparados,producto,77.117,1.6
+2020-12,Bebidas no alcohólicas,producto,70.908,1.2
+2021-01,IPC general,referencia,82.407,0.5
+2021-01,Alimentación y bebidas,total,74.772,1.7
+2021-01,Pan y cereales,producto,75.759,0.1
+2021-01,Carne,producto,76.388,1.6
+2021-01,Pescado y marisco,producto,80.898,1.3
+2021-01,Lácteos y huevos,producto,71.898,0.5
+2021-01,Aceites y grasas,producto,60.198,-1.2
+2021-01,Frutas,producto,72.763,4.6
+2021-01,Hortalizas y legumbres,producto,75.748,3.2
+2021-01,Azúcar y dulces,producto,68.055,0.2
+2021-01,Alimentos preparados,producto,76.796,1.2
+2021-01,Bebidas no alcohólicas,producto,73.99,5.2
+2021-02,IPC general,referencia,81.922,0.0
+2021-02,Alimentación y bebidas,total,74.818,1.6
+2021-02,Pan y cereales,producto,75.744,-0.2
+2021-02,Carne,producto,76.313,1.0
+2021-02,Pescado y marisco,producto,79.169,2.1
+2021-02,Lácteos y huevos,producto,71.726,0.3
+2021-02,Aceites y grasas,producto,60.718,0.5
+2021-02,Frutas,producto,76.732,6.5
+2021-02,Hortalizas y legumbres,producto,73.943,0.5
+2021-02,Azúcar y dulces,producto,68.109,-0.3
+2021-02,Alimentos preparados,producto,76.9,1.2
+2021-02,Bebidas no alcohólicas,producto,74.604,4.8
+2021-03,IPC general,referencia,82.716,1.3
+2021-03,Alimentación y bebidas,total,74.844,1.4
+2021-03,Pan y cereales,producto,75.792,-0.3
+2021-03,Carne,producto,76.508,0.8
+2021-03,Pescado y marisco,producto,78.146,-0.1
+2021-03,Lácteos y huevos,producto,71.854,0.0
+2021-03,Aceites y grasas,producto,61.48,1.9
+2021-03,Frutas,producto,76.727,7.7
+2021-03,Hortalizas y legumbres,producto,74.247,1.7
+2021-03,Azúcar y dulces,producto,67.864,-0.6
+2021-03,Alimentos preparados,producto,77.102,1.0
+2021-03,Bebidas no alcohólicas,producto,74.89,4.7
+2021-04,IPC general,referencia,83.693,2.2
+2021-04,Alimentación y bebidas,total,75.067,0.3
+2021-04,Pan y cereales,producto,76.116,-0.3
+2021-04,Carne,producto,76.819,0.5
+2021-04,Pescado y marisco,producto,78.898,-1.1
+2021-04,Lácteos y huevos,producto,71.942,-0.4
+2021-04,Aceites y grasas,producto,63.23,4.3
+2021-04,Frutas,producto,73.405,1.6
+2021-04,Hortalizas y legumbres,producto,76.931,-0.7
+2021-04,Azúcar y dulces,producto,68.093,-0.4
+2021-04,Alimentos preparados,producto,77.282,-0.6
+2021-04,Bebidas no alcohólicas,producto,74.924,4.5
+2021-05,IPC general,referencia,84.087,2.7
+2021-05,Alimentación y bebidas,total,75.388,0.8
+2021-05,Pan y cereales,producto,76.097,-0.6
+2021-05,Carne,producto,76.862,0.9
+2021-05,Pescado y marisco,producto,78.72,1.1
+2021-05,Lácteos y huevos,producto,71.9,-0.6
+2021-05,Aceites y grasas,producto,65.615,7.8
+2021-05,Frutas,producto,77.657,0.6
+2021-05,Hortalizas y legumbres,producto,75.152,0.7
+2021-05,Azúcar y dulces,producto,68.467,0.2
+2021-05,Alimentos preparados,producto,77.117,-0.9
+2021-05,Bebidas no alcohólicas,producto,75.071,4.4
+2021-06,IPC general,referencia,84.487,2.7
+2021-06,Alimentación y bebidas,total,75.383,1.1
+2021-06,Pan y cereales,producto,76.166,-0.2
+2021-06,Carne,producto,76.923,1.2
+2021-06,Pescado y marisco,producto,78.903,1.4
+2021-06,Lácteos y huevos,producto,72.009,0.0
+2021-06,Aceites y grasas,producto,68.386,13.1
+2021-06,Frutas,producto,78.445,-0.3
+2021-06,Hortalizas y legumbres,producto,72.92,0.2
+2021-06,Azúcar y dulces,producto,68.559,0.8
+2021-06,Alimentos preparados,producto,77.399,-0.2
+2021-06,Bebidas no alcohólicas,producto,74.819,4.6
+2021-07,IPC general,referencia,83.85,2.9
+2021-07,Alimentación y bebidas,total,75.226,1.7
+2021-07,Pan y cereales,producto,76.261,0.2
+2021-07,Carne,producto,76.918,1.0
+2021-07,Pescado y marisco,producto,79.252,2.4
+2021-07,Lácteos y huevos,producto,72.047,0.0
+2021-07,Aceites y grasas,producto,72.185,20.4
+2021-07,Frutas,producto,76.194,1.9
+2021-07,Hortalizas y legumbres,producto,72.097,1.0
+2021-07,Azúcar y dulces,producto,68.426,0.3
+2021-07,Alimentos preparados,producto,76.913,0.2
+2021-07,Bebidas no alcohólicas,producto,75.084,5.3
+2021-08,IPC general,referencia,84.232,3.3
+2021-08,Alimentación y bebidas,total,75.429,1.9
+2021-08,Pan y cereales,producto,76.472,0.6
+2021-08,Carne,producto,76.95,0.7
+2021-08,Pescado y marisco,producto,79.397,1.7
+2021-08,Lácteos y huevos,producto,72.114,0.2
+2021-08,Aceites y grasas,producto,73.409,22.9
+2021-08,Frutas,producto,76.624,3.9
+2021-08,Hortalizas y legumbres,producto,72.493,1.2
+2021-08,Azúcar y dulces,producto,68.647,0.6
+2021-08,Alimentos preparados,producto,77.246,-0.1
+2021-08,Bebidas no alcohólicas,producto,74.989,5.1
+2021-09,IPC general,referencia,84.934,4.0
+2021-09,Alimentación y bebidas,total,75.386,1.8
+2021-09,Pan y cereales,producto,76.541,0.8
+2021-09,Carne,producto,77.103,0.9
+2021-09,Pescado y marisco,producto,78.892,1.5
+2021-09,Lácteos y huevos,producto,72.404,0.9
+2021-09,Aceites y grasas,producto,73.336,23.5
+2021-09,Frutas,producto,75.669,1.9
+2021-09,Hortalizas y legumbres,producto,72.892,-0.4
+2021-09,Azúcar y dulces,producto,68.666,0.5
+2021-09,Alimentos preparados,producto,76.86,0.5
+2021-09,Bebidas no alcohólicas,producto,75.134,5.6
+2021-10,IPC general,referencia,86.496,5.4
+2021-10,Alimentación y bebidas,total,76.376,1.7
+2021-10,Pan y cereales,producto,77.216,1.8
+2021-10,Carne,producto,77.433,1.3
+2021-10,Pescado y marisco,producto,79.134,1.9
+2021-10,Lácteos y huevos,producto,72.831,1.4
+2021-10,Aceites y grasas,producto,73.797,23.9
+2021-10,Frutas,producto,81.899,-1.4
+2021-10,Hortalizas y legumbres,producto,73.498,-1.1
+2021-10,Azúcar y dulces,producto,68.7,0.5
+2021-10,Alimentos preparados,producto,77.224,0.3
+2021-10,Bebidas no alcohólicas,producto,75.341,5.7
+2021-11,IPC general,referencia,86.761,5.5
+2021-11,Alimentación y bebidas,total,76.827,3.3
+2021-11,Pan y cereales,producto,77.715,2.6
+2021-11,Carne,producto,78.286,2.6
+2021-11,Pescado y marisco,producto,80.111,3.2
+2021-11,Lácteos y huevos,producto,73.483,2.1
+2021-11,Aceites y grasas,producto,73.969,23.6
+2021-11,Frutas,producto,80.91,5.1
+2021-11,Hortalizas y legumbres,producto,73.997,0.5
+2021-11,Azúcar y dulces,producto,68.731,0.5
+2021-11,Alimentos preparados,producto,77.209,0.9
+2021-11,Bebidas no alcohólicas,producto,75.896,6.5
+2021-12,IPC general,referencia,87.797,6.5
+2021-12,Alimentación y bebidas,total,77.805,5.0
+2021-12,Pan y cereales,producto,79.38,4.6
+2021-12,Carne,producto,79.237,3.6
+2021-12,Pescado y marisco,producto,82.753,4.5
+2021-12,Lácteos y huevos,producto,74.415,3.7
+2021-12,Aceites y grasas,producto,74.852,24.4
+2021-12,Frutas,producto,79.013,7.8
+2021-12,Hortalizas y legumbres,producto,76.2,5.3
+2021-12,Azúcar y dulces,producto,69.124,1.8
+2021-12,Alimentos preparados,producto,77.715,0.8
+2021-12,Bebidas no alcohólicas,producto,76.177,7.4
+2022-01,IPC general,referencia,87.46,6.1
+2022-01,Alimentación y bebidas,total,78.326,4.8
+2022-01,Pan y cereales,producto,80.527,6.3
+2022-01,Carne,producto,78.983,3.4
+2022-01,Pescado y marisco,producto,84.427,4.4
+2022-01,Lácteos y huevos,producto,75.309,4.7
+2022-01,Aceites y grasas,producto,77.338,28.5
+2022-01,Frutas,producto,78.295,7.6
+2022-01,Hortalizas y legumbres,producto,76.911,1.5
+2022-01,Azúcar y dulces,producto,69.437,2.0
+2022-01,Alimentos preparados,producto,77.822,1.3
+2022-01,Bebidas no alcohólicas,producto,76.746,3.7
+2022-02,IPC general,referencia,88.167,7.6
+2022-02,Alimentación y bebidas,total,78.99,5.6
+2022-02,Pan y cereales,producto,81.652,7.8
+2022-02,Carne,producto,78.915,3.4
+2022-02,Pescado y marisco,producto,82.556,4.3
+2022-02,Lácteos y huevos,producto,76.113,6.1
+2022-02,Aceites y grasas,producto,77.763,28.1
+2022-02,Frutas,producto,80.944,5.5
+2022-02,Hortalizas y legumbres,producto,77.78,5.2
+2022-02,Azúcar y dulces,producto,70.496,3.5
+2022-02,Alimentos preparados,producto,80.705,4.9
+2022-02,Bebidas no alcohólicas,producto,78.48,5.2
+2022-03,IPC general,referencia,90.837,9.8
+2022-03,Alimentación y bebidas,total,79.942,6.8
+2022-03,Pan y cereales,producto,82.062,8.3
+2022-03,Carne,producto,79.637,4.1
+2022-03,Pescado y marisco,producto,84.085,7.6
+2022-03,Lácteos y huevos,producto,77.311,7.6
+2022-03,Aceites y grasas,producto,81.2,32.1
+2022-03,Frutas,producto,80.927,5.5
+2022-03,Hortalizas y legumbres,producto,79.365,6.9
+2022-03,Azúcar y dulces,producto,71.093,4.8
+2022-03,Alimentos preparados,producto,81.947,6.3
+2022-03,Bebidas no alcohólicas,producto,79.248,5.8
+2022-04,IPC general,referencia,90.676,8.3
+2022-04,Alimentación y bebidas,total,82.663,10.1
+2022-04,Pan y cereales,producto,85.833,12.8
+2022-04,Carne,producto,82.492,7.4
+2022-04,Pescado y marisco,producto,85.461,8.3
+2022-04,Lácteos y huevos,producto,79.905,11.1
+2022-04,Aceites y grasas,producto,93.828,48.4
+2022-04,Frutas,producto,79.786,8.7
+2022-04,Hortalizas y legumbres,producto,85.53,11.2
+2022-04,Azúcar y dulces,producto,72.229,6.1
+2022-04,Alimentos preparados,producto,83.45,8.0
+2022-04,Bebidas no alcohólicas,producto,80.044,6.8
+2022-05,IPC general,referencia,91.426,8.7
+2022-05,Alimentación y bebidas,total,83.669,11.0
+2022-05,Pan y cereales,producto,87.802,15.4
+2022-05,Carne,producto,83.455,8.6
+2022-05,Pescado y marisco,producto,86.615,10.0
+2022-05,Lácteos y huevos,producto,81.899,13.9
+2022-05,Aceites y grasas,producto,94.931,44.7
+2022-05,Frutas,producto,83.917,8.1
+2022-05,Hortalizas y legumbres,producto,81.669,8.7
+2022-05,Azúcar y dulces,producto,72.565,6.0
+2022-05,Alimentos preparados,producto,84.736,9.9
+2022-05,Bebidas no alcohólicas,producto,80.772,7.6
+2022-06,IPC general,referencia,93.118,10.2
+2022-06,Alimentación y bebidas,total,85.144,12.9
+2022-06,Pan y cereales,producto,89.175,17.1
+2022-06,Carne,producto,84.352,9.7
+2022-06,Pescado y marisco,producto,87.019,10.3
+2022-06,Lácteos y huevos,producto,83.228,15.6
+2022-06,Aceites y grasas,producto,93.694,37.0
+2022-06,Frutas,producto,91.847,17.1
+2022-06,Hortalizas y legumbres,producto,81.921,12.3
+2022-06,Azúcar y dulces,producto,73.185,6.7
+2022-06,Alimentos preparados,producto,86.283,11.5
+2022-06,Bebidas no alcohólicas,producto,80.896,8.1
+2022-07,IPC general,referencia,92.881,10.8
+2022-07,Alimentación y bebidas,total,85.401,13.5
+2022-07,Pan y cereales,producto,90.486,18.7
+2022-07,Carne,producto,85.28,10.9
+2022-07,Pescado y marisco,producto,87.792,10.8
+2022-07,Lácteos y huevos,producto,84.543,17.3
+2022-07,Aceites y grasas,producto,92.813,28.6
+2022-07,Frutas,producto,86.589,13.6
+2022-07,Hortalizas y legumbres,producto,82.048,13.8
+2022-07,Azúcar y dulces,producto,73.979,8.1
+2022-07,Alimentos preparados,producto,87.128,13.3
+2022-07,Bebidas no alcohólicas,producto,81.743,8.9
+2022-08,IPC general,referencia,93.117,10.5
+2022-08,Alimentación y bebidas,total,85.803,13.8
+2022-08,Pan y cereales,producto,91.303,19.4
+2022-08,Carne,producto,85.854,11.6
+2022-08,Pescado y marisco,producto,87.748,10.5
+2022-08,Lácteos y huevos,producto,85.981,19.2
+2022-08,Aceites y grasas,producto,90.996,24.0
+2022-08,Frutas,producto,85.262,11.3
+2022-08,Hortalizas y legumbres,producto,82.721,14.1
+2022-08,Azúcar y dulces,producto,74.381,8.4
+2022-08,Alimentos preparados,producto,88.372,14.4
+2022-08,Bebidas no alcohólicas,producto,81.92,9.2
+2022-09,IPC general,referencia,92.47,8.9
+2022-09,Alimentación y bebidas,total,86.208,14.4
+2022-09,Pan y cereales,producto,91.544,19.6
+2022-09,Carne,producto,86.337,12.0
+2022-09,Pescado y marisco,producto,87.547,11.0
+2022-09,Lácteos y huevos,producto,86.984,20.1
+2022-09,Aceites y grasas,producto,90.823,23.8
+2022-09,Frutas,producto,84.407,11.5
+2022-09,Hortalizas y legumbres,producto,84.719,16.2
+2022-09,Azúcar y dulces,producto,74.6,8.6
+2022-09,Alimentos preparados,producto,88.48,15.1
+2022-09,Bebidas no alcohólicas,producto,82.098,9.3
+2022-10,IPC general,referencia,92.78,7.3
+2022-10,Alimentación y bebidas,total,88.169,15.4
+2022-10,Pan y cereales,producto,92.212,19.4
+2022-10,Carne,producto,87.132,12.5
+2022-10,Pescado y marisco,producto,88.311,11.6
+2022-10,Lácteos y huevos,producto,88.769,21.9
+2022-10,Aceites y grasas,producto,91.443,23.9
+2022-10,Frutas,producto,91.593,11.8
+2022-10,Hortalizas y legumbres,producto,89.03,21.1
+2022-10,Azúcar y dulces,producto,77.006,12.1
+2022-10,Alimentos preparados,producto,89.309,15.6
+2022-10,Bebidas no alcohólicas,producto,82.803,9.9
+2022-11,IPC general,referencia,92.669,6.8
+2022-11,Alimentación y bebidas,total,88.603,15.3
+2022-11,Pan y cereales,producto,93.031,19.7
+2022-11,Carne,producto,87.768,12.1
+2022-11,Pescado y marisco,producto,89.529,11.8
+2022-11,Lácteos y huevos,producto,91.683,24.8
+2022-11,Aceites y grasas,producto,97.257,31.5
+2022-11,Frutas,producto,88.065,8.8
+2022-11,Hortalizas y legumbres,producto,85.712,15.8
+2022-11,Azúcar y dulces,producto,78.36,14.0
+2022-11,Alimentos preparados,producto,90.753,17.5
+2022-11,Bebidas no alcohólicas,producto,84.071,10.8
+2022-12,IPC general,referencia,92.808,5.7
+2022-12,Alimentación y bebidas,total,90.009,15.7
+2022-12,Pan y cereales,producto,95.245,20.0
+2022-12,Carne,producto,88.927,12.2
+2022-12,Pescado y marisco,producto,91.228,10.2
+2022-12,Lácteos y huevos,producto,95.089,27.8
+2022-12,Aceites y grasas,producto,103.391,38.1
+2022-12,Frutas,producto,84.763,7.3
+2022-12,Hortalizas y legumbres,producto,87.469,14.8
+2022-12,Azúcar y dulces,producto,79.534,15.1
+2022-12,Alimentos preparados,producto,91.57,17.8
+2022-12,Bebidas no alcohólicas,producto,85.467,12.2
+2023-01,IPC general,referencia,92.613,5.9
+2023-01,Alimentación y bebidas,total,90.352,15.4
+2023-01,Pan y cereales,producto,95.602,18.7
+2023-01,Carne,producto,89.45,13.3
+2023-01,Pescado y marisco,producto,93.15,10.3
+2023-01,Lácteos y huevos,producto,95.26,26.5
+2023-01,Aceites y grasas,producto,101.573,31.3
+2023-01,Frutas,producto,81.974,4.7
+2023-01,Hortalizas y legumbres,producto,87.664,14.0
+2023-01,Azúcar y dulces,producto,80.699,16.2
+2023-01,Alimentos preparados,producto,92.763,19.2
+2023-01,Bebidas no alcohólicas,producto,86.887,13.2
+2023-02,IPC general,referencia,93.487,6.0
+2023-02,Alimentación y bebidas,total,92.13,16.6
+2023-02,Pan y cereales,producto,96.93,18.7
+2023-02,Carne,producto,89.932,14.0
+2023-02,Pescado y marisco,producto,91.549,10.9
+2023-02,Lácteos y huevos,producto,95.373,25.3
+2023-02,Aceites y grasas,producto,103.367,32.9
+2023-02,Frutas,producto,85.627,5.8
+2023-02,Hortalizas y legumbres,producto,93.848,20.7
+2023-02,Azúcar y dulces,producto,83.812,18.9
+2023-02,Alimentos preparados,producto,95.616,18.5
+2023-02,Bebidas no alcohólicas,producto,89.976,14.6
+2023-03,IPC general,referencia,93.831,3.3
+2023-03,Alimentación y bebidas,total,93.109,16.5
+2023-03,Pan y cereales,producto,97.356,18.6
+2023-03,Carne,producto,90.725,13.9
+2023-03,Pescado y marisco,producto,92.127,9.6
+2023-03,Lácteos y huevos,producto,95.68,23.8
+2023-03,Aceites y grasas,producto,104.018,28.1
+2023-03,Frutas,producto,85.633,5.8
+2023-03,Hortalizas y legumbres,producto,97.419,22.7
+2023-03,Azúcar y dulces,producto,85.172,19.8
+2023-03,Alimentos preparados,producto,97.569,19.1
+2023-03,Bebidas no alcohólicas,producto,90.649,14.4
+2023-04,IPC general,referencia,94.39,4.1
+2023-04,Alimentación y bebidas,total,93.359,12.9
+2023-04,Pan y cereales,producto,97.693,13.8
+2023-04,Carne,producto,91.825,11.3
+2023-04,Pescado y marisco,producto,93.431,9.3
+2023-04,Lácteos y huevos,producto,96.01,20.2
+2023-04,Aceites y grasas,producto,105.331,12.3
+2023-04,Frutas,producto,82.671,3.6
+2023-04,Hortalizas y legumbres,producto,96.348,12.6
+2023-04,Azúcar y dulces,producto,86.378,19.6
+2023-04,Alimentos preparados,producto,98.346,17.9
+2023-04,Bebidas no alcohólicas,producto,90.999,13.7
+2023-05,IPC general,referencia,94.345,3.2
+2023-05,Alimentación y bebidas,total,93.707,12.0
+2023-05,Pan y cereales,producto,97.806,11.4
+2023-05,Carne,producto,92.512,10.9
+2023-05,Pescado y marisco,producto,92.58,6.9
+2023-05,Lácteos y huevos,producto,95.723,16.9
+2023-05,Aceites y grasas,producto,105.989,11.6
+2023-05,Frutas,producto,87.404,4.2
+2023-05,Hortalizas y legumbres,producto,94.287,15.5
+2023-05,Azúcar y dulces,producto,86.251,18.9
+2023-05,Alimentos preparados,producto,98.574,16.3
+2023-05,Bebidas no alcohólicas,producto,90.897,12.5
+2023-06,IPC general,referencia,94.881,1.9
+2023-06,Alimentación y bebidas,total,93.941,10.3
+2023-06,Pan y cereales,producto,98.044,9.9
+2023-06,Carne,producto,93.057,10.3
+2023-06,Pescado y marisco,producto,92.634,6.5
+2023-06,Lácteos y huevos,producto,95.685,15.0
+2023-06,Aceites y grasas,producto,108.076,15.4
+2023-06,Frutas,producto,89.068,-3.0
+2023-06,Hortalizas y legumbres,producto,93.004,13.5
+2023-06,Azúcar y dulces,producto,86.619,18.4
+2023-06,Alimentos preparados,producto,98.852,14.6
+2023-06,Bebidas no alcohólicas,producto,90.133,11.4
+2023-07,IPC general,referencia,95.042,2.3
+2023-07,Alimentación y bebidas,total,94.658,10.8
+2023-07,Pan y cereales,producto,97.939,8.2
+2023-07,Carne,producto,93.245,9.3
+2023-07,Pescado y marisco,producto,93.178,6.1
+2023-07,Lácteos y huevos,producto,96.032,13.6
+2023-07,Aceites y grasas,producto,111.752,20.4
+2023-07,Frutas,producto,95.428,10.2
+2023-07,Hortalizas y legumbres,producto,90.751,10.6
+2023-07,Azúcar y dulces,producto,87.107,17.7
+2023-07,Alimentos preparados,producto,98.502,13.1
+2023-07,Bebidas no alcohólicas,producto,91.025,11.4
+2023-08,IPC general,referencia,95.552,2.6
+2023-08,Alimentación y bebidas,total,94.83,10.5
+2023-08,Pan y cereales,producto,98.15,7.5
+2023-08,Carne,producto,93.452,8.9
+2023-08,Pescado y marisco,producto,93.83,6.9
+2023-08,Lácteos y huevos,producto,96.026,11.7
+2023-08,Aceites y grasas,producto,119.108,30.9
+2023-08,Frutas,producto,91.718,7.6
+2023-08,Hortalizas y legumbres,producto,92.176,11.4
+2023-08,Azúcar y dulces,producto,87.297,17.4
+2023-08,Alimentos preparados,producto,98.925,11.9
+2023-08,Bebidas no alcohólicas,producto,91.04,11.1
+2023-09,IPC general,referencia,95.721,3.5
+2023-09,Alimentación y bebidas,total,95.29,10.5
+2023-09,Pan y cereales,producto,98.068,7.1
+2023-09,Carne,producto,93.5,8.3
+2023-09,Pescado y marisco,producto,93.627,6.9
+2023-09,Lácteos y huevos,producto,95.77,10.1
+2023-09,Aceites y grasas,producto,128.883,41.9
+2023-09,Frutas,producto,91.16,8.0
+2023-09,Hortalizas y legumbres,producto,95.198,12.4
+2023-09,Azúcar y dulces,producto,87.199,16.9
+2023-09,Alimentos preparados,producto,98.511,11.3
+2023-09,Bebidas no alcohólicas,producto,91.221,11.1
+2023-10,IPC general,referencia,95.998,3.5
+2023-10,Alimentación y bebidas,total,96.501,9.5
+2023-10,Pan y cereales,producto,98.11,6.4
+2023-10,Carne,producto,93.827,7.7
+2023-10,Pescado y marisco,producto,94.147,6.6
+2023-10,Lácteos y huevos,producto,95.958,8.1
+2023-10,Aceites y grasas,producto,135.391,48.1
+2023-10,Frutas,producto,98.484,7.5
+2023-10,Hortalizas y legumbres,producto,95.701,7.5
+2023-10,Azúcar y dulces,producto,87.911,14.2
+2023-10,Alimentos preparados,producto,98.517,10.3
+2023-10,Bebidas no alcohólicas,producto,91.751,10.8
+2023-11,IPC general,referencia,95.663,3.2
+2023-11,Alimentación y bebidas,total,96.6,9.0
+2023-11,Pan y cereales,producto,98.124,5.5
+2023-11,Carne,producto,94.08,7.2
+2023-11,Pescado y marisco,producto,94.786,5.9
+2023-11,Lácteos y huevos,producto,95.827,4.5
+2023-11,Aceites y grasas,producto,140.526,44.5
+2023-11,Frutas,producto,95.508,8.5
+2023-11,Hortalizas y legumbres,producto,97.162,13.4
+2023-11,Azúcar y dulces,producto,88.185,12.5
+2023-11,Alimentos preparados,producto,98.314,8.3
+2023-11,Bebidas no alcohólicas,producto,91.657,9.0
+2023-12,IPC general,referencia,95.687,3.1
+2023-12,Alimentación y bebidas,total,96.575,7.3
+2023-12,Pan y cereales,producto,98.537,3.5
+2023-12,Carne,producto,94.469,6.2
+2023-12,Pescado y marisco,producto,95.462,4.6
+2023-12,Lácteos y huevos,producto,95.997,1.0
+2023-12,Aceites y grasas,producto,140.971,36.3
+2023-12,Frutas,producto,92.954,9.7
+2023-12,Hortalizas y legumbres,producto,96.896,10.8
+2023-12,Azúcar y dulces,producto,88.139,10.8
+2023-12,Alimentos preparados,producto,98.302,7.4
+2023-12,Bebidas no alcohólicas,producto,91.884,7.5
+2024-01,IPC general,referencia,95.768,3.4
+2024-01,Alimentación y bebidas,total,97.079,7.4
+2024-01,Pan y cereales,producto,98.72,3.3
+2024-01,Carne,producto,94.46,5.6
+2024-01,Pescado y marisco,producto,97.489,4.7
+2024-01,Lácteos y huevos,producto,96.234,1.0
+2024-01,Aceites y grasas,producto,145.403,43.2
+2024-01,Frutas,producto,91.196,11.3
+2024-01,Hortalizas y legumbres,producto,98.316,12.2
+2024-01,Azúcar y dulces,producto,88.882,10.1
+2024-01,Alimentos preparados,producto,98.511,6.2
+2024-01,Bebidas no alcohólicas,producto,93.081,7.1
+2024-02,IPC general,referencia,96.108,2.8
+2024-02,Alimentación y bebidas,total,97.051,5.3
+2024-02,Pan y cereales,producto,98.922,2.1
+2024-02,Carne,producto,94.159,4.7
+2024-02,Pescado y marisco,producto,96.277,5.2
+2024-02,Lácteos y huevos,producto,96.134,0.8
+2024-02,Aceites y grasas,producto,151.101,46.2
+2024-02,Frutas,producto,92.074,7.5
+2024-02,Hortalizas y legumbres,producto,95.43,1.7
+2024-02,Azúcar y dulces,producto,90.863,8.4
+2024-02,Alimentos preparados,producto,98.929,3.5
+2024-02,Bebidas no alcohólicas,producto,93.64,4.1
+2024-03,IPC general,referencia,96.84,3.2
+2024-03,Alimentación y bebidas,total,97.113,4.3
+2024-03,Pan y cereales,producto,98.831,1.5
+2024-03,Carne,producto,94.225,3.9
+2024-03,Pescado y marisco,producto,96.38,4.6
+2024-03,Lácteos y huevos,producto,96.11,0.5
+2024-03,Aceites y grasas,producto,155.139,49.1
+2024-03,Frutas,producto,91.782,7.2
+2024-03,Hortalizas y legumbres,producto,95.147,-2.3
+2024-03,Azúcar y dulces,producto,90.966,6.8
+2024-03,Alimentos preparados,producto,98.804,1.3
+2024-03,Bebidas no alcohólicas,producto,93.626,3.3
+2024-04,IPC general,referencia,97.514,3.3
+2024-04,Alimentación y bebidas,total,97.777,4.7
+2024-04,Pan y cereales,producto,98.904,1.2
+2024-04,Carne,producto,94.633,3.1
+2024-04,Pescado y marisco,producto,97.171,4.0
+2024-04,Lácteos y huevos,producto,96.07,0.1
+2024-04,Aceites y grasas,producto,156.999,49.1
+2024-04,Frutas,producto,93.891,13.6
+2024-04,Hortalizas y legumbres,producto,96.7,0.4
+2024-04,Azúcar y dulces,producto,91.154,5.5
+2024-04,Alimentos preparados,producto,99.298,1.0
+2024-04,Bebidas no alcohólicas,producto,94.04,3.3
+2024-05,IPC general,referencia,97.771,3.6
+2024-05,Alimentación y bebidas,total,97.816,4.4
+2024-05,Pan y cereales,producto,98.858,1.1
+2024-05,Carne,producto,94.854,2.5
+2024-05,Pescado y marisco,producto,96.331,4.1
+2024-05,Lácteos y huevos,producto,95.795,0.1
+2024-05,Aceites y grasas,producto,154.196,45.5
+2024-05,Frutas,producto,95.776,9.6
+2024-05,Hortalizas y legumbres,producto,96.562,2.4
+2024-05,Azúcar y dulces,producto,91.177,5.7
+2024-05,Alimentos preparados,producto,99.691,1.1
+2024-05,Bebidas no alcohólicas,producto,93.897,3.3
+2024-06,IPC general,referencia,98.139,3.4
+2024-06,Alimentación y bebidas,total,97.895,4.2
+2024-06,Pan y cereales,producto,98.965,0.9
+2024-06,Carne,producto,94.898,2.0
+2024-06,Pescado y marisco,producto,95.859,3.5
+2024-06,Lácteos y huevos,producto,95.757,0.1
+2024-06,Aceites y grasas,producto,150.941,39.7
+2024-06,Frutas,producto,99.272,11.5
+2024-06,Hortalizas y legumbres,producto,94.55,1.7
+2024-06,Azúcar y dulces,producto,92.128,6.4
+2024-06,Alimentos preparados,producto,99.557,0.7
+2024-06,Bebidas no alcohólicas,producto,94.149,4.5
+2024-07,IPC general,referencia,97.673,2.8
+2024-07,Alimentación y bebidas,total,97.581,3.1
+2024-07,Pan y cereales,producto,98.994,1.1
+2024-07,Carne,producto,95.12,2.0
+2024-07,Pescado y marisco,producto,95.464,2.5
+2024-07,Lácteos y huevos,producto,95.666,-0.4
+2024-07,Aceites y grasas,producto,143.912,28.8
+2024-07,Frutas,producto,97.002,1.6
+2024-07,Hortalizas y legumbres,producto,95.102,4.8
+2024-07,Azúcar y dulces,producto,92.952,6.7
+2024-07,Alimentos preparados,producto,99.304,0.8
+2024-07,Bebidas no alcohólicas,producto,94.406,3.7
+2024-08,IPC general,referencia,97.713,2.3
+2024-08,Alimentación y bebidas,total,97.231,2.5
+2024-08,Pan y cereales,producto,99.029,0.9
+2024-08,Carne,producto,95.236,1.9
+2024-08,Pescado y marisco,producto,95.851,2.2
+2024-08,Lácteos y huevos,producto,95.863,-0.2
+2024-08,Aceites y grasas,producto,142.178,19.4
+2024-08,Frutas,producto,92.104,0.4
+2024-08,Hortalizas y legumbres,producto,94.925,3.0
+2024-08,Azúcar y dulces,producto,94.131,7.8
+2024-08,Alimentos preparados,producto,99.735,0.8
+2024-08,Bebidas no alcohólicas,producto,94.335,3.6
+2024-09,IPC general,referencia,97.123,1.5
+2024-09,Alimentación y bebidas,total,96.979,1.8
+2024-09,Pan y cereales,producto,98.845,0.8
+2024-09,Carne,producto,95.468,2.1
+2024-09,Pescado y marisco,producto,96.232,2.8
+2024-09,Lácteos y huevos,producto,95.503,-0.3
+2024-09,Aceites y grasas,producto,139.041,7.9
+2024-09,Frutas,producto,89.625,-1.7
+2024-09,Hortalizas y legumbres,producto,95.981,0.8
+2024-09,Azúcar y dulces,producto,94.922,8.9
+2024-09,Alimentos preparados,producto,98.498,0.0
+2024-09,Bebidas no alcohólicas,producto,94.463,3.6
+2024-10,IPC general,referencia,97.729,1.8
+2024-10,Alimentación y bebidas,total,98.337,1.9
+2024-10,Pan y cereales,producto,99.377,1.3
+2024-10,Carne,producto,95.865,2.2
+2024-10,Pescado y marisco,producto,97.186,3.2
+2024-10,Lácteos y huevos,producto,96.57,0.6
+2024-10,Aceites y grasas,producto,139.695,3.2
+2024-10,Frutas,producto,95.29,-3.2
+2024-10,Hortalizas y legumbres,producto,99.11,3.6
+2024-10,Azúcar y dulces,producto,95.255,8.4
+2024-10,Alimentos preparados,producto,99.362,0.9
+2024-10,Bebidas no alcohólicas,producto,95.036,3.6
+2024-11,IPC general,referencia,97.968,2.4
+2024-11,Alimentación y bebidas,total,98.246,1.7
+2024-11,Pan y cereales,producto,99.68,1.6
+2024-11,Carne,producto,96.396,2.5
+2024-11,Pescado y marisco,producto,96.888,2.2
+2024-11,Lácteos y huevos,producto,96.69,0.9
+2024-11,Aceites y grasas,producto,136.255,-3.0
+2024-11,Frutas,producto,94.658,-0.9
+2024-11,Hortalizas y legumbres,producto,98.375,1.2
+2024-11,Azúcar y dulces,producto,94.959,7.7
+2024-11,Alimentos preparados,producto,98.909,0.6
+2024-11,Bebidas no alcohólicas,producto,95.539,4.2
+2024-12,IPC general,referencia,98.411,2.8
+2024-12,Alimentación y bebidas,total,98.291,1.8
+2024-12,Pan y cereales,producto,99.853,1.3
+2024-12,Carne,producto,96.993,2.7
+2024-12,Pescado y marisco,producto,100.16,4.9
+2024-12,Lácteos y huevos,producto,96.716,0.7
+2024-12,Aceites y grasas,producto,128.613,-8.8
+2024-12,Frutas,producto,93.205,0.3
+2024-12,Hortalizas y legumbres,producto,97.172,0.3
+2024-12,Azúcar y dulces,producto,95.31,8.1
+2024-12,Alimentos preparados,producto,98.727,0.4
+2024-12,Bebidas no alcohólicas,producto,95.62,4.1
+2025-01,IPC general,referencia,98.579,2.9
+2025-01,Alimentación y bebidas,total,98.847,1.8
+2025-01,Pan y cereales,producto,100.372,1.7
+2025-01,Carne,producto,97.279,3.0
+2025-01,Pescado y marisco,producto,101.4,4.0
+2025-01,Lácteos y huevos,producto,97.379,1.2
+2025-01,Aceites y grasas,producto,121.513,-16.4
+2025-01,Frutas,producto,92.276,1.2
+2025-01,Hortalizas y legumbres,producto,100.202,1.9
+2025-01,Azúcar y dulces,producto,96.969,9.1
+2025-01,Alimentos preparados,producto,99.39,0.9
+2025-01,Bebidas no alcohólicas,producto,97.29,4.5
+2025-02,IPC general,referencia,98.966,3.0
+2025-02,Alimentación y bebidas,total,99.17,2.2
+2025-02,Pan y cereales,producto,100.564,1.7
+2025-02,Carne,producto,97.719,3.8
+2025-02,Pescado y marisco,producto,100.238,4.1
+2025-02,Lácteos y huevos,producto,97.349,1.3
+2025-02,Aceites y grasas,producto,112.986,-25.2
+2025-02,Frutas,producto,96.154,4.4
+2025-02,Hortalizas y legumbres,producto,100.189,5.0
+2025-02,Azúcar y dulces,producto,98.65,8.6
+2025-02,Alimentos preparados,producto,99.62,0.7
+2025-02,Bebidas no alcohólicas,producto,98.796,5.5
+2025-03,IPC general,referencia,99.024,2.3
+2025-03,Alimentación y bebidas,total,99.453,2.4
+2025-03,Pan y cereales,producto,99.786,1.0
+2025-03,Carne,producto,98.118,4.1
+2025-03,Pescado y marisco,producto,98.822,2.5
+2025-03,Lácteos y huevos,producto,98.485,2.5
+2025-03,Aceites y grasas,producto,108.14,-30.3
+2025-03,Frutas,producto,100.181,9.2
+2025-03,Hortalizas y legumbres,producto,100.38,5.5
+2025-03,Azúcar y dulces,producto,99.365,9.2
+2025-03,Alimentos preparados,producto,99.851,1.1
+2025-03,Bebidas no alcohólicas,producto,98.884,5.6
+2025-04,IPC general,referencia,99.647,2.2
+2025-04,Alimentación y bebidas,total,99.78,2.0
+2025-04,Pan y cereales,producto,99.76,0.9
+2025-04,Carne,producto,98.766,4.4
+2025-04,Pescado y marisco,producto,98.769,1.6
+2025-04,Lácteos y huevos,producto,99.459,3.5
+2025-04,Aceites y grasas,producto,103.403,-34.1
+2025-04,Frutas,producto,100.957,7.5
+2025-04,Hortalizas y legumbres,producto,101.468,4.9
+2025-04,Azúcar y dulces,producto,99.267,8.9
+2025-04,Alimentos preparados,producto,99.864,0.6
+2025-04,Bebidas no alcohólicas,producto,99.653,6.0
+2025-05,IPC general,referencia,99.714,2.0
+2025-05,Alimentación y bebidas,total,100.246,2.5
+2025-05,Pan y cereales,producto,99.733,0.9
+2025-05,Carne,producto,99.418,4.8
+2025-05,Pescado y marisco,producto,98.495,2.2
+2025-05,Lácteos y huevos,producto,99.935,4.3
+2025-05,Aceites y grasas,producto,99.459,-35.5
+2025-05,Frutas,producto,106.929,11.6
+2025-05,Hortalizas y legumbres,producto,99.246,2.8
+2025-05,Azúcar y dulces,producto,99.456,9.1
+2025-05,Alimentos preparados,producto,100.149,0.5
+2025-05,Bebidas no alcohólicas,producto,99.861,6.4
+2025-06,IPC general,referencia,100.382,2.3
+2025-06,Alimentación y bebidas,total,100.596,2.8
+2025-06,Pan y cereales,producto,99.964,1.0
+2025-06,Carne,producto,99.827,5.2
+2025-06,Pescado y marisco,producto,98.76,3.0
+2025-06,Lácteos y huevos,producto,99.943,4.4
+2025-06,Aceites y grasas,producto,94.895,-37.1
+2025-06,Frutas,producto,110.62,11.4
+2025-06,Hortalizas y legumbres,producto,98.92,4.6
+2025-06,Azúcar y dulces,producto,99.683,8.2
+2025-06,Alimentos preparados,producto,100.206,0.7
+2025-06,Bebidas no alcohólicas,producto,99.907,6.1
+2025-07,IPC general,referencia,100.305,2.7
+2025-07,Alimentación y bebidas,total,100.205,2.7
+2025-07,Pan y cereales,producto,99.925,0.9
+2025-07,Carne,producto,100.079,5.2
+2025-07,Pescado y marisco,producto,98.876,3.6
+2025-07,Lácteos y huevos,producto,100.007,4.5
+2025-07,Aceites y grasas,producto,92.624,-35.6
+2025-07,Frutas,producto,104.994,8.2
+2025-07,Hortalizas y legumbres,producto,99.668,4.8
+2025-07,Azúcar y dulces,producto,100.424,8.0
+2025-07,Alimentos preparados,producto,100.386,1.1
+2025-07,Bebidas no alcohólicas,producto,100.479,6.4
+2025-08,IPC general,referencia,100.345,2.7
+2025-08,Alimentación y bebidas,total,99.436,2.3
+2025-08,Pan y cereales,producto,99.998,1.0
+2025-08,Carne,producto,100.587,5.6
+2025-08,Pescado y marisco,producto,99.337,3.6
+2025-08,Lácteos y huevos,producto,100.224,4.5
+2025-08,Aceites y grasas,producto,92.257,-35.1
+2025-08,Frutas,producto,94.786,2.9
+2025-08,Hortalizas y legumbres,producto,100.009,5.4
+2025-08,Azúcar y dulces,producto,100.817,7.1
+2025-08,Alimentos preparados,producto,100.271,0.5
+2025-08,Bebidas no alcohólicas,producto,100.631,6.7
+2025-09,IPC general,referencia,100.059,3.0
+2025-09,Alimentación y bebidas,total,99.293,2.4
+2025-09,Pan y cereales,producto,99.829,1.0
+2025-09,Carne,producto,101.121,5.9
+2025-09,Pescado y marisco,producto,100.745,4.7
+2025-09,Lácteos y huevos,producto,100.229,4.9
+2025-09,Aceites y grasas,producto,91.02,-34.5
+2025-09,Frutas,producto,92.222,2.9
+2025-09,Hortalizas y legumbres,producto,99.947,4.1
+2025-09,Azúcar y dulces,producto,100.588,6.0
+2025-09,Alimentos preparados,producto,99.382,0.9
+2025-09,Bebidas no alcohólicas,producto,100.648,6.5
+2025-10,IPC general,referencia,100.748,3.1
+2025-10,Alimentación y bebidas,total,100.709,2.4
+2025-10,Pan y cereales,producto,99.9,0.5
+2025-10,Carne,producto,101.819,6.2
+2025-10,Pescado y marisco,producto,101.133,4.1
+2025-10,Lácteos y huevos,producto,101.333,4.9
+2025-10,Aceites y grasas,producto,92.954,-33.5
+2025-10,Frutas,producto,101.365,6.4
+2025-10,Hortalizas y legumbres,producto,99.771,0.7
+2025-10,Azúcar y dulces,producto,101.893,7.0
+2025-10,Alimentos preparados,producto,99.937,0.6
+2025-10,Bebidas no alcohólicas,producto,101.136,6.4
+2025-11,IPC general,referencia,100.943,3.0
+2025-11,Alimentación y bebidas,total,101.035,2.8
+2025-11,Pan y cereales,producto,99.971,0.3
+2025-11,Carne,producto,102.405,6.2
+2025-11,Pescado y marisco,producto,101.236,4.5
+2025-11,Lácteos y huevos,producto,102.684,6.2
+2025-11,Aceites y grasas,producto,94.996,-30.3
+2025-11,Frutas,producto,101.255,7.0
+2025-11,Hortalizas y legumbres,producto,99.142,0.8
+2025-11,Azúcar y dulces,producto,101.635,7.0
+2025-11,Alimentos preparados,producto,100.296,1.4
+2025-11,Bebidas no alcohólicas,producto,101.281,6.0
+2025-12,IPC general,referencia,101.289,2.9
+2025-12,Alimentación y bebidas,total,101.232,3.0
+2025-12,Pan y cereales,producto,100.197,0.3
+2025-12,Carne,producto,102.863,6.1
+2025-12,Pescado y marisco,producto,102.188,2.0
+2025-12,Lácteos y huevos,producto,102.973,6.5
+2025-12,Aceites y grasas,producto,95.754,-25.5
+2025-12,Frutas,producto,98.261,5.4
+2025-12,Hortalizas y legumbres,producto,101.058,4.0
+2025-12,Azúcar y dulces,producto,101.252,6.2
+2025-12,Alimentos preparados,producto,100.65,1.9
+2025-12,Bebidas no alcohólicas,producto,101.434,6.1
+2026-01,IPC general,referencia,100.836,2.3
+2026-01,Alimentación y bebidas,total,101.797,3.0
+2026-01,Pan y cereales,producto,100.131,-0.2
+2026-01,Carne,producto,102.961,5.8
+2026-01,Pescado y marisco,producto,104.058,2.6
+2026-01,Lácteos y huevos,producto,103.298,6.1
+2026-01,Aceites y grasas,producto,98.202,-19.2
+2026-01,Frutas,producto,96.931,5.0
+2026-01,Hortalizas y legumbres,producto,103.869,3.7
+2026-01,Azúcar y dulces,producto,101.698,4.9
+2026-01,Alimentos preparados,producto,100.541,1.2
+2026-01,Bebidas no alcohólicas,producto,102.039,4.9
+2026-02,IPC general,referencia,101.261,2.3
+2026-02,Alimentación y bebidas,total,102.38,3.2
+2026-02,Pan y cereales,producto,100.255,-0.3
+2026-02,Carne,producto,102.96,5.4
+2026-02,Pescado y marisco,producto,104.026,3.8
+2026-02,Lácteos y huevos,producto,103.153,6.0
+2026-02,Aceites y grasas,producto,98.156,-13.1
+2026-02,Frutas,producto,101.859,5.9
+2026-02,Hortalizas y legumbres,producto,104.51,4.3
+2026-02,Azúcar y dulces,producto,101.853,3.2
+2026-02,Alimentos preparados,producto,100.976,1.4
+2026-02,Bebidas no alcohólicas,producto,102.31,3.6
+2026-03,IPC general,referencia,102.44,3.4
+2026-03,Alimentación y bebidas,total,102.155,2.7
+2026-03,Pan y cereales,producto,100.238,0.5
+2026-03,Carne,producto,103.011,5.0
+2026-03,Pescado y marisco,producto,103.149,4.4
+2026-03,Lácteos y huevos,producto,103.06,4.6
+2026-03,Aceites y grasas,producto,97.517,-9.8
+2026-03,Frutas,producto,101.236,1.1
+2026-03,Hortalizas y legumbres,producto,104.486,4.1
+2026-03,Azúcar y dulces,producto,101.557,2.2
+2026-03,Alimentos preparados,producto,101.275,1.4
+2026-03,Bebidas no alcohólicas,producto,101.639,2.8
+2026-04,IPC general,referencia,102.883,3.2
+2026-04,Alimentación y bebidas,total,102.408,2.6
+2026-04,Pan y cereales,producto,100.321,0.6
+2026-04,Carne,producto,103.305,4.6
+2026-04,Pescado y marisco,producto,104.087,5.4
+2026-04,Lácteos y huevos,producto,102.814,3.4
+2026-04,Aceites y grasas,producto,97.818,-5.4
+2026-04,Frutas,producto,99.144,-1.8
+2026-04,Hortalizas y legumbres,producto,107.41,5.9
+2026-04,Azúcar y dulces,producto,101.441,2.2
+2026-04,Alimentos preparados,producto,100.964,1.1
+2026-04,Bebidas no alcohólicas,producto,101.83,2.2
+2026-05,IPC general,referencia,102.951,3.2
+2026-05,Alimentación y bebidas,total,102.441,2.2
+2026-05,Pan y cereales,producto,100.296,0.6
+2026-05,Carne,producto,103.454,4.1
+2026-05,Pescado y marisco,producto,104.344,5.9
+2026-05,Lácteos y huevos,producto,102.575,2.6
+2026-05,Aceites y grasas,producto,97.242,-2.2
+2026-05,Frutas,producto,103.847,-2.9
+2026-05,Hortalizas y legumbres,producto,103.278,4.1
+2026-05,Azúcar y dulces,producto,101.004,1.6
+2026-05,Alimentos preparados,producto,101.469,1.3
+2026-05,Bebidas no alcohólicas,producto,101.664,1.8
+2026-06,IPC general,referencia,103.598,3.2
+2026-06,Alimentación y bebidas,total,102.527,1.9
+2026-06,Pan y cereales,producto,100.366,0.4
+2026-06,Carne,producto,103.434,3.6
+2026-06,Pescado y marisco,producto,104.082,5.4
+2026-06,Lácteos y huevos,producto,102.54,2.6
+2026-06,Aceites y grasas,producto,96.952,2.2
+2026-06,Frutas,producto,107.211,-3.1
+2026-06,Hortalizas y legumbres,producto,101.887,3.0
+2026-06,Azúcar y dulces,producto,101.032,1.4
+2026-06,Alimentos preparados,producto,101.536,1.3
+2026-06,Bebidas no alcohólicas,producto,101.027,1.1
+2026-07,IPC general,referencia,103.899,3.6
+2026-07,Alimentación y bebidas,total,101.843,1.6
+2026-07,Pan y cereales,producto,100.353,0.4
+2026-07,Carne,producto,103.303,3.2
+2026-07,Pescado y marisco,producto,103.841,5.0
+2026-07,Lácteos y huevos,producto,102.444,2.4
+2026-07,Aceites y grasas,producto,95.857,3.5
+2026-07,Frutas,producto,103.272,-1.6
+2026-07,Hortalizas y legumbres,producto,100.178,0.5
+2026-07,Azúcar y dulces,producto,100.673,0.2
+2026-07,Alimentos preparados,producto,101.269,0.9
+2026-07,Bebidas no alcohólicas,producto,101.084,0.6
+2026-08,IPC general,referencia,104.638,4.3
+2026-08,Alimentación y bebidas,total,101.71,2.3
+2026-08,Pan y cereales,producto,100.334,0.3
+2026-08,Carne,producto,103.378,2.8
+2026-08,Pescado y marisco,producto,104.274,5.0
+2026-08,Lácteos y huevos,producto,102.319,2.1
+2026-08,Aceites y grasas,producto,95.008,3.0
+2026-08,Frutas,producto,100.082,5.6
+2026-08,Hortalizas y legumbres,producto,101.362,1.4
+2026-08,Azúcar y dulces,producto,100.62,-0.2
+2026-08,Alimentos preparados,producto,101.834,1.6
+2026-08,Bebidas no alcohólicas,producto,101.007,0.4
+2026-09,IPC general,referencia,104.978,4.9
+2026-09,Alimentación y bebidas,total,101.934,2.7
+2026-09,Pan y cereales,producto,100.031,0.2
+2026-09,Carne,producto,103.554,2.4
+2026-09,Pescado y marisco,producto,104.24,3.5
+2026-09,Lácteos y huevos,producto,102.139,1.9
+2026-09,Aceites y grasas,producto,93.094,2.3
+2026-09,Frutas,producto,99.478,7.9
+2026-09,Hortalizas y legumbres,producto,105.67,5.7
+2026-09,Azúcar y dulces,producto,100.258,-0.3
+2026-09,Alimentos preparados,producto,101.257,1.9
+2026-09,Bebidas no alcohólicas,producto,101.036,0.4
+2026-10,IPC general,referencia,,4.9
