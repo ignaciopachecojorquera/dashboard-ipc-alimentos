@@ -19,7 +19,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 API = "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/{tabla}?nult={n}"
-MESES = 300  # hasta 25 años de histórico (el INE devuelve lo que tenga)
+MESES = 360  # pedimos de sobra y luego recortamos
+DESDE = "2010-01"  # primer mes que se guarda
 
 # (tabla, nombre exacto de la categoría en el INE, nombre corto en el dashboard, tipo)
 CATEGORIAS = [
@@ -81,6 +82,8 @@ def main():
                 if d.get("Valor") is None:
                     continue
                 fecha = f"{d['Anyo']}-{int(d['FK_Periodo']):02d}"
+                if fecha < DESDE:
+                    continue
                 fila = filas.setdefault((fecha, nombre), {
                     "fecha": fecha, "categoria": nombre, "tipo": tipo,
                     "indice": "", "var_anual": ""})
