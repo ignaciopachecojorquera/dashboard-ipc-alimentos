@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPC de alimentación en España</title>
+<style>
+  :root {
+    --negro: #000000; --gris-osc: #787878; --gris-cl: #C8C8C8; --gris-xcl: #F0F0F0;
+    --acento: #000082; --fondo: #FFFFFF;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--negro);
+         font-family: "RB Office", Arial, Helvetica, sans-serif; font-size: 14px; }
+  .pagina { max-width: 1180px; margin: 0 auto; padding: 32px 24px 48px; }
+  h1 { font-size: 26px; margin: 0 0 6px; }
+  .sub { color: var(--gris-osc); font-size: 15px; margin: 0 0 28px; }
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 32px; }
+  .kpi { border-top: 2px solid var(--negro); padding: 12px 0 0; }
+  .kpi .eti { color: var(--gris-osc); font-size: 13px; }
+  .kpi .val { font-size: 30px; font-weight: bold; margin: 4px 0 2px; }
+  .kpi .val.acento { color: var(--acento); }
+  .kpi .det { color: var(--gris-osc); font-size: 13px; }
+  .bloque { margin-bottom: 36px; }
+  .cab { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap;
+         border-bottom: 1.5px solid var(--gris-osc); padding-bottom: 6px; margin-bottom: 14px; }
+  .cab h2 { font-size: 16px; margin: 0; }
+  .cab .nota { color: var(--gris-osc); font-size: 12px; }
+  .controles { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  select, button { font: inherit; font-size: 13px; border: 1px solid var(--gris-cl); background: #fff;
+                   padding: 5px 10px; border-radius: 14px; cursor: pointer; color: var(--negro); }
+  button.activo { background: var(--negro); color: #fff; border-color: var(--negro); }
+  .lienzo { position: relative; height: 420px; }
+  .leyenda { display: flex; gap: 18px; color: var(--gris-osc); font-size: 12px; margin-top: 8px; }
+  .leyenda i { display: inline-block; width: 12px; height: 12px; margin-right: 6px; vertical-align: -1px; border-radius: 2px; }
+  .leyenda i.linea { height: 2px; vertical-align: 3px; border-radius: 0; }
+  footer { color: var(--gris-osc); font-size: 12px; border-top: 0.5px solid var(--gris-cl); padding-top: 10px; }
+  footer a { color: var(--gris-osc); }
+  .error { color: #E62933; padding: 40px 0; }
+  @media (max-width: 760px) { .kpis { grid-template-columns: repeat(2, 1fr); } .lienzo { height: 360px; } }
+</style>
+</head>
+<body>
+<div class="pagina">
+  <h1>IPC de alimentación en España</h1>
+  <p class="sub" id="sub">Variación anual de precios por tipo de producto</p>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="bloque">
+    <div class="cab">
+      <h2 id="t1">Variación anual por tipo de producto [%]</h2>
+      <span class="nota">Pulsa una barra para ver su evolución</span>
+    </div>
+    <div class="lienzo"><canvas id="barras" aria-label="Variación anual por tipo de producto"></canvas></div>
+    <div class="leyenda">
+      <span><i style="background:var(--acento)"></i>Sube más que el total de alimentación</span>
+      <span><i style="background:var(--gris-cl)"></i>Sube menos</span>
+      <span><i style="background:var(--gris-osc)"></i>Total alimentación y bebidas</span>
+    </div>
+  </div>
+
+  <div class="bloque">
+    <div class="cab">
+      <h2>Evolución de la variación anual [%]</h2>
+      <div class="controles">
+        <select id="selector" aria-label="Tipo de producto"></select>
+        <button data-anios="2">2 años</button>
+        <button data-anios="5" class="activo">5 años</button>
+        <button data-anios="0">Todo</button>
+      </div>
+    </div>
+    <div class="lienzo"><canvas id="lineas" aria-label="Evolución de la variación anual"></canvas></div>
+    <div class="leyenda">
+      <span><i class="linea" style="background:var(--acento)"></i><span id="ley-sel">Producto</span></span>
+      <span><i class="linea" style="background:var(--gris-osc)"></i>Total alimentación y bebidas</span>
+    </div>
+  </div>
+
+  <footer>
+    Fuente: INE, Índice de Precios de Consumo (ECOICOP ver.2), índices nacionales mensuales.
+    <span id="act"></span> · <a href="data/ipc_alimentos.csv" download>Descargar datos (CSV)</a>
+  </footer>
+</div>
+
+<script src="assets/chart.umd.min.js"></script>
+<script>
+const COL = { acento: "#000082", grisOsc: "#787878", grisCl: "#C8C8C8", grisXcl: "#F0F0F0", negro: "#000000" };
+const TOTAL = "Alimentación y bebidas", GENERAL = "IPC general";
+const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+const MES_C = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const fmt = v => (v > 0 ? "+" : "") + v.toLocaleString("es-ES", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + "%";
+const nombreMes = f => { const [a, m] = f.split("-"); return MESES[+m - 1] + " " + a; };
+const mesCorto = f => { const [a, m] = f.split("-"); return MES_C[+m - 1] + " " + a.slice(2); };
+
+Chart.defaults.font.family = '"RB Office", Arial, Helvetica, sans-serif';
+Chart.defaults.font.size = 12;
+Chart.defaults.color = COL.negro;
+
+let datos = [], porCat = {}, ultimo, sel, anios = 5, lineas;
+
+async function iniciar() {
+  try {
+    const [csv, info] = await Promise.all([
+      fetch("data/ipc_alimentos.csv", { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.text(); }),
+      fetch("data/ultima_actualizacion.json", { cache: "no-store" }).then(r => r.ok ? r.json() : {}).catch(() => ({}))
+    ]);
+    const [cab, ...filas] = csv.trim().split(/\r?\n/);
+    const k = cab.split(",");
+    datos = filas.map(l => { const v = l.split(","), o = {}; k.forEach((c, i) => o[c] = v[i]); return o; })
+                 .filter(o => o.var_anual !== "").map(o => ({ ...o, var_anual: +o.var_anual }));
+    datos.forEach(o => (porCat[o.categoria] ??= []).push(o));
+    ultimo = datos.reduce((m, o) => o.fecha > m ? o.fecha : m, "");
+    if (info.descargado) document.getElementById("act").textContent = "Actualizado el " + info.descargado.split("-").reverse().join("/");
+    pintar();
+  } catch (e) {
+    document.getElementById("kpis").outerHTML =
+      '<p class="error">Todavía no hay datos. Se cargarán en la primera ejecución automática.</p>';
+  }
+}
+
+const valor = (cat, fecha = ultimo) => (porCat[cat] || []).find(o => o.fecha === fecha)?.var_anual;
+
+function pintar() {
+  document.getElementById("sub").textContent =
+    "Variación anual de precios por tipo de producto · Último dato: " + nombreMes(ultimo);
+  document.getElementById("t1").textContent = "Variación anual por tipo de producto, " + nombreMes(ultimo) + " [%]";
+
+  const productos = Object.keys(porCat).filter(c => porCat[c][0].tipo === "producto");
+  const ult = productos.map(c => ({ c, v: valor(c) })).filter(o => o.v !== undefined).sort((a, b) => b.v - a.v);
+  const vt = valor(TOTAL), vg = valor(GENERAL);
+
+  // KPIs
+  const kpi = (eti, val, det, acento) =>
+    `<div class="kpi"><div class="eti">${eti}</div><div class="val${acento ? " acento" : ""}">${val}</div><div class="det">${det}</div></div>`;
+  const dif = vt !== undefined && vg !== undefined ? (vt - vg) : null;
+  document.getElementById("kpis").innerHTML =
+    kpi("Alimentación y bebidas", vt !== undefined ? fmt(vt) : "–",
+        dif === null ? "" : (Math.abs(dif) < 0.05 ? "En línea con el IPC general" :
+          Math.abs(dif).toLocaleString("es-ES", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " p.p. " + (dif > 0 ? "por encima" : "por debajo") + " del IPC general"), true) +
+    kpi("IPC general", vg !== undefined ? fmt(vg) : "–", "Variación anual") +
+    kpi("Mayor subida", ult.length ? fmt(ult[0].v) : "–", ult.length ? ult[0].c : "") +
+    kpi("Menor subida", ult.length ? fmt(ult.at(-1).v) : "–", ult.length ? ult.at(-1).c : "");
+
+  // Barras
+  const barras = vt !== undefined ? [...ult, { c: TOTAL, v: vt }].sort((a, b) => b.v - a.v) : ult;
+  const colorBarra = o => o.c === TOTAL ? COL.grisOsc : (vt !== undefined && o.v > vt ? COL.acento : COL.grisCl);
+  new Chart(document.getElementById("barras"), {
+    type: "bar",
+    data: { labels: barras.map(o => o.c),
+            datasets: [{ data: barras.map(o => o.v), backgroundColor: barras.map(colorBarra),
+                         borderRadius: 3, barPercentage: 0.6, categoryPercentage: 0.9 }] },
+    options: {
+      indexAxis: "y", maintainAspectRatio: false, layout: { padding: { right: 56, left: 8 } },
+      plugins: { legend: { display: false },
+                 tooltip: { callbacks: { label: c => fmt(c.raw) } } },
+      scales: {
+        x: { grid: { color: c => c.tick.value === 0 ? COL.negro : COL.grisXcl, lineWidth: c => c.tick.value === 0 ? 1 : 0.5 },
+             border: { display: false }, ticks: { callback: v => v + "%", color: COL.grisOsc } },
+        y: { grid: { display: false }, border: { display: false },
+             ticks: { font: c => ({ weight: barras[c.index]?.c === TOTAL ? "bold" : "normal" }) } }
+      },
+      onClick: (e, el) => { if (el.length && barras[el[0].index].c !== TOTAL) elegir(barras[el[0].index].c); },
+      onHover: (e, el) => e.native.target.style.cursor = el.length ? "pointer" : "default"
+    },
+    plugins: [{ id: "etiquetas", afterDatasetsDraw(ch) {
+      const { ctx } = ch, meta = ch.getDatasetMeta(0);
+      ctx.save(); ctx.font = "bold 12px " + Chart.defaults.font.family; ctx.fillStyle = COL.negro; ctx.textBaseline = "middle";
+      meta.data.forEach((b, i) => { const v = barras[i].v; ctx.textAlign = v >= 0 ? "left" : "right";
+        ctx.fillText(fmt(v), b.x + (v >= 0 ? 6 : -6), b.y); });
+      ctx.restore(); } }]
+  });
+
+  // Selector y líneas
+  const s = document.getElementById("selector");
+  s.innerHTML = productos.map(c => `<option>${c}</option>`).join("");
+  s.onchange = () => elegir(s.value);
+  document.querySelectorAll("button[data-anios]").forEach(b => b.onclick = () => {
+    document.querySelectorAll("button[data-anios]").forEach(x => x.classList.remove("activo"));
+    b.classList.add("activo"); anios = +b.dataset.anios; dibujarLineas();
+  });
+  elegir(ult.length ? ult[0].c : productos[0], false);
+}
+
+function elegir(c, desplazar = true) {
+  sel = c; document.getElementById("selector").value = c;
+  document.getElementById("ley-sel").textContent = c;
+  dibujarLineas();
+  if (desplazar) document.getElementById("selector").scrollIntoView({ behavior: "smooth", block: "center" });
+}
+
+function dibujarLineas() {
+  let fechas = [...new Set(porCat[sel].map(o => o.fecha))].sort();
+  if (anios) { const [a, m] = ultimo.split("-"); const desde = (+a - anios) + "-" + m; fechas = fechas.filter(f => f > desde); }
+  const serie = cat => fechas.map(f => valor(cat, f) ?? null);
+  const cfg = {
+    type: "line",
+    data: { labels: fechas,
+            datasets: [
+              { label: sel, data: serie(sel), borderColor: COL.acento, borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0 },
+              { label: "Total alimentación y bebidas", data: serie(TOTAL), borderColor: COL.grisOsc, borderWidth: 1.5,
+                pointRadius: 0, pointHoverRadius: 4, tension: 0 } ] },
+    options: {
+      maintainAspectRatio: false, interaction: { mode: "index", intersect: false },
+      plugins: { legend: { display: false },
+                 tooltip: { callbacks: { title: i => nombreMes(i[0].label), label: c => c.dataset.label + ": " + (c.raw === null ? "–" : fmt(c.raw)) } } },
+      scales: {
+        x: { grid: { display: false }, border: { color: COL.negro, width: 0.5 },
+             ticks: { color: COL.grisOsc, maxRotation: 0, autoSkip: true, maxTicksLimit: 10, callback: (v, i) => mesCorto(fechas[i]) } },
+        y: { grid: { color: c => c.tick.value === 0 ? COL.negro : COL.grisXcl, lineWidth: c => c.tick.value === 0 ? 1 : 0.5 },
+             border: { display: false }, ticks: { color: COL.grisOsc, callback: v => v + "%" } }
+      }
+    }
+  };
+  if (lineas) lineas.destroy();
+  lineas = new Chart(document.getElementById("lineas"), cfg);
+}
+
+iniciar();
+</script>
+</body>
+</html>
