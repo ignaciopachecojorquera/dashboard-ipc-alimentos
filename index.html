@@ -110,7 +110,7 @@ async function iniciar() {
     datos = filas.map(l => { const v = l.split(","), o = {}; k.forEach((c, i) => o[c] = v[i]); return o; })
                  .filter(o => o.var_anual !== "").map(o => ({ ...o, var_anual: +o.var_anual }));
     datos.forEach(o => (porCat[o.categoria] ??= []).push(o));
-    ultimo = datos.reduce((m, o) => o.fecha > m ? o.fecha : m, "");
+    ultimo = datos.filter(o => o.categoria === TOTAL).reduce((m, o) => o.fecha > m ? o.fecha : m, "");
     if (info.descargado) document.getElementById("act").textContent = "Actualizado el " + info.descargado.split("-").reverse().join("/");
     pintar();
   } catch (e) {
@@ -140,7 +140,7 @@ function pintar() {
           Math.abs(dif).toLocaleString("es-ES", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " p.p. " + (dif > 0 ? "por encima" : "por debajo") + " del IPC general"), true) +
     kpi("IPC general", vg !== undefined ? fmt(vg) : "–", "Variación anual") +
     kpi("Mayor subida", ult.length ? fmt(ult[0].v) : "–", ult.length ? ult[0].c : "") +
-    kpi("Menor subida", ult.length ? fmt(ult.at(-1).v) : "–", ult.length ? ult.at(-1).c : "");
+    kpi("Menor variación", ult.length ? fmt(ult.at(-1).v) : "–", ult.length ? ult.at(-1).c : "");
 
   // Barras
   const barras = vt !== undefined ? [...ult, { c: TOTAL, v: vt }].sort((a, b) => b.v - a.v) : ult;

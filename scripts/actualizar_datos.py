@@ -96,18 +96,22 @@ def main():
     DATA.mkdir(exist_ok=True)
     orden = {c[2]: i for i, c in enumerate(CATEGORIAS)}
     salida = sorted(filas.values(), key=lambda f: (f["fecha"], orden[f["categoria"]]))
-    with open(DATA / "ipc_alimentos.csv", "w", newline="", encoding="utf-8") as f:
+    csv_path = DATA / "ipc_alimentos.csv"
+    antes = csv_path.read_text(encoding="utf-8") if csv_path.exists() else ""
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["fecha", "categoria", "tipo", "indice", "var_anual"])
         w.writeheader()
         w.writerows(salida)
 
-    ultimo = max(f["fecha"] for f in salida)
+    # Último mes con desglose por producto (el INE adelanta solo el IPC general a final de mes)
+    ultimo = max(f["fecha"] for f in salida if f["tipo"] == "total")
     info_path = DATA / "ultima_actualizacion.json"
     anterior = json.loads(info_path.read_text()) if info_path.exists() else {}
+    cambio = csv_path.read_text(encoding="utf-8") != antes
     info = {
         "ultimo_mes": ultimo,
-        "descargado": anterior.get("descargado") if anterior.get("ultimo_mes") == ultimo
-        else datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "descargado": datetime.now(timezone.utc).strftime("%Y-%m-%d") if cambio or not anterior
+        else anterior.get("descargado"),
         "series_no_encontradas": faltan,
     }
     info_path.write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n")
