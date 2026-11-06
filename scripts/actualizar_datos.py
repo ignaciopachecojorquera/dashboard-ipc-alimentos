@@ -140,7 +140,8 @@ def descargar(tabla):
 
 
 def limpiar(texto):
-    return texto.strip().rstrip(".").strip()
+    # normaliza espacios (el INE a veces deja dobles espacios) y puntos finales
+    return " ".join(texto.split()).rstrip(".").strip()
 
 
 def partes(nombre):
