@@ -10,6 +10,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-01,Carne curada y embutidos,subclase,Carne,69.129,-0.7
 2010-01,Preparados de carne,subclase,Carne,65.812,-0.8
 2010-01,Pescado y marisco,producto,,61.634,-1.2
+2010-01,Pescado fresco o congelado,subclase,Pescado y marisco,62.918,-1.2
 2010-01,Lácteos y huevos,producto,,68.353,-4.9
 2010-01,Queso,subclase,Lácteos y huevos,66.313,-1.1
 2010-01,Huevos,subclase,Lácteos y huevos,51.155,-0.6
@@ -34,6 +35,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-02,Carne curada y embutidos,subclase,Carne,69.074,-0.6
 2010-02,Preparados de carne,subclase,Carne,66.094,-0.6
 2010-02,Pescado y marisco,producto,,60.076,-1.7
+2010-02,Pescado fresco o congelado,subclase,Pescado y marisco,60.304,-1.9
 2010-02,Lácteos y huevos,producto,,67.818,-5.2
 2010-02,Queso,subclase,Lácteos y huevos,66.275,-1.4
 2010-02,Huevos,subclase,Lácteos y huevos,51.062,-0.7
@@ -58,6 +60,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-03,Carne curada y embutidos,subclase,Carne,69.05,-0.5
 2010-03,Preparados de carne,subclase,Carne,65.911,-0.4
 2010-03,Pescado y marisco,producto,,60.513,1.4
+2010-03,Pescado fresco o congelado,subclase,Pescado y marisco,61.04,3.2
 2010-03,Lácteos y huevos,producto,,67.748,-4.9
 2010-03,Queso,subclase,Lácteos y huevos,66.53,-0.7
 2010-03,Huevos,subclase,Lácteos y huevos,50.992,-0.7
@@ -82,6 +85,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-04,Carne curada y embutidos,subclase,Carne,69.103,-0.3
 2010-04,Preparados de carne,subclase,Carne,66.109,-0.7
 2010-04,Pescado y marisco,producto,,60.573,1.5
+2010-04,Pescado fresco o congelado,subclase,Pescado y marisco,61.036,2.8
 2010-04,Lácteos y huevos,producto,,66.853,-5.5
 2010-04,Queso,subclase,Lácteos y huevos,66.523,-0.4
 2010-04,Huevos,subclase,Lácteos y huevos,50.96,-0.6
@@ -106,6 +110,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-05,Carne curada y embutidos,subclase,Carne,69.053,-0.2
 2010-05,Preparados de carne,subclase,Carne,65.721,-1.0
 2010-05,Pescado y marisco,producto,,60.228,1.2
+2010-05,Pescado fresco o congelado,subclase,Pescado y marisco,60.027,1.6
 2010-05,Lácteos y huevos,producto,,66.629,-4.2
 2010-05,Queso,subclase,Lácteos y huevos,66.45,-0.1
 2010-05,Huevos,subclase,Lácteos y huevos,50.82,-0.3
@@ -130,6 +135,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-06,Carne curada y embutidos,subclase,Carne,69.143,0.0
 2010-06,Preparados de carne,subclase,Carne,65.978,-1.1
 2010-06,Pescado y marisco,producto,,60.48,1.5
+2010-06,Pescado fresco o congelado,subclase,Pescado y marisco,60.09,1.7
 2010-06,Lácteos y huevos,producto,,66.683,-3.7
 2010-06,Queso,subclase,Lácteos y huevos,66.354,-0.3
 2010-06,Huevos,subclase,Lácteos y huevos,50.692,-0.3
@@ -154,6 +160,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-07,Carne curada y embutidos,subclase,Carne,69.304,0.2
 2010-07,Preparados de carne,subclase,Carne,66.262,-0.4
 2010-07,Pescado y marisco,producto,,60.819,1.9
+2010-07,Pescado fresco o congelado,subclase,Pescado y marisco,60.287,1.8
 2010-07,Lácteos y huevos,producto,,66.608,-2.9
 2010-07,Queso,subclase,Lácteos y huevos,66.269,-0.3
 2010-07,Huevos,subclase,Lácteos y huevos,50.505,-1.3
@@ -178,6 +185,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-08,Carne curada y embutidos,subclase,Carne,69.328,0.2
 2010-08,Preparados de carne,subclase,Carne,65.775,-1.3
 2010-08,Pescado y marisco,producto,,61.462,2.0
+2010-08,Pescado fresco o congelado,subclase,Pescado y marisco,61.193,2.1
 2010-08,Lácteos y huevos,producto,,67.144,-2.3
 2010-08,Queso,subclase,Lácteos y huevos,66.308,-0.5
 2010-08,Huevos,subclase,Lácteos y huevos,50.416,-1.7
@@ -202,6 +210,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-09,Carne curada y embutidos,subclase,Carne,69.291,0.3
 2010-09,Preparados de carne,subclase,Carne,65.441,-2.2
 2010-09,Pescado y marisco,producto,,61.385,1.8
+2010-09,Pescado fresco o congelado,subclase,Pescado y marisco,60.712,0.9
 2010-09,Lácteos y huevos,producto,,67.199,-1.4
 2010-09,Queso,subclase,Lácteos y huevos,66.312,0.4
 2010-09,Huevos,subclase,Lácteos y huevos,50.27,-2.1
@@ -226,6 +235,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-10,Carne curada y embutidos,subclase,Carne,69.234,0.2
 2010-10,Preparados de carne,subclase,Carne,65.644,-0.9
 2010-10,Pescado y marisco,producto,,61.556,3.2
+2010-10,Pescado fresco o congelado,subclase,Pescado y marisco,60.671,2.6
 2010-10,Lácteos y huevos,producto,,67.009,-1.0
 2010-10,Queso,subclase,Lácteos y huevos,66.306,0.8
 2010-10,Huevos,subclase,Lácteos y huevos,50.453,-1.5
@@ -250,6 +260,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-11,Carne curada y embutidos,subclase,Carne,69.392,0.4
 2010-11,Preparados de carne,subclase,Carne,65.719,-0.9
 2010-11,Pescado y marisco,producto,,61.93,2.9
+2010-11,Pescado fresco o congelado,subclase,Pescado y marisco,61.154,1.6
 2010-11,Lácteos y huevos,producto,,67.417,-0.1
 2010-11,Queso,subclase,Lácteos y huevos,66.45,0.8
 2010-11,Huevos,subclase,Lácteos y huevos,50.494,-1.4
@@ -274,6 +285,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2010-12,Carne curada y embutidos,subclase,Carne,69.36,0.4
 2010-12,Preparados de carne,subclase,Carne,65.944,0.2
 2010-12,Pescado y marisco,producto,,62.796,3.1
+2010-12,Pescado fresco o congelado,subclase,Pescado y marisco,62.473,1.4
 2010-12,Lácteos y huevos,producto,,67.756,-1.0
 2010-12,Queso,subclase,Lácteos y huevos,66.327,-0.1
 2010-12,Huevos,subclase,Lácteos y huevos,50.431,-1.5
@@ -298,6 +310,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-01,Carne curada y embutidos,subclase,Carne,69.405,0.4
 2011-01,Preparados de carne,subclase,Carne,66.017,0.3
 2011-01,Pescado y marisco,producto,,63.159,2.5
+2011-01,Pescado fresco o congelado,subclase,Pescado y marisco,63.112,0.3
 2011-01,Lácteos y huevos,producto,,67.473,-1.3
 2011-01,Queso,subclase,Lácteos y huevos,66.459,0.2
 2011-01,Huevos,subclase,Lácteos y huevos,50.244,-1.8
@@ -322,6 +335,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-02,Carne curada y embutidos,subclase,Carne,69.299,0.3
 2011-02,Preparados de carne,subclase,Carne,65.822,-0.4
 2011-02,Pescado y marisco,producto,,61.949,3.1
+2011-02,Pescado fresco o congelado,subclase,Pescado y marisco,60.87,0.9
 2011-02,Lácteos y huevos,producto,,67.295,-0.8
 2011-02,Queso,subclase,Lácteos y huevos,66.345,0.1
 2011-02,Huevos,subclase,Lácteos y huevos,49.873,-2.3
@@ -346,6 +360,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-03,Carne curada y embutidos,subclase,Carne,69.454,0.6
 2011-03,Preparados de carne,subclase,Carne,65.908,0.0
 2011-03,Pescado y marisco,producto,,62.663,3.6
+2011-03,Pescado fresco o congelado,subclase,Pescado y marisco,61.849,1.3
 2011-03,Lácteos y huevos,producto,,67.196,-0.8
 2011-03,Queso,subclase,Lácteos y huevos,66.452,-0.1
 2011-03,Huevos,subclase,Lácteos y huevos,49.818,-2.3
@@ -370,6 +385,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-04,Carne curada y embutidos,subclase,Carne,69.625,0.8
 2011-04,Preparados de carne,subclase,Carne,66.527,0.6
 2011-04,Pescado y marisco,producto,,62.378,3.0
+2011-04,Pescado fresco o congelado,subclase,Pescado y marisco,61.128,0.2
 2011-04,Lácteos y huevos,producto,,67.898,1.6
 2011-04,Queso,subclase,Lácteos y huevos,66.687,0.2
 2011-04,Huevos,subclase,Lácteos y huevos,49.811,-2.3
@@ -394,6 +410,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-05,Carne curada y embutidos,subclase,Carne,69.838,1.1
 2011-05,Preparados de carne,subclase,Carne,66.718,1.5
 2011-05,Pescado y marisco,producto,,62.618,4.0
+2011-05,Pescado fresco o congelado,subclase,Pescado y marisco,61.317,2.1
 2011-05,Lácteos y huevos,producto,,68.212,2.4
 2011-05,Queso,subclase,Lácteos y huevos,66.862,0.6
 2011-05,Huevos,subclase,Lácteos y huevos,49.766,-2.1
@@ -418,6 +435,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-06,Carne curada y embutidos,subclase,Carne,70.017,1.3
 2011-06,Preparados de carne,subclase,Carne,66.584,0.9
 2011-06,Pescado y marisco,producto,,62.984,4.1
+2011-06,Pescado fresco o congelado,subclase,Pescado y marisco,61.828,2.9
 2011-06,Lácteos y huevos,producto,,68.304,2.4
 2011-06,Queso,subclase,Lácteos y huevos,67.032,1.0
 2011-06,Huevos,subclase,Lácteos y huevos,49.754,-1.9
@@ -442,6 +460,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-07,Carne curada y embutidos,subclase,Carne,70.155,1.2
 2011-07,Preparados de carne,subclase,Carne,67.046,1.2
 2011-07,Pescado y marisco,producto,,63.402,4.2
+2011-07,Pescado fresco o congelado,subclase,Pescado y marisco,62.418,3.5
 2011-07,Lácteos y huevos,producto,,68.421,2.7
 2011-07,Queso,subclase,Lácteos y huevos,67.119,1.3
 2011-07,Huevos,subclase,Lácteos y huevos,49.984,-1.0
@@ -466,6 +485,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-08,Carne curada y embutidos,subclase,Carne,70.178,1.2
 2011-08,Preparados de carne,subclase,Carne,67.164,2.1
 2011-08,Pescado y marisco,producto,,63.938,4.0
+2011-08,Pescado fresco o congelado,subclase,Pescado y marisco,63.328,3.5
 2011-08,Lácteos y huevos,producto,,68.885,2.6
 2011-08,Queso,subclase,Lácteos y huevos,67.202,1.3
 2011-08,Huevos,subclase,Lácteos y huevos,50.386,-0.1
@@ -490,6 +510,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-09,Carne curada y embutidos,subclase,Carne,70.287,1.4
 2011-09,Preparados de carne,subclase,Carne,67.068,2.5
 2011-09,Pescado y marisco,producto,,64.126,4.5
+2011-09,Pescado fresco o congelado,subclase,Pescado y marisco,63.674,4.9
 2011-09,Lácteos y huevos,producto,,69.04,2.7
 2011-09,Queso,subclase,Lácteos y huevos,67.182,1.3
 2011-09,Huevos,subclase,Lácteos y huevos,50.627,0.7
@@ -514,6 +535,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-10,Carne curada y embutidos,subclase,Carne,70.262,1.5
 2011-10,Preparados de carne,subclase,Carne,67.251,2.4
 2011-10,Pescado y marisco,producto,,63.904,3.8
+2011-10,Pescado fresco o congelado,subclase,Pescado y marisco,63.299,4.3
 2011-10,Lácteos y huevos,producto,,68.883,2.8
 2011-10,Queso,subclase,Lácteos y huevos,67.326,1.5
 2011-10,Huevos,subclase,Lácteos y huevos,50.475,0.0
@@ -538,6 +560,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-11,Carne curada y embutidos,subclase,Carne,70.276,1.3
 2011-11,Preparados de carne,subclase,Carne,67.35,2.5
 2011-11,Pescado y marisco,producto,,64.052,3.4
+2011-11,Pescado fresco o congelado,subclase,Pescado y marisco,63.559,3.9
 2011-11,Lácteos y huevos,producto,,69.297,2.8
 2011-11,Queso,subclase,Lácteos y huevos,67.571,1.7
 2011-11,Huevos,subclase,Lácteos y huevos,50.423,-0.1
@@ -562,6 +585,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2011-12,Carne curada y embutidos,subclase,Carne,70.25,1.3
 2011-12,Preparados de carne,subclase,Carne,67.52,2.4
 2011-12,Pescado y marisco,producto,,65.097,3.7
+2011-12,Pescado fresco o congelado,subclase,Pescado y marisco,65.382,4.7
 2011-12,Lácteos y huevos,producto,,69.553,2.7
 2011-12,Queso,subclase,Lácteos y huevos,67.667,2.0
 2011-12,Huevos,subclase,Lácteos y huevos,50.576,0.3
@@ -586,6 +610,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-01,Carne curada y embutidos,subclase,Carne,70.393,1.4
 2012-01,Preparados de carne,subclase,Carne,68.021,3.0
 2012-01,Pescado y marisco,producto,,64.827,2.6
+2012-01,Pescado fresco o congelado,subclase,Pescado y marisco,64.751,2.6
 2012-01,Lácteos y huevos,producto,,69.905,3.6
 2012-01,Queso,subclase,Lácteos y huevos,67.79,2.0
 2012-01,Huevos,subclase,Lácteos y huevos,51.57,2.6
@@ -610,6 +635,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-02,Carne curada y embutidos,subclase,Carne,70.469,1.7
 2012-02,Preparados de carne,subclase,Carne,68.025,3.3
 2012-02,Pescado y marisco,producto,,63.541,2.6
+2012-02,Pescado fresco o congelado,subclase,Pescado y marisco,61.998,1.9
 2012-02,Lácteos y huevos,producto,,70.034,4.1
 2012-02,Queso,subclase,Lácteos y huevos,68.111,2.7
 2012-02,Huevos,subclase,Lácteos y huevos,52.283,4.8
@@ -634,6 +660,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-03,Carne curada y embutidos,subclase,Carne,70.59,1.6
 2012-03,Preparados de carne,subclase,Carne,68.625,4.1
 2012-03,Pescado y marisco,producto,,63.78,1.8
+2012-03,Pescado fresco o congelado,subclase,Pescado y marisco,62.561,1.2
 2012-03,Lácteos y huevos,producto,,70.299,4.6
 2012-03,Queso,subclase,Lácteos y huevos,68.239,2.7
 2012-03,Huevos,subclase,Lácteos y huevos,54.593,9.6
@@ -658,6 +685,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-04,Carne curada y embutidos,subclase,Carne,70.832,1.7
 2012-04,Preparados de carne,subclase,Carne,68.67,3.2
 2012-04,Pescado y marisco,producto,,64.192,2.9
+2012-04,Pescado fresco o congelado,subclase,Pescado y marisco,63.206,3.4
 2012-04,Lácteos y huevos,producto,,70.726,4.2
 2012-04,Queso,subclase,Lácteos y huevos,68.348,2.5
 2012-04,Huevos,subclase,Lácteos y huevos,57.42,15.3
@@ -682,6 +710,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-05,Carne curada y embutidos,subclase,Carne,70.992,1.7
 2012-05,Preparados de carne,subclase,Carne,68.622,2.9
 2012-05,Pescado y marisco,producto,,64.07,2.3
+2012-05,Pescado fresco o congelado,subclase,Pescado y marisco,62.662,2.2
 2012-05,Lácteos y huevos,producto,,70.839,3.9
 2012-05,Queso,subclase,Lácteos y huevos,68.497,2.4
 2012-05,Huevos,subclase,Lácteos y huevos,58.875,18.3
@@ -706,6 +735,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-06,Carne curada y embutidos,subclase,Carne,70.925,1.3
 2012-06,Preparados de carne,subclase,Carne,68.757,3.3
 2012-06,Pescado y marisco,producto,,63.928,1.5
+2012-06,Pescado fresco o congelado,subclase,Pescado y marisco,62.49,1.1
 2012-06,Lácteos y huevos,producto,,70.854,3.7
 2012-06,Queso,subclase,Lácteos y huevos,68.361,2.0
 2012-06,Huevos,subclase,Lácteos y huevos,59.089,18.8
@@ -730,6 +760,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-07,Carne curada y embutidos,subclase,Carne,71.004,1.2
 2012-07,Preparados de carne,subclase,Carne,69.248,3.3
 2012-07,Pescado y marisco,producto,,64.275,1.4
+2012-07,Pescado fresco o congelado,subclase,Pescado y marisco,63.07,1.0
 2012-07,Lácteos y huevos,producto,,70.802,3.5
 2012-07,Queso,subclase,Lácteos y huevos,68.363,1.9
 2012-07,Huevos,subclase,Lácteos y huevos,59.53,19.1
@@ -754,6 +785,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-08,Carne curada y embutidos,subclase,Carne,71.147,1.4
 2012-08,Preparados de carne,subclase,Carne,70.07,4.3
 2012-08,Pescado y marisco,producto,,64.837,1.4
+2012-08,Pescado fresco o congelado,subclase,Pescado y marisco,63.844,0.8
 2012-08,Lácteos y huevos,producto,,70.668,2.6
 2012-08,Queso,subclase,Lácteos y huevos,68.305,1.6
 2012-08,Huevos,subclase,Lácteos y huevos,59.776,18.6
@@ -778,6 +810,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-09,Carne curada y embutidos,subclase,Carne,71.619,1.9
 2012-09,Preparados de carne,subclase,Carne,70.676,5.4
 2012-09,Pescado y marisco,producto,,64.838,1.1
+2012-09,Pescado fresco o congelado,subclase,Pescado y marisco,63.675,0.0
 2012-09,Lácteos y huevos,producto,,70.817,2.6
 2012-09,Queso,subclase,Lácteos y huevos,68.393,1.8
 2012-09,Huevos,subclase,Lácteos y huevos,60.022,18.6
@@ -802,6 +835,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-10,Carne curada y embutidos,subclase,Carne,71.91,2.3
 2012-10,Preparados de carne,subclase,Carne,70.893,5.4
 2012-10,Pescado y marisco,producto,,64.325,0.7
+2012-10,Pescado fresco o congelado,subclase,Pescado y marisco,62.511,-1.2
 2012-10,Lácteos y huevos,producto,,71.005,3.1
 2012-10,Queso,subclase,Lácteos y huevos,68.49,1.7
 2012-10,Huevos,subclase,Lácteos y huevos,60.065,19.0
@@ -826,6 +860,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-11,Carne curada y embutidos,subclase,Carne,71.951,2.4
 2012-11,Preparados de carne,subclase,Carne,71.077,5.5
 2012-11,Pescado y marisco,producto,,64.611,0.9
+2012-11,Pescado fresco o congelado,subclase,Pescado y marisco,63.196,-0.6
 2012-11,Lácteos y huevos,producto,,71.098,2.6
 2012-11,Queso,subclase,Lácteos y huevos,68.464,1.3
 2012-11,Huevos,subclase,Lácteos y huevos,60.091,19.2
@@ -850,6 +885,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2012-12,Carne curada y embutidos,subclase,Carne,72.107,2.6
 2012-12,Preparados de carne,subclase,Carne,71.231,5.5
 2012-12,Pescado y marisco,producto,,65.263,0.3
+2012-12,Pescado fresco o congelado,subclase,Pescado y marisco,64.309,-1.6
 2012-12,Lácteos y huevos,producto,,71.21,2.4
 2012-12,Queso,subclase,Lácteos y huevos,68.37,1.0
 2012-12,Huevos,subclase,Lácteos y huevos,60.204,19.0
@@ -874,6 +910,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-01,Carne curada y embutidos,subclase,Carne,72.4,2.9
 2013-01,Preparados de carne,subclase,Carne,71.375,4.9
 2013-01,Pescado y marisco,producto,,66.053,1.9
+2013-01,Pescado fresco o congelado,subclase,Pescado y marisco,65.492,1.1
 2013-01,Lácteos y huevos,producto,,70.883,1.4
 2013-01,Queso,subclase,Lácteos y huevos,68.369,0.9
 2013-01,Huevos,subclase,Lácteos y huevos,60.203,16.7
@@ -898,6 +935,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-02,Carne curada y embutidos,subclase,Carne,72.682,3.1
 2013-02,Preparados de carne,subclase,Carne,71.46,5.0
 2013-02,Pescado y marisco,producto,,65.008,2.3
+2013-02,Pescado fresco o congelado,subclase,Pescado y marisco,63.364,2.2
 2013-02,Lácteos y huevos,producto,,70.87,1.2
 2013-02,Queso,subclase,Lácteos y huevos,68.466,0.5
 2013-02,Huevos,subclase,Lácteos y huevos,59.882,14.5
@@ -922,6 +960,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-03,Carne curada y embutidos,subclase,Carne,72.709,3.0
 2013-03,Preparados de carne,subclase,Carne,71.328,3.9
 2013-03,Pescado y marisco,producto,,65.085,2.0
+2013-03,Pescado fresco o congelado,subclase,Pescado y marisco,63.185,1.0
 2013-03,Lácteos y huevos,producto,,70.789,0.7
 2013-03,Queso,subclase,Lácteos y huevos,68.509,0.4
 2013-03,Huevos,subclase,Lácteos y huevos,59.418,8.8
@@ -946,6 +985,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-04,Carne curada y embutidos,subclase,Carne,72.777,2.7
 2013-04,Preparados de carne,subclase,Carne,71.081,3.5
 2013-04,Pescado y marisco,producto,,65.356,1.8
+2013-04,Pescado fresco o congelado,subclase,Pescado y marisco,63.33,0.2
 2013-04,Lácteos y huevos,producto,,70.633,-0.1
 2013-04,Queso,subclase,Lácteos y huevos,68.285,-0.1
 2013-04,Huevos,subclase,Lácteos y huevos,59.129,3.0
@@ -970,6 +1010,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-05,Carne curada y embutidos,subclase,Carne,72.741,2.5
 2013-05,Preparados de carne,subclase,Carne,71.005,3.5
 2013-05,Pescado y marisco,producto,,65.245,1.8
+2013-05,Pescado fresco o congelado,subclase,Pescado y marisco,62.886,0.4
 2013-05,Lácteos y huevos,producto,,70.577,-0.4
 2013-05,Queso,subclase,Lácteos y huevos,68.04,-0.7
 2013-05,Huevos,subclase,Lácteos y huevos,58.793,-0.1
@@ -994,6 +1035,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-06,Carne curada y embutidos,subclase,Carne,72.953,2.9
 2013-06,Preparados de carne,subclase,Carne,70.934,3.2
 2013-06,Pescado y marisco,producto,,65.156,1.9
+2013-06,Pescado fresco o congelado,subclase,Pescado y marisco,62.699,0.3
 2013-06,Lácteos y huevos,producto,,70.566,-0.4
 2013-06,Queso,subclase,Lácteos y huevos,67.929,-0.6
 2013-06,Huevos,subclase,Lácteos y huevos,58.645,-0.8
@@ -1018,6 +1060,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-07,Carne curada y embutidos,subclase,Carne,73.123,3.0
 2013-07,Preparados de carne,subclase,Carne,70.829,2.3
 2013-07,Pescado y marisco,producto,,65.239,1.5
+2013-07,Pescado fresco o congelado,subclase,Pescado y marisco,62.612,-0.7
 2013-07,Lácteos y huevos,producto,,70.573,-0.3
 2013-07,Queso,subclase,Lácteos y huevos,67.909,-0.7
 2013-07,Huevos,subclase,Lácteos y huevos,58.497,-1.7
@@ -1042,6 +1085,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-08,Carne curada y embutidos,subclase,Carne,73.163,2.8
 2013-08,Preparados de carne,subclase,Carne,70.991,1.3
 2013-08,Pescado y marisco,producto,,65.62,1.2
+2013-08,Pescado fresco o congelado,subclase,Pescado y marisco,63.152,-1.1
 2013-08,Lácteos y huevos,producto,,70.739,0.1
 2013-08,Queso,subclase,Lácteos y huevos,68.072,-0.3
 2013-08,Huevos,subclase,Lácteos y huevos,58.172,-2.7
@@ -1066,6 +1110,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-09,Carne curada y embutidos,subclase,Carne,73.298,2.3
 2013-09,Preparados de carne,subclase,Carne,71.371,1.0
 2013-09,Pescado y marisco,producto,,65.606,1.2
+2013-09,Pescado fresco o congelado,subclase,Pescado y marisco,63.035,-1.0
 2013-09,Lácteos y huevos,producto,,70.992,0.2
 2013-09,Queso,subclase,Lácteos y huevos,68.183,-0.3
 2013-09,Huevos,subclase,Lácteos y huevos,58.244,-3.0
@@ -1090,6 +1135,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-10,Carne curada y embutidos,subclase,Carne,73.303,1.9
 2013-10,Preparados de carne,subclase,Carne,71.486,0.8
 2013-10,Pescado y marisco,producto,,65.239,1.4
+2013-10,Pescado fresco o congelado,subclase,Pescado y marisco,62.408,-0.2
 2013-10,Lácteos y huevos,producto,,71.397,0.6
 2013-10,Queso,subclase,Lácteos y huevos,68.78,0.4
 2013-10,Huevos,subclase,Lácteos y huevos,58.216,-3.1
@@ -1114,6 +1160,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-11,Carne curada y embutidos,subclase,Carne,73.497,2.1
 2013-11,Preparados de carne,subclase,Carne,71.854,1.1
 2013-11,Pescado y marisco,producto,,66.267,2.6
+2013-11,Pescado fresco o congelado,subclase,Pescado y marisco,64.26,1.7
 2013-11,Lácteos y huevos,producto,,71.74,0.9
 2013-11,Queso,subclase,Lácteos y huevos,69.382,1.3
 2013-11,Huevos,subclase,Lácteos y huevos,58.094,-3.3
@@ -1138,6 +1185,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2013-12,Carne curada y embutidos,subclase,Carne,73.729,2.2
 2013-12,Preparados de carne,subclase,Carne,71.854,0.9
 2013-12,Pescado y marisco,producto,,66.501,1.9
+2013-12,Pescado fresco o congelado,subclase,Pescado y marisco,64.188,-0.2
 2013-12,Lácteos y huevos,producto,,71.818,0.9
 2013-12,Queso,subclase,Lácteos y huevos,69.621,1.8
 2013-12,Huevos,subclase,Lácteos y huevos,58.059,-3.6
@@ -1162,6 +1210,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-01,Carne curada y embutidos,subclase,Carne,73.787,1.9
 2014-01,Preparados de carne,subclase,Carne,71.882,0.7
 2014-01,Pescado y marisco,producto,,68.555,3.8
+2014-01,Pescado fresco o congelado,subclase,Pescado y marisco,67.752,3.5
 2014-01,Lácteos y huevos,producto,,71.981,1.5
 2014-01,Queso,subclase,Lácteos y huevos,69.803,2.1
 2014-01,Huevos,subclase,Lácteos y huevos,58.23,-3.3
@@ -1186,6 +1235,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-02,Carne curada y embutidos,subclase,Carne,73.873,1.6
 2014-02,Preparados de carne,subclase,Carne,71.832,0.5
 2014-02,Pescado y marisco,producto,,68.575,5.5
+2014-02,Pescado fresco o congelado,subclase,Pescado y marisco,67.661,6.8
 2014-02,Lácteos y huevos,producto,,71.912,1.5
 2014-02,Queso,subclase,Lácteos y huevos,69.77,1.9
 2014-02,Huevos,subclase,Lácteos y huevos,57.998,-3.1
@@ -1210,6 +1260,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-03,Carne curada y embutidos,subclase,Carne,73.851,1.6
 2014-03,Preparados de carne,subclase,Carne,71.918,0.8
 2014-03,Pescado y marisco,producto,,67.054,3.0
+2014-03,Pescado fresco o congelado,subclase,Pescado y marisco,64.832,2.6
 2014-03,Lácteos y huevos,producto,,71.943,1.6
 2014-03,Queso,subclase,Lácteos y huevos,70.016,2.2
 2014-03,Huevos,subclase,Lácteos y huevos,57.885,-2.6
@@ -1234,6 +1285,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-04,Carne curada y embutidos,subclase,Carne,73.769,1.4
 2014-04,Preparados de carne,subclase,Carne,71.841,1.1
 2014-04,Pescado y marisco,producto,,66.562,1.8
+2014-04,Pescado fresco o congelado,subclase,Pescado y marisco,63.777,0.7
 2014-04,Lácteos y huevos,producto,,71.786,1.6
 2014-04,Queso,subclase,Lácteos y huevos,70.185,2.8
 2014-04,Huevos,subclase,Lácteos y huevos,57.211,-3.2
@@ -1258,6 +1310,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-05,Carne curada y embutidos,subclase,Carne,73.863,1.5
 2014-05,Preparados de carne,subclase,Carne,71.576,0.8
 2014-05,Pescado y marisco,producto,,66.259,1.6
+2014-05,Pescado fresco o congelado,subclase,Pescado y marisco,62.911,0.0
 2014-05,Lácteos y huevos,producto,,71.608,1.5
 2014-05,Queso,subclase,Lácteos y huevos,70.065,3.0
 2014-05,Huevos,subclase,Lácteos y huevos,56.601,-3.7
@@ -1282,6 +1335,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-06,Carne curada y embutidos,subclase,Carne,73.816,1.2
 2014-06,Preparados de carne,subclase,Carne,71.543,0.9
 2014-06,Pescado y marisco,producto,,66.144,1.5
+2014-06,Pescado fresco o congelado,subclase,Pescado y marisco,62.667,-0.1
 2014-06,Lácteos y huevos,producto,,71.422,1.2
 2014-06,Queso,subclase,Lácteos y huevos,69.846,2.8
 2014-06,Huevos,subclase,Lácteos y huevos,56.258,-4.1
@@ -1306,6 +1360,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-07,Carne curada y embutidos,subclase,Carne,74.004,1.2
 2014-07,Preparados de carne,subclase,Carne,71.422,0.8
 2014-07,Pescado y marisco,producto,,66.689,2.2
+2014-07,Pescado fresco o congelado,subclase,Pescado y marisco,63.718,1.8
 2014-07,Lácteos y huevos,producto,,71.433,1.2
 2014-07,Queso,subclase,Lácteos y huevos,69.948,3.0
 2014-07,Huevos,subclase,Lácteos y huevos,56.21,-3.9
@@ -1330,6 +1385,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-08,Carne curada y embutidos,subclase,Carne,74.082,1.3
 2014-08,Preparados de carne,subclase,Carne,71.412,0.6
 2014-08,Pescado y marisco,producto,,67.576,3.0
+2014-08,Pescado fresco o congelado,subclase,Pescado y marisco,65.166,3.2
 2014-08,Lácteos y huevos,producto,,71.517,1.1
 2014-08,Queso,subclase,Lácteos y huevos,69.991,2.8
 2014-08,Huevos,subclase,Lácteos y huevos,56.154,-3.5
@@ -1354,6 +1410,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-09,Carne curada y embutidos,subclase,Carne,74.059,1.0
 2014-09,Preparados de carne,subclase,Carne,71.462,0.1
 2014-09,Pescado y marisco,producto,,67.57,3.0
+2014-09,Pescado fresco o congelado,subclase,Pescado y marisco,65.083,3.2
 2014-09,Lácteos y huevos,producto,,71.545,0.8
 2014-09,Queso,subclase,Lácteos y huevos,70.027,2.7
 2014-09,Huevos,subclase,Lácteos y huevos,56.128,-3.6
@@ -1378,6 +1435,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-10,Carne curada y embutidos,subclase,Carne,74.146,1.2
 2014-10,Preparados de carne,subclase,Carne,71.426,-0.1
 2014-10,Pescado y marisco,producto,,67.605,3.6
+2014-10,Pescado fresco o congelado,subclase,Pescado y marisco,65.5,5.0
 2014-10,Lácteos y huevos,producto,,71.552,0.2
 2014-10,Queso,subclase,Lácteos y huevos,70.074,1.9
 2014-10,Huevos,subclase,Lácteos y huevos,56.091,-3.6
@@ -1402,6 +1460,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-11,Carne curada y embutidos,subclase,Carne,74.246,1.0
 2014-11,Preparados de carne,subclase,Carne,71.433,-0.6
 2014-11,Pescado y marisco,producto,,68.026,2.7
+2014-11,Pescado fresco o congelado,subclase,Pescado y marisco,66.418,3.4
 2014-11,Lácteos y huevos,producto,,71.541,-0.3
 2014-11,Queso,subclase,Lácteos y huevos,70.149,1.1
 2014-11,Huevos,subclase,Lácteos y huevos,56.181,-3.3
@@ -1426,6 +1485,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2014-12,Carne curada y embutidos,subclase,Carne,74.246,0.7
 2014-12,Preparados de carne,subclase,Carne,71.499,-0.5
 2014-12,Pescado y marisco,producto,,68.752,3.4
+2014-12,Pescado fresco o congelado,subclase,Pescado y marisco,67.769,5.6
 2014-12,Lácteos y huevos,producto,,71.482,-0.5
 2014-12,Queso,subclase,Lácteos y huevos,70.031,0.6
 2014-12,Huevos,subclase,Lácteos y huevos,56.245,-3.1
@@ -1450,6 +1510,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-01,Carne curada y embutidos,subclase,Carne,74.328,0.7
 2015-01,Preparados de carne,subclase,Carne,71.695,-0.3
 2015-01,Pescado y marisco,producto,,69.241,1.0
+2015-01,Pescado fresco o congelado,subclase,Pescado y marisco,68.598,1.2
 2015-01,Lácteos y huevos,producto,,71.407,-0.8
 2015-01,Queso,subclase,Lácteos y huevos,70.074,0.4
 2015-01,Huevos,subclase,Lácteos y huevos,56.269,-3.4
@@ -1474,6 +1535,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-02,Carne curada y embutidos,subclase,Carne,74.088,0.3
 2015-02,Preparados de carne,subclase,Carne,71.494,-0.5
 2015-02,Pescado y marisco,producto,,68.268,-0.4
+2015-02,Pescado fresco o congelado,subclase,Pescado y marisco,66.277,-2.0
 2015-02,Lácteos y huevos,producto,,71.258,-0.9
 2015-02,Queso,subclase,Lácteos y huevos,70.217,0.6
 2015-02,Huevos,subclase,Lácteos y huevos,56.118,-3.2
@@ -1498,6 +1560,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-03,Carne curada y embutidos,subclase,Carne,73.984,0.2
 2015-03,Preparados de carne,subclase,Carne,71.771,-0.2
 2015-03,Pescado y marisco,producto,,68.061,1.5
+2015-03,Pescado fresco o congelado,subclase,Pescado y marisco,65.871,1.6
 2015-03,Lácteos y huevos,producto,,71.218,-1.0
 2015-03,Queso,subclase,Lácteos y huevos,70.326,0.4
 2015-03,Huevos,subclase,Lácteos y huevos,56.119,-3.1
@@ -1522,6 +1585,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-04,Carne curada y embutidos,subclase,Carne,74.126,0.5
 2015-04,Preparados de carne,subclase,Carne,71.687,-0.2
 2015-04,Pescado y marisco,producto,,67.654,1.6
+2015-04,Pescado fresco o congelado,subclase,Pescado y marisco,64.84,1.7
 2015-04,Lácteos y huevos,producto,,71.081,-1.0
 2015-04,Queso,subclase,Lácteos y huevos,70.437,0.4
 2015-04,Huevos,subclase,Lácteos y huevos,55.85,-2.4
@@ -1546,6 +1610,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-05,Carne curada y embutidos,subclase,Carne,73.894,0.0
 2015-05,Preparados de carne,subclase,Carne,71.945,0.5
 2015-05,Pescado y marisco,producto,,67.502,1.9
+2015-05,Pescado fresco o congelado,subclase,Pescado y marisco,64.406,2.4
 2015-05,Lácteos y huevos,producto,,71.113,-0.7
 2015-05,Queso,subclase,Lácteos y huevos,70.393,0.5
 2015-05,Huevos,subclase,Lácteos y huevos,55.76,-1.5
@@ -1570,6 +1635,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-06,Carne curada y embutidos,subclase,Carne,73.876,0.1
 2015-06,Preparados de carne,subclase,Carne,72.521,1.4
 2015-06,Pescado y marisco,producto,,68.092,2.9
+2015-06,Pescado fresco o congelado,subclase,Pescado y marisco,65.509,4.5
 2015-06,Lácteos y huevos,producto,,71.041,-0.5
 2015-06,Queso,subclase,Lácteos y huevos,70.427,0.8
 2015-06,Huevos,subclase,Lácteos y huevos,55.688,-1.0
@@ -1594,6 +1660,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-07,Carne curada y embutidos,subclase,Carne,74.072,0.1
 2015-07,Preparados de carne,subclase,Carne,72.597,1.6
 2015-07,Pescado y marisco,producto,,68.264,2.4
+2015-07,Pescado fresco o congelado,subclase,Pescado y marisco,65.712,3.1
 2015-07,Lácteos y huevos,producto,,70.999,-0.6
 2015-07,Queso,subclase,Lácteos y huevos,70.651,1.0
 2015-07,Huevos,subclase,Lácteos y huevos,56.01,-0.4
@@ -1618,6 +1685,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-08,Carne curada y embutidos,subclase,Carne,74.107,0.0
 2015-08,Preparados de carne,subclase,Carne,72.782,1.9
 2015-08,Pescado y marisco,producto,,69.184,2.4
+2015-08,Pescado fresco o congelado,subclase,Pescado y marisco,67.404,3.4
 2015-08,Lácteos y huevos,producto,,70.847,-0.9
 2015-08,Queso,subclase,Lácteos y huevos,70.473,0.7
 2015-08,Huevos,subclase,Lácteos y huevos,56.391,0.4
@@ -1642,6 +1710,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-09,Carne curada y embutidos,subclase,Carne,74.136,0.1
 2015-09,Preparados de carne,subclase,Carne,72.757,1.8
 2015-09,Pescado y marisco,producto,,69.29,2.5
+2015-09,Pescado fresco o congelado,subclase,Pescado y marisco,67.655,4.0
 2015-09,Lácteos y huevos,producto,,70.831,-1.0
 2015-09,Queso,subclase,Lácteos y huevos,70.583,0.8
 2015-09,Huevos,subclase,Lácteos y huevos,56.18,0.1
@@ -1666,6 +1735,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-10,Carne curada y embutidos,subclase,Carne,73.924,-0.3
 2015-10,Preparados de carne,subclase,Carne,72.768,1.9
 2015-10,Pescado y marisco,producto,,69.257,2.4
+2015-10,Pescado fresco o congelado,subclase,Pescado y marisco,67.498,3.1
 2015-10,Lácteos y huevos,producto,,70.733,-1.1
 2015-10,Queso,subclase,Lácteos y huevos,70.592,0.7
 2015-10,Huevos,subclase,Lácteos y huevos,56.118,0.0
@@ -1690,6 +1760,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-11,Carne curada y embutidos,subclase,Carne,74.027,-0.3
 2015-11,Preparados de carne,subclase,Carne,72.772,1.9
 2015-11,Pescado y marisco,producto,,69.448,2.1
+2015-11,Pescado fresco o congelado,subclase,Pescado y marisco,67.737,2.0
 2015-11,Lácteos y huevos,producto,,70.638,-1.3
 2015-11,Queso,subclase,Lácteos y huevos,70.594,0.6
 2015-11,Huevos,subclase,Lácteos y huevos,56.156,0.0
@@ -1714,6 +1785,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2015-12,Carne curada y embutidos,subclase,Carne,74.187,-0.1
 2015-12,Preparados de carne,subclase,Carne,72.778,1.8
 2015-12,Pescado y marisco,producto,,70.791,3.0
+2015-12,Pescado fresco o congelado,subclase,Pescado y marisco,70.172,3.5
 2015-12,Lácteos y huevos,producto,,70.618,-1.2
 2015-12,Queso,subclase,Lácteos y huevos,70.6,0.8
 2015-12,Huevos,subclase,Lácteos y huevos,56.034,-0.4
@@ -1738,6 +1810,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-01,Carne curada y embutidos,subclase,Carne,74.331,0.0
 2016-01,Preparados de carne,subclase,Carne,72.919,1.7
 2016-01,Pescado y marisco,producto,,73.706,6.4
+2016-01,Pescado fresco o congelado,subclase,Pescado y marisco,75.457,10.0
 2016-01,Lácteos y huevos,producto,,70.721,-1.0
 2016-01,Queso,subclase,Lácteos y huevos,70.727,0.9
 2016-01,Huevos,subclase,Lácteos y huevos,55.955,-0.6
@@ -1762,6 +1835,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-02,Carne curada y embutidos,subclase,Carne,74.148,0.1
 2016-02,Preparados de carne,subclase,Carne,72.811,1.8
 2016-02,Pescado y marisco,producto,,71.258,4.4
+2016-02,Pescado fresco o congelado,subclase,Pescado y marisco,70.837,6.9
 2016-02,Lácteos y huevos,producto,,70.565,-1.0
 2016-02,Queso,subclase,Lácteos y huevos,70.674,0.7
 2016-02,Huevos,subclase,Lácteos y huevos,55.678,-0.8
@@ -1786,6 +1860,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-03,Carne curada y embutidos,subclase,Carne,74.182,0.3
 2016-03,Preparados de carne,subclase,Carne,72.728,1.3
 2016-03,Pescado y marisco,producto,,69.985,2.8
+2016-03,Pescado fresco o congelado,subclase,Pescado y marisco,68.214,3.6
 2016-03,Lácteos y huevos,producto,,70.522,-1.0
 2016-03,Queso,subclase,Lácteos y huevos,70.639,0.4
 2016-03,Huevos,subclase,Lácteos y huevos,55.605,-0.9
@@ -1810,6 +1885,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-04,Carne curada y embutidos,subclase,Carne,74.126,0.0
 2016-04,Preparados de carne,subclase,Carne,72.81,1.6
 2016-04,Pescado y marisco,producto,,70.219,3.8
+2016-04,Pescado fresco o congelado,subclase,Pescado y marisco,68.554,5.7
 2016-04,Lácteos y huevos,producto,,70.345,-1.0
 2016-04,Queso,subclase,Lácteos y huevos,70.687,0.4
 2016-04,Huevos,subclase,Lácteos y huevos,55.393,-0.8
@@ -1834,6 +1910,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-05,Carne curada y embutidos,subclase,Carne,73.987,0.1
 2016-05,Preparados de carne,subclase,Carne,72.844,1.2
 2016-05,Pescado y marisco,producto,,69.834,3.5
+2016-05,Pescado fresco o congelado,subclase,Pescado y marisco,67.444,4.7
 2016-05,Lácteos y huevos,producto,,70.239,-1.2
 2016-05,Queso,subclase,Lácteos y huevos,70.631,0.3
 2016-05,Huevos,subclase,Lácteos y huevos,55.655,-0.2
@@ -1858,6 +1935,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-06,Carne curada y embutidos,subclase,Carne,73.92,0.1
 2016-06,Preparados de carne,subclase,Carne,72.439,-0.1
 2016-06,Pescado y marisco,producto,,70.107,3.0
+2016-06,Pescado fresco o congelado,subclase,Pescado y marisco,67.341,2.8
 2016-06,Lácteos y huevos,producto,,70.091,-1.3
 2016-06,Queso,subclase,Lácteos y huevos,70.666,0.3
 2016-06,Huevos,subclase,Lácteos y huevos,55.704,0.0
@@ -1882,6 +1960,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-07,Carne curada y embutidos,subclase,Carne,73.774,-0.4
 2016-07,Preparados de carne,subclase,Carne,72.543,-0.1
 2016-07,Pescado y marisco,producto,,71.223,4.3
+2016-07,Pescado fresco o congelado,subclase,Pescado y marisco,69.384,5.6
 2016-07,Lácteos y huevos,producto,,70.042,-1.3
 2016-07,Queso,subclase,Lácteos y huevos,70.572,-0.1
 2016-07,Huevos,subclase,Lácteos y huevos,55.776,-0.4
@@ -1906,6 +1985,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-08,Carne curada y embutidos,subclase,Carne,73.983,-0.2
 2016-08,Preparados de carne,subclase,Carne,72.592,-0.3
 2016-08,Pescado y marisco,producto,,71.533,3.4
+2016-08,Pescado fresco o congelado,subclase,Pescado y marisco,69.646,3.3
 2016-08,Lácteos y huevos,producto,,70.147,-1.0
 2016-08,Queso,subclase,Lácteos y huevos,70.584,0.2
 2016-08,Huevos,subclase,Lácteos y huevos,55.769,-1.1
@@ -1930,6 +2010,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-09,Carne curada y embutidos,subclase,Carne,74.007,-0.2
 2016-09,Preparados de carne,subclase,Carne,72.605,-0.2
 2016-09,Pescado y marisco,producto,,71.325,2.9
+2016-09,Pescado fresco o congelado,subclase,Pescado y marisco,69.04,2.0
 2016-09,Lácteos y huevos,producto,,70.137,-1.0
 2016-09,Queso,subclase,Lácteos y huevos,70.61,0.0
 2016-09,Huevos,subclase,Lácteos y huevos,55.896,-0.5
@@ -1954,6 +2035,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-10,Carne curada y embutidos,subclase,Carne,73.886,-0.1
 2016-10,Preparados de carne,subclase,Carne,72.531,-0.3
 2016-10,Pescado y marisco,producto,,71.542,3.3
+2016-10,Pescado fresco o congelado,subclase,Pescado y marisco,69.217,2.5
 2016-10,Lácteos y huevos,producto,,69.936,-1.1
 2016-10,Queso,subclase,Lácteos y huevos,70.549,-0.1
 2016-10,Huevos,subclase,Lácteos y huevos,55.903,-0.4
@@ -1978,6 +2060,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-11,Carne curada y embutidos,subclase,Carne,73.9,-0.2
 2016-11,Preparados de carne,subclase,Carne,72.591,-0.2
 2016-11,Pescado y marisco,producto,,71.766,3.3
+2016-11,Pescado fresco o congelado,subclase,Pescado y marisco,69.498,2.6
 2016-11,Lácteos y huevos,producto,,69.924,-1.0
 2016-11,Queso,subclase,Lácteos y huevos,70.469,-0.2
 2016-11,Huevos,subclase,Lácteos y huevos,56.009,-0.3
@@ -2002,6 +2085,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2016-12,Carne curada y embutidos,subclase,Carne,73.968,-0.3
 2016-12,Preparados de carne,subclase,Carne,72.68,-0.1
 2016-12,Pescado y marisco,producto,,72.918,3.0
+2016-12,Pescado fresco o congelado,subclase,Pescado y marisco,71.272,1.6
 2016-12,Lácteos y huevos,producto,,69.881,-1.0
 2016-12,Queso,subclase,Lácteos y huevos,70.444,-0.2
 2016-12,Huevos,subclase,Lácteos y huevos,56.083,0.1
@@ -2030,6 +2114,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-01,Despojos,subclase,Carne,73.44,
 2017-01,Preparados de carne,subclase,Carne,72.433,-0.7
 2017-01,Pescado y marisco,producto,,75.051,1.8
+2017-01,Pescado fresco o congelado,subclase,Pescado y marisco,75.24,-0.3
 2017-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,70.835,
 2017-01,Preparados de pescado,subclase,Pescado y marisco,74.069,
 2017-01,Marisco fresco o congelado,subclase,Pescado y marisco,78.554,
@@ -2094,6 +2179,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-02,Despojos,subclase,Carne,73.301,
 2017-02,Preparados de carne,subclase,Carne,71.936,-1.2
 2017-02,Pescado y marisco,producto,,73.057,2.5
+2017-02,Pescado fresco o congelado,subclase,Pescado y marisco,71.425,0.8
 2017-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,71.764,
 2017-02,Preparados de pescado,subclase,Pescado y marisco,73.384,
 2017-02,Marisco fresco o congelado,subclase,Pescado y marisco,78.438,
@@ -2158,6 +2244,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-03,Despojos,subclase,Carne,73.219,
 2017-03,Preparados de carne,subclase,Carne,71.713,-1.4
 2017-03,Pescado y marisco,producto,,72.626,3.8
+2017-03,Pescado fresco o congelado,subclase,Pescado y marisco,70.173,2.9
 2017-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,72.454,
 2017-03,Preparados de pescado,subclase,Pescado y marisco,73.981,
 2017-03,Marisco fresco o congelado,subclase,Pescado y marisco,78.539,
@@ -2222,6 +2309,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-04,Despojos,subclase,Carne,73.212,
 2017-04,Preparados de carne,subclase,Carne,71.772,-1.4
 2017-04,Pescado y marisco,producto,,72.883,3.8
+2017-04,Pescado fresco o congelado,subclase,Pescado y marisco,70.609,3.0
 2017-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,72.974,
 2017-04,Preparados de pescado,subclase,Pescado y marisco,73.735,
 2017-04,Marisco fresco o congelado,subclase,Pescado y marisco,78.914,
@@ -2286,6 +2374,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-05,Despojos,subclase,Carne,72.964,
 2017-05,Preparados de carne,subclase,Carne,72.175,-0.9
 2017-05,Pescado y marisco,producto,,72.506,3.8
+2017-05,Pescado fresco o congelado,subclase,Pescado y marisco,69.108,2.5
 2017-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.334,
 2017-05,Preparados de pescado,subclase,Pescado y marisco,74.291,
 2017-05,Marisco fresco o congelado,subclase,Pescado y marisco,79.839,
@@ -2350,6 +2439,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-06,Despojos,subclase,Carne,73.103,
 2017-06,Preparados de carne,subclase,Carne,72.372,-0.1
 2017-06,Pescado y marisco,producto,,72.956,4.1
+2017-06,Pescado fresco o congelado,subclase,Pescado y marisco,69.651,3.4
 2017-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,72.987,
 2017-06,Preparados de pescado,subclase,Pescado y marisco,74.524,
 2017-06,Marisco fresco o congelado,subclase,Pescado y marisco,80.646,
@@ -2414,6 +2504,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-07,Despojos,subclase,Carne,73.099,
 2017-07,Preparados de carne,subclase,Carne,72.419,-0.2
 2017-07,Pescado y marisco,producto,,74.222,4.2
+2017-07,Pescado fresco o congelado,subclase,Pescado y marisco,71.814,3.5
 2017-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.742,
 2017-07,Preparados de pescado,subclase,Pescado y marisco,74.438,
 2017-07,Marisco fresco o congelado,subclase,Pescado y marisco,81.467,
@@ -2478,6 +2569,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-08,Despojos,subclase,Carne,72.81,
 2017-08,Preparados de carne,subclase,Carne,71.964,-0.9
 2017-08,Pescado y marisco,producto,,74.519,4.2
+2017-08,Pescado fresco o congelado,subclase,Pescado y marisco,72.051,3.5
 2017-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.069,
 2017-08,Preparados de pescado,subclase,Pescado y marisco,74.952,
 2017-08,Marisco fresco o congelado,subclase,Pescado y marisco,81.734,
@@ -2542,6 +2634,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-09,Despojos,subclase,Carne,73.19,
 2017-09,Preparados de carne,subclase,Carne,72.052,-0.8
 2017-09,Pescado y marisco,producto,,74.445,4.4
+2017-09,Pescado fresco o congelado,subclase,Pescado y marisco,72.015,4.3
 2017-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.184,
 2017-09,Preparados de pescado,subclase,Pescado y marisco,74.574,
 2017-09,Marisco fresco o congelado,subclase,Pescado y marisco,81.73,
@@ -2606,6 +2699,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-10,Despojos,subclase,Carne,73.598,
 2017-10,Preparados de carne,subclase,Carne,72.062,-0.6
 2017-10,Pescado y marisco,producto,,74.158,3.7
+2017-10,Pescado fresco o congelado,subclase,Pescado y marisco,71.458,3.2
 2017-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.965,
 2017-10,Preparados de pescado,subclase,Pescado y marisco,74.658,
 2017-10,Marisco fresco o congelado,subclase,Pescado y marisco,81.588,
@@ -2670,6 +2764,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-11,Despojos,subclase,Carne,73.837,
 2017-11,Preparados de carne,subclase,Carne,71.969,-0.9
 2017-11,Pescado y marisco,producto,,74.304,3.5
+2017-11,Pescado fresco o congelado,subclase,Pescado y marisco,71.51,2.9
 2017-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.268,
 2017-11,Preparados de pescado,subclase,Pescado y marisco,75.078,
 2017-11,Marisco fresco o congelado,subclase,Pescado y marisco,81.669,
@@ -2734,6 +2829,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2017-12,Despojos,subclase,Carne,73.79,
 2017-12,Preparados de carne,subclase,Carne,72.565,-0.2
 2017-12,Pescado y marisco,producto,,75.345,3.3
+2017-12,Pescado fresco o congelado,subclase,Pescado y marisco,73.522,3.2
 2017-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.229,
 2017-12,Preparados de pescado,subclase,Pescado y marisco,75.487,
 2017-12,Marisco fresco o congelado,subclase,Pescado y marisco,81.864,
@@ -2798,6 +2894,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-01,Despojos,subclase,Carne,74.032,0.8
 2018-01,Preparados de carne,subclase,Carne,71.8,-0.9
 2018-01,Pescado y marisco,producto,,77.346,3.1
+2018-01,Pescado fresco o congelado,subclase,Pescado y marisco,77.164,2.6
 2018-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.542,3.8
 2018-01,Preparados de pescado,subclase,Pescado y marisco,75.631,2.1
 2018-01,Marisco fresco o congelado,subclase,Pescado y marisco,82.554,5.1
@@ -2862,6 +2959,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-02,Despojos,subclase,Carne,74.198,1.2
 2018-02,Preparados de carne,subclase,Carne,72.275,0.5
 2018-02,Pescado y marisco,producto,,74.894,2.5
+2018-02,Pescado fresco o congelado,subclase,Pescado y marisco,72.59,1.6
 2018-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.488,3.8
 2018-02,Preparados de pescado,subclase,Pescado y marisco,74.95,2.1
 2018-02,Marisco fresco o congelado,subclase,Pescado y marisco,82.0,4.5
@@ -2926,6 +3024,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-03,Despojos,subclase,Carne,74.097,1.2
 2018-03,Preparados de carne,subclase,Carne,72.175,0.6
 2018-03,Pescado y marisco,producto,,74.723,2.9
+2018-03,Pescado fresco o congelado,subclase,Pescado y marisco,72.001,2.6
 2018-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.706,1.7
 2018-03,Preparados de pescado,subclase,Pescado y marisco,74.985,1.4
 2018-03,Marisco fresco o congelado,subclase,Pescado y marisco,82.818,5.4
@@ -2990,6 +3089,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-04,Despojos,subclase,Carne,74.177,1.3
 2018-04,Preparados de carne,subclase,Carne,72.716,1.3
 2018-04,Pescado y marisco,producto,,75.897,4.1
+2018-04,Pescado fresco o congelado,subclase,Pescado y marisco,73.963,4.8
 2018-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,73.828,1.2
 2018-04,Preparados de pescado,subclase,Pescado y marisco,75.434,2.3
 2018-04,Marisco fresco o congelado,subclase,Pescado y marisco,83.271,5.5
@@ -3054,6 +3154,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-05,Despojos,subclase,Carne,73.885,1.3
 2018-05,Preparados de carne,subclase,Carne,72.852,0.9
 2018-05,Pescado y marisco,producto,,75.111,3.6
+2018-05,Pescado fresco o congelado,subclase,Pescado y marisco,72.184,4.5
 2018-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.65,1.8
 2018-05,Preparados de pescado,subclase,Pescado y marisco,75.385,1.5
 2018-05,Marisco fresco o congelado,subclase,Pescado y marisco,83.383,4.4
@@ -3118,6 +3219,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-06,Despojos,subclase,Carne,74.235,1.5
 2018-06,Preparados de carne,subclase,Carne,73.155,1.1
 2018-06,Pescado y marisco,producto,,74.813,2.5
+2018-06,Pescado fresco o congelado,subclase,Pescado y marisco,71.438,2.6
 2018-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.044,2.8
 2018-06,Preparados de pescado,subclase,Pescado y marisco,75.571,1.4
 2018-06,Marisco fresco o congelado,subclase,Pescado y marisco,83.49,3.5
@@ -3182,6 +3284,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-07,Despojos,subclase,Carne,73.824,1.0
 2018-07,Preparados de carne,subclase,Carne,72.976,0.8
 2018-07,Pescado y marisco,producto,,74.687,0.6
+2018-07,Pescado fresco o congelado,subclase,Pescado y marisco,71.15,-0.9
 2018-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.901,1.6
 2018-07,Preparados de pescado,subclase,Pescado y marisco,75.673,1.7
 2018-07,Marisco fresco o congelado,subclase,Pescado y marisco,83.528,2.5
@@ -3246,6 +3349,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-08,Despojos,subclase,Carne,73.813,1.4
 2018-08,Preparados de carne,subclase,Carne,73.306,1.9
 2018-08,Pescado y marisco,producto,,74.814,0.4
+2018-08,Pescado fresco o congelado,subclase,Pescado y marisco,70.946,-1.5
 2018-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.329,1.7
 2018-08,Preparados de pescado,subclase,Pescado y marisco,76.152,1.6
 2018-08,Marisco fresco o congelado,subclase,Pescado y marisco,83.966,2.7
@@ -3310,6 +3414,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-09,Despojos,subclase,Carne,73.741,0.8
 2018-09,Preparados de carne,subclase,Carne,73.653,2.2
 2018-09,Pescado y marisco,producto,,75.465,1.4
+2018-09,Pescado fresco o congelado,subclase,Pescado y marisco,72.272,0.4
 2018-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.239,1.4
 2018-09,Preparados de pescado,subclase,Pescado y marisco,76.275,2.3
 2018-09,Marisco fresco o congelado,subclase,Pescado y marisco,83.815,2.6
@@ -3374,6 +3479,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-10,Despojos,subclase,Carne,73.954,0.5
 2018-10,Preparados de carne,subclase,Carne,73.868,2.5
 2018-10,Pescado y marisco,producto,,75.899,2.3
+2018-10,Pescado fresco o congelado,subclase,Pescado y marisco,73.128,2.3
 2018-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.426,2.0
 2018-10,Preparados de pescado,subclase,Pescado y marisco,76.569,2.6
 2018-10,Marisco fresco o congelado,subclase,Pescado y marisco,83.428,2.3
@@ -3438,6 +3544,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-11,Despojos,subclase,Carne,74.006,0.2
 2018-11,Preparados de carne,subclase,Carne,73.283,1.8
 2018-11,Pescado y marisco,producto,,76.101,2.4
+2018-11,Pescado fresco o congelado,subclase,Pescado y marisco,73.986,3.5
 2018-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.273,1.4
 2018-11,Preparados de pescado,subclase,Pescado y marisco,76.393,1.8
 2018-11,Marisco fresco o congelado,subclase,Pescado y marisco,82.666,1.2
@@ -3502,6 +3609,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2018-12,Despojos,subclase,Carne,73.963,0.2
 2018-12,Preparados de carne,subclase,Carne,73.899,1.8
 2018-12,Pescado y marisco,producto,,77.129,2.4
+2018-12,Pescado fresco o congelado,subclase,Pescado y marisco,76.036,3.4
 2018-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.275,1.4
 2018-12,Preparados de pescado,subclase,Pescado y marisco,76.137,0.9
 2018-12,Marisco fresco o congelado,subclase,Pescado y marisco,83.336,1.8
@@ -3566,6 +3674,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-01,Despojos,subclase,Carne,73.955,-0.1
 2019-01,Preparados de carne,subclase,Carne,73.688,2.6
 2019-01,Pescado y marisco,producto,,77.0,-0.4
+2019-01,Pescado fresco o congelado,subclase,Pescado y marisco,75.405,-2.3
 2019-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,74.639,1.5
 2019-01,Preparados de pescado,subclase,Pescado y marisco,76.749,1.5
 2019-01,Marisco fresco o congelado,subclase,Pescado y marisco,83.408,1.0
@@ -3630,6 +3739,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-02,Despojos,subclase,Carne,73.973,-0.3
 2019-02,Preparados de carne,subclase,Carne,74.203,2.7
 2019-02,Pescado y marisco,producto,,75.789,1.2
+2019-02,Pescado fresco o congelado,subclase,Pescado y marisco,73.369,1.1
 2019-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.403,1.2
 2019-02,Preparados de pescado,subclase,Pescado y marisco,75.86,1.2
 2019-02,Marisco fresco o congelado,subclase,Pescado y marisco,83.07,1.3
@@ -3694,6 +3804,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-03,Despojos,subclase,Carne,74.093,0.0
 2019-03,Preparados de carne,subclase,Carne,74.064,2.6
 2019-03,Pescado y marisco,producto,,75.307,0.8
+2019-03,Pescado fresco o congelado,subclase,Pescado y marisco,72.171,0.2
 2019-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.376,2.3
 2019-03,Preparados de pescado,subclase,Pescado y marisco,76.047,1.4
 2019-03,Marisco fresco o congelado,subclase,Pescado y marisco,83.23,0.5
@@ -3758,6 +3869,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-04,Despojos,subclase,Carne,74.053,-0.2
 2019-04,Preparados de carne,subclase,Carne,74.188,2.0
 2019-04,Pescado y marisco,producto,,75.624,-0.4
+2019-04,Pescado fresco o congelado,subclase,Pescado y marisco,72.885,-1.5
 2019-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.574,2.4
 2019-04,Preparados de pescado,subclase,Pescado y marisco,75.837,0.5
 2019-04,Marisco fresco o congelado,subclase,Pescado y marisco,83.351,0.1
@@ -3822,6 +3934,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-05,Despojos,subclase,Carne,74.226,0.5
 2019-05,Preparados de carne,subclase,Carne,74.562,2.3
 2019-05,Pescado y marisco,producto,,76.567,1.9
+2019-05,Pescado fresco o congelado,subclase,Pescado y marisco,74.492,3.2
 2019-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.933,1.7
 2019-05,Preparados de pescado,subclase,Pescado y marisco,75.976,0.8
 2019-05,Marisco fresco o congelado,subclase,Pescado y marisco,83.764,0.5
@@ -3886,6 +3999,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-06,Despojos,subclase,Carne,74.191,-0.1
 2019-06,Preparados de carne,subclase,Carne,74.397,1.7
 2019-06,Pescado y marisco,producto,,75.894,1.4
+2019-06,Pescado fresco o congelado,subclase,Pescado y marisco,72.974,2.1
 2019-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.88,1.1
 2019-06,Preparados de pescado,subclase,Pescado y marisco,76.406,1.1
 2019-06,Marisco fresco o congelado,subclase,Pescado y marisco,83.646,0.2
@@ -3950,6 +4064,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-07,Despojos,subclase,Carne,74.312,0.7
 2019-07,Preparados de carne,subclase,Carne,74.576,2.2
 2019-07,Pescado y marisco,producto,,76.002,1.8
+2019-07,Pescado fresco o congelado,subclase,Pescado y marisco,73.429,3.2
 2019-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.058,1.5
 2019-07,Preparados de pescado,subclase,Pescado y marisco,75.931,0.3
 2019-07,Marisco fresco o congelado,subclase,Pescado y marisco,83.6,0.1
@@ -4014,6 +4129,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-08,Despojos,subclase,Carne,74.287,0.6
 2019-08,Preparados de carne,subclase,Carne,74.747,2.0
 2019-08,Pescado y marisco,producto,,76.707,2.5
+2019-08,Pescado fresco o congelado,subclase,Pescado y marisco,74.789,5.4
 2019-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.573,1.7
 2019-08,Preparados de pescado,subclase,Pescado y marisco,75.657,-0.7
 2019-08,Marisco fresco o congelado,subclase,Pescado y marisco,84.027,0.1
@@ -4078,6 +4194,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-09,Despojos,subclase,Carne,74.333,0.8
 2019-09,Preparados de carne,subclase,Carne,74.957,1.8
 2019-09,Pescado y marisco,producto,,76.685,1.6
+2019-09,Pescado fresco o congelado,subclase,Pescado y marisco,74.511,3.1
 2019-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.718,2.0
 2019-09,Preparados de pescado,subclase,Pescado y marisco,76.866,0.8
 2019-09,Marisco fresco o congelado,subclase,Pescado y marisco,83.249,-0.7
@@ -4142,6 +4259,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-10,Despojos,subclase,Carne,74.62,0.9
 2019-10,Preparados de carne,subclase,Carne,74.982,1.5
 2019-10,Pescado y marisco,producto,,76.543,0.8
+2019-10,Pescado fresco o congelado,subclase,Pescado y marisco,74.281,1.6
 2019-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.549,1.5
 2019-10,Preparados de pescado,subclase,Pescado y marisco,77.174,0.8
 2019-10,Marisco fresco o congelado,subclase,Pescado y marisco,82.698,-0.9
@@ -4206,6 +4324,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-11,Despojos,subclase,Carne,74.719,1.0
 2019-11,Preparados de carne,subclase,Carne,74.694,1.9
 2019-11,Pescado y marisco,producto,,77.465,1.8
+2019-11,Pescado fresco o congelado,subclase,Pescado y marisco,76.568,3.5
 2019-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.039,2.3
 2019-11,Preparados de pescado,subclase,Pescado y marisco,77.101,0.9
 2019-11,Marisco fresco o congelado,subclase,Pescado y marisco,81.808,-1.0
@@ -4270,6 +4389,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2019-12,Despojos,subclase,Carne,74.889,1.3
 2019-12,Preparados de carne,subclase,Carne,75.534,2.2
 2019-12,Pescado y marisco,producto,,78.021,1.2
+2019-12,Pescado fresco o congelado,subclase,Pescado y marisco,77.737,2.2
 2019-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,75.949,2.3
 2019-12,Preparados de pescado,subclase,Pescado y marisco,76.85,0.9
 2019-12,Marisco fresco o congelado,subclase,Pescado y marisco,82.447,-1.1
@@ -4334,6 +4454,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-01,Despojos,subclase,Carne,74.949,1.3
 2020-01,Preparados de carne,subclase,Carne,75.783,2.8
 2020-01,Pescado y marisco,producto,,79.858,3.7
+2020-01,Pescado fresco o congelado,subclase,Pescado y marisco,81.613,8.2
 2020-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.237,2.1
 2020-01,Preparados de pescado,subclase,Pescado y marisco,77.03,0.4
 2020-01,Marisco fresco o congelado,subclase,Pescado y marisco,82.015,-1.7
@@ -4401,6 +4522,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-02,Despojos,subclase,Carne,75.151,1.6
 2020-02,Preparados de carne,subclase,Carne,75.583,1.9
 2020-02,Pescado y marisco,producto,,77.541,2.3
+2020-02,Pescado fresco o congelado,subclase,Pescado y marisco,76.676,4.5
 2020-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.853,1.9
 2020-02,Preparados de pescado,subclase,Pescado y marisco,77.403,2.0
 2020-02,Marisco fresco o congelado,subclase,Pescado y marisco,81.591,-1.8
@@ -4468,6 +4590,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-03,Despojos,subclase,Carne,75.17,1.5
 2020-03,Preparados de carne,subclase,Carne,75.513,2.0
 2020-03,Pescado y marisco,producto,,78.252,3.9
+2020-03,Pescado fresco o congelado,subclase,Pescado y marisco,77.844,7.9
 2020-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.88,2.0
 2020-03,Preparados de pescado,subclase,Pescado y marisco,77.575,2.0
 2020-03,Marisco fresco o congelado,subclase,Pescado y marisco,82.151,-1.3
@@ -4535,6 +4658,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-04,Despojos,subclase,Carne,74.906,1.2
 2020-04,Preparados de carne,subclase,Carne,76.43,3.0
 2020-04,Pescado y marisco,producto,,79.746,5.5
+2020-04,Pescado fresco o congelado,subclase,Pescado y marisco,79.645,9.3
 2020-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.642,2.7
 2020-04,Preparados de pescado,subclase,Pescado y marisco,78.231,3.2
 2020-04,Marisco fresco o congelado,subclase,Pescado y marisco,84.049,0.8
@@ -4602,6 +4726,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-05,Despojos,subclase,Carne,74.513,0.4
 2020-05,Preparados de carne,subclase,Carne,76.82,3.0
 2020-05,Pescado y marisco,producto,,77.883,1.7
+2020-05,Pescado fresco o congelado,subclase,Pescado y marisco,75.674,1.6
 2020-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.965,2.7
 2020-05,Preparados de pescado,subclase,Pescado y marisco,78.835,3.8
 2020-05,Marisco fresco o congelado,subclase,Pescado y marisco,83.439,-0.4
@@ -4669,6 +4794,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-06,Despojos,subclase,Carne,74.46,0.4
 2020-06,Preparados de carne,subclase,Carne,76.736,3.1
 2020-06,Pescado y marisco,producto,,77.781,2.5
+2020-06,Pescado fresco o congelado,subclase,Pescado y marisco,75.461,3.4
 2020-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.658,2.3
 2020-06,Preparados de pescado,subclase,Pescado y marisco,78.744,3.1
 2020-06,Marisco fresco o congelado,subclase,Pescado y marisco,83.71,0.1
@@ -4736,6 +4862,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-07,Despojos,subclase,Carne,75.196,1.2
 2020-07,Preparados de carne,subclase,Carne,76.889,3.1
 2020-07,Pescado y marisco,producto,,77.364,1.8
+2020-07,Pescado fresco o congelado,subclase,Pescado y marisco,74.808,1.9
 2020-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.679,2.1
 2020-07,Preparados de pescado,subclase,Pescado y marisco,77.846,2.5
 2020-07,Marisco fresco o congelado,subclase,Pescado y marisco,84.287,0.8
@@ -4803,6 +4930,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-08,Despojos,subclase,Carne,75.518,1.7
 2020-08,Preparados de carne,subclase,Carne,76.848,2.8
 2020-08,Pescado y marisco,producto,,78.033,1.7
+2020-08,Pescado fresco o congelado,subclase,Pescado y marisco,75.734,1.3
 2020-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.618,1.4
 2020-08,Preparados de pescado,subclase,Pescado y marisco,78.516,3.8
 2020-08,Marisco fresco o congelado,subclase,Pescado y marisco,84.625,0.7
@@ -4870,6 +4998,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-09,Despojos,subclase,Carne,75.625,1.7
 2020-09,Preparados de carne,subclase,Carne,76.835,2.5
 2020-09,Pescado y marisco,producto,,77.701,1.3
+2020-09,Pescado fresco o congelado,subclase,Pescado y marisco,75.603,1.5
 2020-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.554,1.1
 2020-09,Preparados de pescado,subclase,Pescado y marisco,77.911,1.4
 2020-09,Marisco fresco o congelado,subclase,Pescado y marisco,83.996,0.9
@@ -4937,6 +5066,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-10,Despojos,subclase,Carne,75.793,1.6
 2020-10,Preparados de carne,subclase,Carne,76.711,2.3
 2020-10,Pescado y marisco,producto,,77.632,1.4
+2020-10,Pescado fresco o congelado,subclase,Pescado y marisco,75.313,1.4
 2020-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.821,1.7
 2020-10,Preparados de pescado,subclase,Pescado y marisco,78.379,1.6
 2020-10,Marisco fresco o congelado,subclase,Pescado y marisco,83.6,1.1
@@ -5004,6 +5134,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-11,Despojos,subclase,Carne,75.872,1.5
 2020-11,Preparados de carne,subclase,Carne,76.606,2.6
 2020-11,Pescado y marisco,producto,,77.621,0.2
+2020-11,Pescado fresco o congelado,subclase,Pescado y marisco,75.708,-1.1
 2020-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.929,1.2
 2020-11,Preparados de pescado,subclase,Pescado y marisco,78.295,1.5
 2020-11,Marisco fresco o congelado,subclase,Pescado y marisco,82.772,1.2
@@ -5071,6 +5202,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2020-12,Despojos,subclase,Carne,76.245,1.8
 2020-12,Preparados de carne,subclase,Carne,76.959,1.9
 2020-12,Pescado y marisco,producto,,79.225,1.5
+2020-12,Pescado fresco o congelado,subclase,Pescado y marisco,78.841,1.4
 2020-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.839,1.2
 2020-12,Preparados de pescado,subclase,Pescado y marisco,78.276,1.9
 2020-12,Marisco fresco o congelado,subclase,Pescado y marisco,83.782,1.6
@@ -5138,6 +5270,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-01,Despojos,subclase,Carne,76.488,2.1
 2021-01,Preparados de carne,subclase,Carne,76.876,1.4
 2021-01,Pescado y marisco,producto,,80.898,1.3
+2021-01,Pescado fresco o congelado,subclase,Pescado y marisco,81.953,0.4
 2021-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,76.906,0.9
 2021-01,Preparados de pescado,subclase,Pescado y marisco,78.237,1.6
 2021-01,Marisco fresco o congelado,subclase,Pescado y marisco,84.707,3.3
@@ -5205,6 +5338,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-02,Despojos,subclase,Carne,76.795,2.2
 2021-02,Preparados de carne,subclase,Carne,76.708,1.5
 2021-02,Pescado y marisco,producto,,79.169,2.1
+2021-02,Pescado fresco o congelado,subclase,Pescado y marisco,78.283,2.1
 2021-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.621,1.0
 2021-02,Preparados de pescado,subclase,Pescado y marisco,78.387,1.3
 2021-02,Marisco fresco o congelado,subclase,Pescado y marisco,84.191,3.2
@@ -5272,6 +5406,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-03,Despojos,subclase,Carne,77.218,2.7
 2021-03,Preparados de carne,subclase,Carne,76.455,1.2
 2021-03,Pescado y marisco,producto,,78.146,-0.1
+2021-03,Pescado fresco o congelado,subclase,Pescado y marisco,76.026,-2.3
 2021-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,77.257,0.5
 2021-03,Preparados de pescado,subclase,Pescado y marisco,78.621,1.3
 2021-03,Marisco fresco o congelado,subclase,Pescado y marisco,84.192,2.5
@@ -5339,6 +5474,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-04,Despojos,subclase,Carne,77.585,3.6
 2021-04,Preparados de carne,subclase,Carne,77.452,1.3
 2021-04,Pescado y marisco,producto,,78.898,-1.1
+2021-04,Pescado fresco o congelado,subclase,Pescado y marisco,77.463,-2.7
 2021-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.257,0.8
 2021-04,Preparados de pescado,subclase,Pescado y marisco,78.199,0.0
 2021-04,Marisco fresco o congelado,subclase,Pescado y marisco,84.737,0.8
@@ -5406,6 +5542,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-05,Despojos,subclase,Carne,77.969,4.6
 2021-05,Preparados de carne,subclase,Carne,77.358,0.7
 2021-05,Pescado y marisco,producto,,78.72,1.1
+2021-05,Pescado fresco o congelado,subclase,Pescado y marisco,77.375,2.2
 2021-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.433,0.6
 2021-05,Preparados de pescado,subclase,Pescado y marisco,77.633,-1.5
 2021-05,Marisco fresco o congelado,subclase,Pescado y marisco,84.587,1.4
@@ -5473,6 +5610,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-06,Despojos,subclase,Carne,78.151,5.0
 2021-06,Preparados de carne,subclase,Carne,77.198,0.6
 2021-06,Pescado y marisco,producto,,78.903,1.4
+2021-06,Pescado fresco o congelado,subclase,Pescado y marisco,77.29,2.4
 2021-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.527,1.1
 2021-06,Preparados de pescado,subclase,Pescado y marisco,77.789,-1.2
 2021-06,Marisco fresco o congelado,subclase,Pescado y marisco,85.306,1.9
@@ -5540,6 +5678,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-07,Despojos,subclase,Carne,78.243,4.1
 2021-07,Preparados de carne,subclase,Carne,76.974,0.1
 2021-07,Pescado y marisco,producto,,79.252,2.4
+2021-07,Pescado fresco o congelado,subclase,Pescado y marisco,77.925,4.2
 2021-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.637,1.2
 2021-07,Preparados de pescado,subclase,Pescado y marisco,77.671,-0.2
 2021-07,Marisco fresco o congelado,subclase,Pescado y marisco,85.632,1.6
@@ -5607,6 +5746,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-08,Despojos,subclase,Carne,78.469,3.9
 2021-08,Preparados de carne,subclase,Carne,77.379,0.7
 2021-08,Pescado y marisco,producto,,79.397,1.7
+2021-08,Pescado fresco o congelado,subclase,Pescado y marisco,77.746,2.7
 2021-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.81,1.5
 2021-08,Preparados de pescado,subclase,Pescado y marisco,78.109,-0.5
 2021-08,Marisco fresco o congelado,subclase,Pescado y marisco,86.087,1.7
@@ -5674,6 +5814,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-09,Despojos,subclase,Carne,78.53,3.8
 2021-09,Preparados de carne,subclase,Carne,77.28,0.6
 2021-09,Pescado y marisco,producto,,78.892,1.5
+2021-09,Pescado fresco o congelado,subclase,Pescado y marisco,76.728,1.5
 2021-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.623,1.4
 2021-09,Preparados de pescado,subclase,Pescado y marisco,77.935,0.0
 2021-09,Marisco fresco o congelado,subclase,Pescado y marisco,86.015,2.4
@@ -5741,6 +5882,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-10,Despojos,subclase,Carne,78.378,3.4
 2021-10,Preparados de carne,subclase,Carne,77.036,0.4
 2021-10,Pescado y marisco,producto,,79.134,1.9
+2021-10,Pescado fresco o congelado,subclase,Pescado y marisco,76.967,2.2
 2021-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.469,0.8
 2021-10,Preparados de pescado,subclase,Pescado y marisco,78.325,-0.1
 2021-10,Marisco fresco o congelado,subclase,Pescado y marisco,86.142,3.0
@@ -5808,6 +5950,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-11,Despojos,subclase,Carne,79.25,4.5
 2021-11,Preparados de carne,subclase,Carne,77.848,1.6
 2021-11,Pescado y marisco,producto,,80.111,3.2
+2021-11,Pescado fresco o congelado,subclase,Pescado y marisco,78.864,4.2
 2021-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,79.601,2.1
 2021-11,Preparados de pescado,subclase,Pescado y marisco,78.609,0.4
 2021-11,Marisco fresco o congelado,subclase,Pescado y marisco,85.906,3.8
@@ -5875,6 +6018,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2021-12,Despojos,subclase,Carne,79.934,4.8
 2021-12,Preparados de carne,subclase,Carne,78.184,1.6
 2021-12,Pescado y marisco,producto,,82.753,4.5
+2021-12,Pescado fresco o congelado,subclase,Pescado y marisco,83.556,6.0
 2021-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.67,2.4
 2021-12,Preparados de pescado,subclase,Pescado y marisco,78.944,0.9
 2021-12,Marisco fresco o congelado,subclase,Pescado y marisco,87.758,4.7
@@ -5942,6 +6086,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-01,Despojos,subclase,Carne,79.932,4.5
 2022-01,Preparados de carne,subclase,Carne,78.206,1.7
 2022-01,Pescado y marisco,producto,,84.427,4.4
+2022-01,Pescado fresco o congelado,subclase,Pescado y marisco,86.478,5.5
 2022-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,78.609,2.2
 2022-01,Preparados de pescado,subclase,Pescado y marisco,79.691,1.9
 2022-01,Marisco fresco o congelado,subclase,Pescado y marisco,88.486,4.5
@@ -6009,6 +6154,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-02,Despojos,subclase,Carne,80.144,4.4
 2022-02,Preparados de carne,subclase,Carne,78.723,2.6
 2022-02,Pescado y marisco,producto,,82.556,4.3
+2022-02,Pescado fresco o congelado,subclase,Pescado y marisco,81.423,4.0
 2022-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,80.314,3.5
 2022-02,Preparados de pescado,subclase,Pescado y marisco,81.606,4.1
 2022-02,Marisco fresco o congelado,subclase,Pescado y marisco,87.804,4.3
@@ -6076,6 +6222,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-03,Despojos,subclase,Carne,81.075,5.0
 2022-03,Preparados de carne,subclase,Carne,79.647,4.2
 2022-03,Pescado y marisco,producto,,84.085,7.6
+2022-03,Pescado fresco o congelado,subclase,Pescado y marisco,83.68,10.1
 2022-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,81.363,5.3
 2022-03,Preparados de pescado,subclase,Pescado y marisco,82.043,4.4
 2022-03,Marisco fresco o congelado,subclase,Pescado y marisco,89.262,6.0
@@ -6143,6 +6290,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-04,Despojos,subclase,Carne,83.202,7.2
 2022-04,Preparados de carne,subclase,Carne,82.06,5.9
 2022-04,Pescado y marisco,producto,,85.461,8.3
+2022-04,Pescado fresco o congelado,subclase,Pescado y marisco,84.464,9.0
 2022-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,83.887,7.2
 2022-04,Preparados de pescado,subclase,Pescado y marisco,84.282,7.8
 2022-04,Marisco fresco o congelado,subclase,Pescado y marisco,90.613,6.9
@@ -6210,6 +6358,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-05,Despojos,subclase,Carne,83.706,7.4
 2022-05,Preparados de carne,subclase,Carne,84.247,8.9
 2022-05,Pescado y marisco,producto,,86.615,10.0
+2022-05,Pescado fresco o congelado,subclase,Pescado y marisco,85.878,11.0
 2022-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,84.752,8.1
 2022-05,Preparados de pescado,subclase,Pescado y marisco,85.452,10.1
 2022-05,Marisco fresco o congelado,subclase,Pescado y marisco,91.3,7.9
@@ -6277,6 +6426,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-06,Despojos,subclase,Carne,83.834,7.3
 2022-06,Preparados de carne,subclase,Carne,85.23,10.4
 2022-06,Pescado y marisco,producto,,87.019,10.3
+2022-06,Pescado fresco o congelado,subclase,Pescado y marisco,85.583,10.7
 2022-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,86.224,9.8
 2022-06,Preparados de pescado,subclase,Pescado y marisco,86.257,10.9
 2022-06,Marisco fresco o congelado,subclase,Pescado y marisco,92.627,8.6
@@ -6344,6 +6494,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-07,Despojos,subclase,Carne,84.175,7.6
 2022-07,Preparados de carne,subclase,Carne,86.639,12.6
 2022-07,Pescado y marisco,producto,,87.792,10.8
+2022-07,Pescado fresco o congelado,subclase,Pescado y marisco,86.773,11.4
 2022-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,86.903,10.5
 2022-07,Preparados de pescado,subclase,Pescado y marisco,86.517,11.4
 2022-07,Marisco fresco o congelado,subclase,Pescado y marisco,93.133,8.8
@@ -6411,6 +6562,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-08,Despojos,subclase,Carne,84.774,8.0
 2022-08,Preparados de carne,subclase,Carne,87.351,12.9
 2022-08,Pescado y marisco,producto,,87.748,10.5
+2022-08,Pescado fresco o congelado,subclase,Pescado y marisco,85.41,9.9
 2022-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,87.878,11.5
 2022-08,Preparados de pescado,subclase,Pescado y marisco,88.04,12.7
 2022-08,Marisco fresco o congelado,subclase,Pescado y marisco,93.838,9.0
@@ -6478,6 +6630,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-09,Despojos,subclase,Carne,84.52,7.6
 2022-09,Preparados de carne,subclase,Carne,87.632,13.4
 2022-09,Pescado y marisco,producto,,87.547,11.0
+2022-09,Pescado fresco o congelado,subclase,Pescado y marisco,84.869,10.6
 2022-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,88.413,12.5
 2022-09,Preparados de pescado,subclase,Pescado y marisco,87.93,12.8
 2022-09,Marisco fresco o congelado,subclase,Pescado y marisco,93.828,9.1
@@ -6545,6 +6698,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-10,Despojos,subclase,Carne,84.917,8.3
 2022-10,Preparados de carne,subclase,Carne,88.464,14.8
 2022-10,Pescado y marisco,producto,,88.311,11.6
+2022-10,Pescado fresco o congelado,subclase,Pescado y marisco,85.563,11.2
 2022-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,88.737,13.1
 2022-10,Preparados de pescado,subclase,Pescado y marisco,89.584,14.4
 2022-10,Marisco fresco o congelado,subclase,Pescado y marisco,93.596,8.7
@@ -6612,6 +6766,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-11,Despojos,subclase,Carne,85.935,8.4
 2022-11,Preparados de carne,subclase,Carne,89.905,15.5
 2022-11,Pescado y marisco,producto,,89.529,11.8
+2022-11,Pescado fresco o congelado,subclase,Pescado y marisco,87.435,10.9
 2022-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,89.907,12.9
 2022-11,Preparados de pescado,subclase,Pescado y marisco,90.699,15.4
 2022-11,Marisco fresco o congelado,subclase,Pescado y marisco,93.575,8.9
@@ -6679,6 +6834,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2022-12,Despojos,subclase,Carne,86.86,8.7
 2022-12,Preparados de carne,subclase,Carne,90.972,16.4
 2022-12,Pescado y marisco,producto,,91.228,10.2
+2022-12,Pescado fresco o congelado,subclase,Pescado y marisco,90.289,8.1
 2022-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,89.174,13.4
 2022-12,Preparados de pescado,subclase,Pescado y marisco,91.687,16.1
 2022-12,Marisco fresco o congelado,subclase,Pescado y marisco,94.277,7.4
@@ -6746,6 +6902,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-01,Despojos,subclase,Carne,87.172,9.1
 2023-01,Preparados de carne,subclase,Carne,91.858,17.5
 2023-01,Pescado y marisco,producto,,93.15,10.3
+2023-01,Pescado fresco o congelado,subclase,Pescado y marisco,93.868,8.5
 2023-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,90.267,14.8
 2023-01,Preparados de pescado,subclase,Pescado y marisco,91.885,15.3
 2023-01,Marisco fresco o congelado,subclase,Pescado y marisco,94.656,7.0
@@ -6813,6 +6970,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-02,Despojos,subclase,Carne,88.112,9.9
 2023-02,Preparados de carne,subclase,Carne,92.913,18.0
 2023-02,Pescado y marisco,producto,,91.549,10.9
+2023-02,Pescado fresco o congelado,subclase,Pescado y marisco,89.515,9.9
 2023-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,94.436,17.6
 2023-02,Preparados de pescado,subclase,Pescado y marisco,92.866,13.8
 2023-02,Marisco fresco o congelado,subclase,Pescado y marisco,94.318,7.4
@@ -6880,6 +7038,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-03,Despojos,subclase,Carne,89.316,10.2
 2023-03,Preparados de carne,subclase,Carne,93.471,17.4
 2023-03,Pescado y marisco,producto,,92.127,9.6
+2023-03,Pescado fresco o congelado,subclase,Pescado y marisco,89.708,7.2
 2023-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,95.439,17.3
 2023-03,Preparados de pescado,subclase,Pescado y marisco,93.815,14.3
 2023-03,Marisco fresco o congelado,subclase,Pescado y marisco,95.184,6.6
@@ -6947,6 +7106,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-04,Despojos,subclase,Carne,89.757,7.9
 2023-04,Preparados de carne,subclase,Carne,94.372,15.0
 2023-04,Pescado y marisco,producto,,93.431,9.3
+2023-04,Pescado fresco o congelado,subclase,Pescado y marisco,91.375,8.2
 2023-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,97.03,15.7
 2023-04,Preparados de pescado,subclase,Pescado y marisco,94.994,12.7
 2023-04,Marisco fresco o congelado,subclase,Pescado y marisco,95.712,5.6
@@ -7014,6 +7174,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-05,Despojos,subclase,Carne,90.002,7.5
 2023-05,Preparados de carne,subclase,Carne,94.751,12.5
 2023-05,Pescado y marisco,producto,,92.58,6.9
+2023-05,Pescado fresco o congelado,subclase,Pescado y marisco,88.952,3.6
 2023-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.229,15.9
 2023-05,Preparados de pescado,subclase,Pescado y marisco,95.59,11.9
 2023-05,Marisco fresco o congelado,subclase,Pescado y marisco,96.107,5.3
@@ -7081,6 +7242,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-06,Despojos,subclase,Carne,90.586,8.1
 2023-06,Preparados de carne,subclase,Carne,95.164,11.7
 2023-06,Pescado y marisco,producto,,92.634,6.5
+2023-06,Pescado fresco o congelado,subclase,Pescado y marisco,89.039,4.0
 2023-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.06,13.7
 2023-06,Preparados de pescado,subclase,Pescado y marisco,95.547,10.8
 2023-06,Marisco fresco o congelado,subclase,Pescado y marisco,96.636,4.3
@@ -7148,6 +7310,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-07,Despojos,subclase,Carne,91.034,8.1
 2023-07,Preparados de carne,subclase,Carne,95.197,9.9
 2023-07,Pescado y marisco,producto,,93.178,6.1
+2023-07,Pescado fresco o congelado,subclase,Pescado y marisco,90.107,3.8
 2023-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.101,12.9
 2023-07,Preparados de pescado,subclase,Pescado y marisco,95.145,10.0
 2023-07,Marisco fresco o congelado,subclase,Pescado y marisco,97.237,4.4
@@ -7215,6 +7378,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-08,Despojos,subclase,Carne,90.849,7.2
 2023-08,Preparados de carne,subclase,Carne,94.543,8.2
 2023-08,Pescado y marisco,producto,,93.83,6.9
+2023-08,Pescado fresco o congelado,subclase,Pescado y marisco,90.741,6.2
 2023-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.531,12.1
 2023-08,Preparados de pescado,subclase,Pescado y marisco,96.307,9.4
 2023-08,Marisco fresco o congelado,subclase,Pescado y marisco,97.274,3.7
@@ -7282,6 +7446,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-09,Despojos,subclase,Carne,90.703,7.3
 2023-09,Preparados de carne,subclase,Carne,94.727,8.1
 2023-09,Pescado y marisco,producto,,93.627,6.9
+2023-09,Pescado fresco o congelado,subclase,Pescado y marisco,90.525,6.7
 2023-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.192,11.1
 2023-09,Preparados de pescado,subclase,Pescado y marisco,96.728,10.0
 2023-09,Marisco fresco o congelado,subclase,Pescado y marisco,96.187,2.5
@@ -7349,6 +7514,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-10,Despojos,subclase,Carne,91.28,7.5
 2023-10,Preparados de carne,subclase,Carne,95.164,7.6
 2023-10,Pescado y marisco,producto,,94.147,6.6
+2023-10,Pescado fresco o congelado,subclase,Pescado y marisco,91.453,6.9
 2023-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,97.907,10.3
 2023-10,Preparados de pescado,subclase,Pescado y marisco,97.608,9.0
 2023-10,Marisco fresco o congelado,subclase,Pescado y marisco,95.171,1.7
@@ -7416,6 +7582,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-11,Despojos,subclase,Carne,91.534,6.5
 2023-11,Preparados de carne,subclase,Carne,95.013,5.7
 2023-11,Pescado y marisco,producto,,94.786,5.9
+2023-11,Pescado fresco o congelado,subclase,Pescado y marisco,92.864,6.2
 2023-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.683,9.8
 2023-11,Preparados de pescado,subclase,Pescado y marisco,97.095,7.1
 2023-11,Marisco fresco o congelado,subclase,Pescado y marisco,95.644,2.2
@@ -7483,6 +7650,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2023-12,Despojos,subclase,Carne,92.416,6.4
 2023-12,Preparados de carne,subclase,Carne,95.197,4.6
 2023-12,Pescado y marisco,producto,,95.462,4.6
+2023-12,Pescado fresco o congelado,subclase,Pescado y marisco,93.995,4.1
 2023-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,96.649,8.4
 2023-12,Preparados de pescado,subclase,Pescado y marisco,97.866,6.7
 2023-12,Marisco fresco o congelado,subclase,Pescado y marisco,95.635,1.4
@@ -7550,6 +7718,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-01,Despojos,subclase,Carne,92.544,6.2
 2024-01,Preparados de carne,subclase,Carne,94.773,3.2
 2024-01,Pescado y marisco,producto,,97.489,4.7
+2024-01,Pescado fresco o congelado,subclase,Pescado y marisco,98.113,4.5
 2024-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,96.753,7.2
 2024-01,Preparados de pescado,subclase,Pescado y marisco,97.705,6.3
 2024-01,Marisco fresco o congelado,subclase,Pescado y marisco,96.565,2.0
@@ -7617,6 +7786,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-02,Despojos,subclase,Carne,92.9,5.4
 2024-02,Preparados de carne,subclase,Carne,95.335,2.6
 2024-02,Pescado y marisco,producto,,96.277,5.2
+2024-02,Pescado fresco o congelado,subclase,Pescado y marisco,95.522,6.7
 2024-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.349,4.1
 2024-02,Preparados de pescado,subclase,Pescado y marisco,97.82,5.3
 2024-02,Marisco fresco o congelado,subclase,Pescado y marisco,95.586,1.3
@@ -7684,6 +7854,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-03,Despojos,subclase,Carne,92.922,4.0
 2024-03,Preparados de carne,subclase,Carne,95.13,1.8
 2024-03,Pescado y marisco,producto,,96.38,4.6
+2024-03,Pescado fresco o congelado,subclase,Pescado y marisco,95.477,6.4
 2024-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.099,2.8
 2024-03,Preparados de pescado,subclase,Pescado y marisco,97.835,4.3
 2024-03,Marisco fresco o congelado,subclase,Pescado y marisco,96.313,1.2
@@ -7751,6 +7922,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-04,Despojos,subclase,Carne,92.936,3.5
 2024-04,Preparados de carne,subclase,Carne,95.454,1.1
 2024-04,Pescado y marisco,producto,,97.171,4.0
+2024-04,Pescado fresco o congelado,subclase,Pescado y marisco,96.211,5.3
 2024-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,97.719,0.7
 2024-04,Preparados de pescado,subclase,Pescado y marisco,99.405,4.6
 2024-04,Marisco fresco o congelado,subclase,Pescado y marisco,96.442,0.8
@@ -7818,6 +7990,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-05,Despojos,subclase,Carne,92.703,3.0
 2024-05,Preparados de carne,subclase,Carne,95.419,0.7
 2024-05,Pescado y marisco,producto,,96.331,4.1
+2024-05,Pescado fresco o congelado,subclase,Pescado y marisco,94.259,6.0
 2024-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.546,0.3
 2024-05,Preparados de pescado,subclase,Pescado y marisco,99.217,3.8
 2024-05,Marisco fresco o congelado,subclase,Pescado y marisco,96.75,0.7
@@ -7885,6 +8058,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-06,Despojos,subclase,Carne,93.018,2.7
 2024-06,Preparados de carne,subclase,Carne,95.518,0.4
 2024-06,Pescado y marisco,producto,,95.859,3.5
+2024-06,Pescado fresco o congelado,subclase,Pescado y marisco,92.759,4.2
 2024-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.923,0.9
 2024-06,Preparados de pescado,subclase,Pescado y marisco,99.851,4.5
 2024-06,Marisco fresco o congelado,subclase,Pescado y marisco,96.818,0.2
@@ -7952,6 +8126,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-07,Despojos,subclase,Carne,93.083,2.3
 2024-07,Preparados de carne,subclase,Carne,95.717,0.5
 2024-07,Pescado y marisco,producto,,95.464,2.5
+2024-07,Pescado fresco o congelado,subclase,Pescado y marisco,92.197,2.3
 2024-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.469,0.4
 2024-07,Preparados de pescado,subclase,Pescado y marisco,99.153,4.2
 2024-07,Marisco fresco o congelado,subclase,Pescado y marisco,97.439,0.2
@@ -8019,6 +8194,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-08,Despojos,subclase,Carne,93.307,2.7
 2024-08,Preparados de carne,subclase,Carne,95.421,0.9
 2024-08,Pescado y marisco,producto,,95.851,2.2
+2024-08,Pescado fresco o congelado,subclase,Pescado y marisco,92.36,1.8
 2024-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.437,0.9
 2024-08,Preparados de pescado,subclase,Pescado y marisco,100.014,3.8
 2024-08,Marisco fresco o congelado,subclase,Pescado y marisco,97.381,0.1
@@ -8086,6 +8262,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-09,Despojos,subclase,Carne,93.393,3.0
 2024-09,Preparados de carne,subclase,Carne,95.737,1.1
 2024-09,Pescado y marisco,producto,,96.232,2.8
+2024-09,Pescado fresco o congelado,subclase,Pescado y marisco,94.056,3.9
 2024-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.193,1.0
 2024-09,Preparados de pescado,subclase,Pescado y marisco,98.741,2.1
 2024-09,Marisco fresco o congelado,subclase,Pescado y marisco,97.272,1.1
@@ -8153,6 +8330,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-10,Despojos,subclase,Carne,93.964,2.9
 2024-10,Preparados de carne,subclase,Carne,96.116,1.0
 2024-10,Pescado y marisco,producto,,97.186,3.2
+2024-10,Pescado fresco o congelado,subclase,Pescado y marisco,95.407,4.3
 2024-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.328,0.4
 2024-10,Preparados de pescado,subclase,Pescado y marisco,100.122,2.6
 2024-10,Marisco fresco o congelado,subclase,Pescado y marisco,97.251,2.2
@@ -8220,6 +8398,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-11,Despojos,subclase,Carne,95.332,4.1
 2024-11,Preparados de carne,subclase,Carne,97.418,2.5
 2024-11,Pescado y marisco,producto,,96.888,2.2
+2024-11,Pescado fresco o congelado,subclase,Pescado y marisco,94.867,2.2
 2024-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.018,0.3
 2024-11,Preparados de pescado,subclase,Pescado y marisco,100.097,3.1
 2024-11,Marisco fresco o congelado,subclase,Pescado y marisco,96.665,1.1
@@ -8287,6 +8466,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2024-12,Despojos,subclase,Carne,96.496,4.4
 2024-12,Preparados de carne,subclase,Carne,96.971,1.9
 2024-12,Pescado y marisco,producto,,100.16,4.9
+2024-12,Pescado fresco o congelado,subclase,Pescado y marisco,102.075,8.6
 2024-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,97.927,1.3
 2024-12,Preparados de pescado,subclase,Pescado y marisco,99.456,1.6
 2024-12,Marisco fresco o congelado,subclase,Pescado y marisco,97.896,2.4
@@ -8354,6 +8534,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-01,Despojos,subclase,Carne,97.09,4.9
 2025-01,Preparados de carne,subclase,Carne,97.692,3.1
 2025-01,Pescado y marisco,producto,,101.4,4.0
+2025-01,Pescado fresco o congelado,subclase,Pescado y marisco,103.781,5.8
 2025-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.014,1.3
 2025-01,Preparados de pescado,subclase,Pescado y marisco,100.012,2.4
 2025-01,Marisco fresco o congelado,subclase,Pescado y marisco,99.362,2.9
@@ -8421,6 +8602,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-02,Despojos,subclase,Carne,97.375,4.8
 2025-02,Preparados de carne,subclase,Carne,97.892,2.7
 2025-02,Pescado y marisco,producto,,100.238,4.1
+2025-02,Pescado fresco o congelado,subclase,Pescado y marisco,101.24,6.0
 2025-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,98.876,0.5
 2025-02,Preparados de pescado,subclase,Pescado y marisco,100.295,2.5
 2025-02,Marisco fresco o congelado,subclase,Pescado y marisco,98.389,2.9
@@ -8488,6 +8670,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-03,Despojos,subclase,Carne,98.306,5.8
 2025-03,Preparados de carne,subclase,Carne,98.261,3.3
 2025-03,Pescado y marisco,producto,,98.822,2.5
+2025-03,Pescado fresco o congelado,subclase,Pescado y marisco,98.047,2.7
 2025-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.228,1.2
 2025-03,Preparados de pescado,subclase,Pescado y marisco,99.745,2.0
 2025-03,Marisco fresco o congelado,subclase,Pescado y marisco,99.087,2.9
@@ -8555,6 +8738,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-04,Despojos,subclase,Carne,98.194,5.7
 2025-04,Preparados de carne,subclase,Carne,98.568,3.3
 2025-04,Pescado y marisco,producto,,98.769,1.6
+2025-04,Pescado fresco o congelado,subclase,Pescado y marisco,97.694,1.5
 2025-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.408,1.7
 2025-04,Preparados de pescado,subclase,Pescado y marisco,100.156,0.8
 2025-04,Marisco fresco o congelado,subclase,Pescado y marisco,98.976,2.6
@@ -8622,6 +8806,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-05,Despojos,subclase,Carne,99.005,6.8
 2025-05,Preparados de carne,subclase,Carne,99.402,4.2
 2025-05,Pescado y marisco,producto,,98.495,2.2
+2025-05,Pescado fresco o congelado,subclase,Pescado y marisco,96.735,2.6
 2025-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.055,1.5
 2025-05,Preparados de pescado,subclase,Pescado y marisco,99.778,0.6
 2025-05,Marisco fresco o congelado,subclase,Pescado y marisco,99.869,3.2
@@ -8689,6 +8874,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-06,Despojos,subclase,Carne,99.569,7.0
 2025-06,Preparados de carne,subclase,Carne,99.998,4.7
 2025-06,Pescado y marisco,producto,,98.76,3.0
+2025-06,Pescado fresco o congelado,subclase,Pescado y marisco,96.973,4.5
 2025-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,99.956,1.0
 2025-06,Preparados de pescado,subclase,Pescado y marisco,100.181,0.3
 2025-06,Marisco fresco o congelado,subclase,Pescado y marisco,100.17,3.5
@@ -8756,6 +8942,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-07,Despojos,subclase,Carne,100.131,7.6
 2025-07,Preparados de carne,subclase,Carne,100.05,4.5
 2025-07,Pescado y marisco,producto,,98.876,3.6
+2025-07,Pescado fresco o congelado,subclase,Pescado y marisco,97.828,6.1
 2025-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.343,1.9
 2025-07,Preparados de pescado,subclase,Pescado y marisco,98.892,-0.3
 2025-07,Marisco fresco o congelado,subclase,Pescado y marisco,100.685,3.3
@@ -8823,6 +9010,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-08,Despojos,subclase,Carne,100.358,7.6
 2025-08,Preparados de carne,subclase,Carne,100.535,5.4
 2025-08,Pescado y marisco,producto,,99.337,3.6
+2025-08,Pescado fresco o congelado,subclase,Pescado y marisco,97.852,5.9
 2025-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.518,1.1
 2025-08,Preparados de pescado,subclase,Pescado y marisco,99.922,-0.1
 2025-08,Marisco fresco o congelado,subclase,Pescado y marisco,101.277,4.0
@@ -8890,6 +9078,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-09,Despojos,subclase,Carne,101.075,8.2
 2025-09,Preparados de carne,subclase,Carne,100.975,5.5
 2025-09,Pescado y marisco,producto,,100.745,4.7
+2025-09,Pescado fresco o congelado,subclase,Pescado y marisco,101.288,7.7
 2025-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.708,1.5
 2025-09,Preparados de pescado,subclase,Pescado y marisco,99.778,1.1
 2025-09,Marisco fresco o congelado,subclase,Pescado y marisco,101.113,3.9
@@ -8957,6 +9146,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-10,Despojos,subclase,Carne,101.558,8.1
 2025-10,Preparados de carne,subclase,Carne,101.616,5.7
 2025-10,Pescado y marisco,producto,,101.133,4.1
+2025-10,Pescado fresco o congelado,subclase,Pescado y marisco,102.133,7.1
 2025-10,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.56,2.3
 2025-10,Preparados de pescado,subclase,Pescado y marisco,100.453,0.3
 2025-10,Marisco fresco o congelado,subclase,Pescado y marisco,100.119,2.9
@@ -9024,6 +9214,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-11,Despojos,subclase,Carne,103.273,8.3
 2025-11,Preparados de carne,subclase,Carne,102.656,5.4
 2025-11,Pescado y marisco,producto,,101.236,4.5
+2025-11,Pescado fresco o congelado,subclase,Pescado y marisco,102.024,7.5
 2025-11,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,101.353,2.4
 2025-11,Preparados de pescado,subclase,Pescado y marisco,100.646,0.5
 2025-11,Marisco fresco o congelado,subclase,Pescado y marisco,100.232,3.7
@@ -9091,6 +9282,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2025-12,Despojos,subclase,Carne,104.065,7.8
 2025-12,Preparados de carne,subclase,Carne,102.356,5.6
 2025-12,Pescado y marisco,producto,,102.188,2.0
+2025-12,Pescado fresco o congelado,subclase,Pescado y marisco,104.405,2.3
 2025-12,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,100.981,3.1
 2025-12,Preparados de pescado,subclase,Pescado y marisco,100.141,0.7
 2025-12,Marisco fresco o congelado,subclase,Pescado y marisco,100.721,2.9
@@ -9158,6 +9350,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-01,Despojos,subclase,Carne,104.393,7.5
 2026-01,Preparados de carne,subclase,Carne,102.904,5.3
 2026-01,Pescado y marisco,producto,,104.058,2.6
+2026-01,Pescado fresco o congelado,subclase,Pescado y marisco,107.209,3.3
 2026-01,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,101.861,3.9
 2026-01,Preparados de pescado,subclase,Pescado y marisco,101.068,1.1
 2026-01,Marisco fresco o congelado,subclase,Pescado y marisco,101.905,2.6
@@ -9225,6 +9418,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-02,Despojos,subclase,Carne,105.077,7.9
 2026-02,Preparados de carne,subclase,Carne,102.986,5.2
 2026-02,Pescado y marisco,producto,,104.026,3.8
+2026-02,Pescado fresco o congelado,subclase,Pescado y marisco,106.811,5.5
 2026-02,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,102.693,3.9
 2026-02,Preparados de pescado,subclase,Pescado y marisco,101.095,0.8
 2026-02,Marisco fresco o congelado,subclase,Pescado y marisco,101.684,3.3
@@ -9292,6 +9486,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-03,Despojos,subclase,Carne,106.304,8.1
 2026-03,Preparados de carne,subclase,Carne,103.234,5.1
 2026-03,Pescado y marisco,producto,,103.149,4.4
+2026-03,Pescado fresco o congelado,subclase,Pescado y marisco,104.606,6.7
 2026-03,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,103.494,4.3
 2026-03,Preparados de pescado,subclase,Pescado y marisco,101.346,1.6
 2026-03,Marisco fresco o congelado,subclase,Pescado y marisco,101.39,2.3
@@ -9359,6 +9554,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-04,Despojos,subclase,Carne,106.636,8.6
 2026-04,Preparados de carne,subclase,Carne,103.277,4.8
 2026-04,Pescado y marisco,producto,,104.087,5.4
+2026-04,Pescado fresco o congelado,subclase,Pescado y marisco,106.23,8.7
 2026-04,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,104.161,4.8
 2026-04,Preparados de pescado,subclase,Pescado y marisco,101.281,1.1
 2026-04,Marisco fresco o congelado,subclase,Pescado y marisco,101.894,2.9
@@ -9426,6 +9622,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-05,Despojos,subclase,Carne,106.609,7.7
 2026-05,Preparados de carne,subclase,Carne,103.561,4.2
 2026-05,Pescado y marisco,producto,,104.344,5.9
+2026-05,Pescado fresco o congelado,subclase,Pescado y marisco,106.13,9.7
 2026-05,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,105.432,5.4
 2026-05,Preparados de pescado,subclase,Pescado y marisco,101.844,2.1
 2026-05,Marisco fresco o congelado,subclase,Pescado y marisco,101.99,2.1
@@ -9493,6 +9690,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-06,Despojos,subclase,Carne,106.767,7.2
 2026-06,Preparados de carne,subclase,Carne,103.119,3.1
 2026-06,Pescado y marisco,producto,,104.082,5.4
+2026-06,Pescado fresco o congelado,subclase,Pescado y marisco,105.506,8.8
 2026-06,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,105.335,5.4
 2026-06,Preparados de pescado,subclase,Pescado y marisco,101.758,1.6
 2026-06,Marisco fresco o congelado,subclase,Pescado y marisco,102.474,2.3
@@ -9560,6 +9758,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-07,Despojos,subclase,Carne,106.803,6.7
 2026-07,Preparados de carne,subclase,Carne,103.101,3.0
 2026-07,Pescado y marisco,producto,,103.841,5.0
+2026-07,Pescado fresco o congelado,subclase,Pescado y marisco,105.343,7.7
 2026-07,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,105.575,5.2
 2026-07,Preparados de pescado,subclase,Pescado y marisco,100.942,2.1
 2026-07,Marisco fresco o congelado,subclase,Pescado y marisco,102.646,1.9
@@ -9627,6 +9826,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-08,Despojos,subclase,Carne,106.988,6.6
 2026-08,Preparados de carne,subclase,Carne,103.38,2.8
 2026-08,Pescado y marisco,producto,,104.274,5.0
+2026-08,Pescado fresco o congelado,subclase,Pescado y marisco,105.462,7.8
 2026-08,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,106.279,5.7
 2026-08,Preparados de pescado,subclase,Pescado y marisco,102.094,2.2
 2026-08,Marisco fresco o congelado,subclase,Pescado y marisco,102.81,1.5
@@ -9694,6 +9894,7 @@ fecha,categoria,tipo,clase,indice,var_anual
 2026-09,Despojos,subclase,Carne,107.41,6.3
 2026-09,Preparados de carne,subclase,Carne,103.461,2.5
 2026-09,Pescado y marisco,producto,,104.24,3.5
+2026-09,Pescado fresco o congelado,subclase,Pescado y marisco,105.885,4.5
 2026-09,"Pescado seco, salado o ahumado",subclase,Pescado y marisco,106.296,5.5
 2026-09,Preparados de pescado,subclase,Pescado y marisco,101.431,1.7
 2026-09,Marisco fresco o congelado,subclase,Pescado y marisco,102.353,1.2
